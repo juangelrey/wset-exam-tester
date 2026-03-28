@@ -5,7 +5,8 @@
       "Bash(npm run:*)",
       "Bash(pnpm add:*)",
       "Bash(pnpm format:check)",
-      "Bash(pnpm lint:*)"
+      "Bash(pnpm lint:*)",
+      "Bash(node:*)"
     ]
   }
 }

@@ -1,0 +1,1302 @@
+[
+  {
+    "id": 81,
+    "category": "Wine Production",
+    "question": "What is malolactic fermentation (MLF)?",
+    "options": [
+      "The conversion of malic acid to lactic acid by bacteria",
+      "The conversion of citric acid to malic acid by yeast",
+      "The conversion of tartaric acid to lactic acid by bacteria",
+      "The conversion of glucose to ethanol by yeast"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Malolactic fermentation is a bacterial process in which lactic acid bacteria (primarily Oenococcus oeni) convert the sharper-tasting malic acid into the softer lactic acid, reducing wine acidity and adding complexity."
+  },
+  {
+    "id": 82,
+    "category": "Wine Production",
+    "question": "Which winemaking technique involves adding sugar to grape must before fermentation to increase potential alcohol?",
+    "options": [
+      "Acidification",
+      "Chaptalisation",
+      "Enrichment with grape concentrate",
+      "Fortification"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Chaptalisation, named after French chemist Jean-Antoine Chaptal, is the addition of sugar (typically beet or cane sugar) to grape must before or during fermentation to raise the potential alcohol level. It is regulated or banned in many warm-climate wine regions."
+  },
+  {
+    "id": 83,
+    "category": "Wine Production",
+    "question": "What is the purpose of fining in winemaking?",
+    "options": [
+      "To add flavour compounds to the wine",
+      "To remove unwanted particles and clarify the wine",
+      "To increase the alcohol content of the wine",
+      "To stabilise the wine against microbial spoilage"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fining involves adding a substance (such as bentonite, egg whites, isinglass, or casein) that attracts and binds to unwanted particles, proteins, or tannins, causing them to flocculate and settle out of the wine, improving clarity and stability."
+  },
+  {
+    "id": 84,
+    "category": "Wine Production",
+    "question": "What does 'lees aging' (sur lie) contribute to a wine?",
+    "options": [
+      "Higher levels of residual sugar",
+      "Increased colour extraction",
+      "Autolytic characters such as breadiness, creaminess, and complexity",
+      "Reduced levels of volatile acidity"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Aging wine on its lees (dead yeast cells and other sediment) allows autolysis — the breakdown of yeast cell walls — which releases compounds that contribute to breadiness, yeasty, creamy, and toasty characters. This is a key technique in Champagne and Muscadet production."
+  },
+  {
+    "id": 85,
+    "category": "Wine Production",
+    "question": "In carbonic maceration, what happens to the grapes?",
+    "options": [
+      "Grapes are crushed and fermented with extended skin contact",
+      "Whole uncrushed grapes ferment intracellularly in a CO₂-rich environment",
+      "Grapes are dried before fermentation to concentrate sugars",
+      "Frozen grapes are pressed to extract concentrated juice"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In carbonic maceration, whole uncrushed grape clusters are placed in a sealed vessel flooded with CO₂. Fermentation begins inside each individual berry (intracellular fermentation) before the grapes are eventually crushed. This produces wines low in tannin with vivid fruit and distinctive banana/kirsch aromas, characteristic of Beaujolais."
+  },
+  {
+    "id": 86,
+    "category": "Wine Production",
+    "question": "What is cold stabilisation in winemaking?",
+    "options": [
+      "Chilling wine to prevent malolactic fermentation",
+      "Chilling wine to encourage tartrate crystal precipitation before bottling",
+      "Fermenting at cold temperatures to preserve aromatics",
+      "Storing wine in cold cellars to slow oxidation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cold stabilisation involves chilling wine close to its freezing point (typically around -4°C) for one or more weeks so that potassium bitartrate (cream of tartar) crystals precipitate out in the tank rather than in the bottle. This prevents harmless but visually unappealing crystals forming after bottling."
+  },
+  {
+    "id": 87,
+    "category": "Wine Production",
+    "question": "What is the traditional method (méthode traditionnelle) of sparkling wine production?",
+    "options": [
+      "Secondary fermentation occurs in a large sealed tank",
+      "Secondary fermentation occurs in the individual bottle in which the wine is sold",
+      "The wine is carbonated by injection of CO₂",
+      "The wine undergoes partial fermentation stopped by fortification"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The traditional method involves adding a liqueur de tirage (sugar and yeast) to a still base wine, which is then bottled and sealed. Secondary fermentation occurs in bottle, producing CO₂ that dissolves into the wine. After aging on lees, the bottles are riddled, the lees are disgorged, and a dosage is added."
+  },
+  {
+    "id": 88,
+    "category": "Wine Production",
+    "question": "In the Charmat (tank) method for sparkling wine, where does the secondary fermentation take place?",
+    "options": [
+      "In individual bottles",
+      "In large pressurised stainless steel tanks",
+      "In oak barrels",
+      "In amphora"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In the Charmat (or tank/cuve close) method, the base wine undergoes secondary fermentation in large pressurised stainless steel tanks rather than individual bottles. The wine is then filtered under pressure and bottled. Prosecco DOC is the most famous example."
+  },
+  {
+    "id": 89,
+    "category": "Wine Production",
+    "question": "Which sparkling wine production method involves secondary fermentation in bottle but disgorgement into a tank before refiltering and bottling under pressure?",
+    "options": [
+      "Traditional method",
+      "Charmat method",
+      "Transfer method",
+      "Ancestral method"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The transfer method involves secondary fermentation in bottle (like the traditional method), but instead of individual riddling and disgorgement, the contents of all bottles are transferred into a pressurised tank, filtered to remove lees, then rebottled under pressure. This allows bottle fermentation character without the labour of individual disgorgement."
+  },
+  {
+    "id": 90,
+    "category": "Wine Production",
+    "question": "What is the saignée (bleeding) method for producing rosé wine?",
+    "options": [
+      "Blending small amounts of red wine into white wine",
+      "Brief skin contact of red grapes with white juice",
+      "Drawing off a portion of juice from a red wine fermentation to concentrate the red and make rosé from the bled-off juice",
+      "Pressing whole red grape clusters lightly to extract pink-coloured juice"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Saignée ('bleeding') involves drawing off (bleeding) a portion of free-run juice from a red wine maceration early in the process. This simultaneously concentrates the remaining red wine and produces a rosé from the bled-off juice. The rosé tends to have more colour and body than a direct-press rosé."
+  },
+  {
+    "id": 91,
+    "category": "Wine Production",
+    "question": "What distinguishes biodynamic viticulture from organic viticulture?",
+    "options": [
+      "Biodynamic viticulture prohibits all synthetic pesticides; organic allows some",
+      "Biodynamic viticulture follows a holistic philosophy treating the farm as a self-sustaining ecosystem, using specific preparations and a lunar calendar",
+      "Biodynamic viticulture allows the use of copper sulphate sprays; organic does not",
+      "Biodynamic viticulture focuses solely on reducing water usage"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Biodynamic viticulture, based on Rudolf Steiner's teachings, goes beyond organic farming by treating the vineyard as a self-contained ecosystem. It employs specific preparations (such as horn manure and horn silica), follows a sowing/planting/root/flower lunar calendar for farming tasks, and emphasises cosmic rhythms and soil vitality."
+  },
+  {
+    "id": 92,
+    "category": "Wine Production",
+    "question": "What is whole-bunch fermentation?",
+    "options": [
+      "Fermenting grapes without removing the seeds",
+      "Including whole, uncrushed grape clusters (with stems) in the fermentation vessel",
+      "Fermenting grapes in whole barrels without breaking them down",
+      "Fermenting a complete vineyard block's harvest together"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Whole-bunch fermentation involves placing whole, uncrushed grape clusters including their stems into the fermentation vessel. The stems can contribute structure, freshness, spice, and complexity but may also add green, herbaceous notes if not fully ripe. It is associated with Burgundian Pinot Noir and Syrah production."
+  },
+  {
+    "id": 93,
+    "category": "Wine Production",
+    "question": "What is the purpose of extended maceration in red wine production?",
+    "options": [
+      "To reduce colour extraction and tannin levels",
+      "To increase residual sugar in the finished wine",
+      "To extract greater tannin, colour, and complexity from grape skins",
+      "To encourage malolactic fermentation to complete more quickly"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Extended maceration (post-fermentation maceration) involves keeping the wine in contact with the grape skins for additional days or weeks after fermentation is complete. This extracts more tannin, anthocyanins (colour), and complex phenolic compounds, producing wines built for long aging."
+  },
+  {
+    "id": 94,
+    "category": "Wine Production",
+    "question": "What is bâtonnage in winemaking?",
+    "options": [
+      "The process of punching down the cap during red wine fermentation",
+      "Stirring the lees in barrel or tank to keep them in suspension and add richness",
+      "The riddling of Champagne bottles to move lees toward the neck",
+      "The filtering of wine through diatomaceous earth"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bâtonnage (lees stirring) involves periodically stirring the wine while it rests on its fine lees, using a bâton (stick) or mechanical stirrer. This keeps yeast cells in suspension, encourages autolysis, adds texture, richness, and mouthfeel, and is commonly used for barrel-fermented white wines such as white Burgundy."
+  },
+  {
+    "id": 95,
+    "category": "Wine Production",
+    "question": "Which of the following best describes reductive winemaking?",
+    "options": [
+      "Deliberately exposing wine to oxygen at multiple stages to develop complexity",
+      "Minimising oxygen exposure throughout production to preserve fresh fruit aromas and primary characteristics",
+      "Reducing the alcohol level of finished wine through vacuum distillation",
+      "Using reducing agents such as ascorbic acid to lower acidity"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Reductive winemaking involves minimising the wine's contact with oxygen at all stages — from harvest through bottling — to preserve fresh, primary fruit aromas and prevent oxidation. Techniques include early pressing, inert gas blanketing, early sulfur additions, and use of screwcaps."
+  },
+  {
+    "id": 96,
+    "category": "Wine Production",
+    "question": "What role does sulfur dioxide (SO₂) play in winemaking?",
+    "options": [
+      "It acts solely as a sweetening agent",
+      "It provides antioxidant and antimicrobial protection",
+      "It accelerates malolactic fermentation",
+      "It adds tannin structure to the wine"
+    ],
+    "correctAnswer": 1,
+    "explanation": "SO₂ (sulfur dioxide) is a critical tool in winemaking, acting both as an antioxidant (preventing oxidation) and an antimicrobial agent (inhibiting undesirable bacteria and wild yeasts). It has been used in winemaking for centuries and is added at various stages including harvest, fermentation, and bottling."
+  },
+  {
+    "id": 97,
+    "category": "Wine Production",
+    "question": "What is cold soaking (pre-fermentative maceration) intended to achieve in red winemaking?",
+    "options": [
+      "To reduce the alcohol content of the finished wine",
+      "To extract colour and aroma compounds from skins before alcoholic fermentation begins",
+      "To prevent malolactic fermentation from starting",
+      "To encourage the growth of lactic acid bacteria"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cold soaking involves holding crushed red grapes at low temperatures (typically 5–15°C) for several days before alcoholic fermentation begins. At these temperatures, yeast cannot ferment, but water-soluble colour compounds (anthocyanins) and aromatic compounds are extracted from the skins, potentially adding colour intensity and aromatic complexity."
+  },
+  {
+    "id": 98,
+    "category": "Wine Production",
+    "question": "What is punch-down (pigeage) in red wine fermentation?",
+    "options": [
+      "Pumping wine from the bottom of the tank over the cap of grape skins at the top",
+      "Manually or mechanically submerging the floating cap of grape skins back into the fermenting must",
+      "Adding water to dilute an over-concentrated must",
+      "Using a press to extract juice from the grape pomace"
+    ],
+    "correctAnswer": 1,
+    "explanation": "During red wine fermentation, CO₂ pushes grape skins to the surface, forming a cap (chapeau). Punch-down (pigeage) involves manually or mechanically breaking and submerging this cap back into the fermenting juice to extract colour, tannin, and flavour, and to prevent the cap from drying out or becoming a microbial risk."
+  },
+  {
+    "id": 99,
+    "category": "Wine Production",
+    "question": "How does pump-over (remontage) differ from punch-down in red wine production?",
+    "options": [
+      "Pump-over uses CO₂ to push the cap down; punch-down uses mechanical paddles",
+      "Pump-over draws wine from the bottom of the tank and sprays it over the top of the cap; punch-down physically submerges the cap",
+      "Pump-over removes wine from the tank entirely for aeration; punch-down keeps all wine in the tank",
+      "Pump-over is used only in barrel fermentation; punch-down only in tank fermentation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pump-over (remontage) involves drawing wine from a valve at the bottom of the tank and pumping it back over the top of the floating cap of grape skins. This wets and extracts from the cap without physically submerging it. In contrast, punch-down (pigeage) physically pushes the cap down into the liquid."
+  },
+  {
+    "id": 100,
+    "category": "Wine Production",
+    "question": "What is the impact of using new oak barrels on wine?",
+    "options": [
+      "New oak imparts no flavour — only neutral maturation benefits",
+      "New oak imparts vanilla, toast, spice, and coconut flavours and adds tannin",
+      "New oak primarily reduces tannin and adds freshness",
+      "New oak is used exclusively for white wines, not reds"
+    ],
+    "correctAnswer": 1,
+    "explanation": "New oak barrels impart significant flavour to wine including vanilla (vanillin), toast, spice (clove, cinnamon), coconut (from lactones), and caramel. They also add tannin from the wood and allow micro-oxygenation. The impact diminishes with each subsequent use; a barrel used three or more times is considered neutral."
+  },
+  {
+    "id": 101,
+    "category": "Wine Production",
+    "question": "What is micro-oxygenation (MOX) in winemaking?",
+    "options": [
+      "The deliberate introduction of tiny, controlled amounts of oxygen into wine to simulate barrel aging effects",
+      "The use of oxygen to strip aromas from wine before blending",
+      "The removal of dissolved oxygen from wine to prevent oxidation",
+      "A method of aerating wine just before bottling to stabilise colour"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Micro-oxygenation involves the controlled introduction of very small, precise doses of oxygen into wine, typically via a diffuser stone. It mimics the slow oxygen ingress of barrel aging, promoting tannin polymerisation and colour stabilisation, softening harshness, and improving structure — often used with wines aged in tank."
+  },
+  {
+    "id": 102,
+    "category": "Wine Production",
+    "question": "What is co-fermentation in winemaking?",
+    "options": [
+      "Fermenting two consecutive vintages together to add complexity",
+      "Fermenting two or more different grape varieties together in the same vessel",
+      "Simultaneously conducting alcoholic and malolactic fermentation",
+      "Using two separate yeast strains in the same fermentation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Co-fermentation (as opposed to blending post-fermentation) involves fermenting two or more different grape varieties together in the same vessel. A classic example is adding a small proportion of Viognier to Syrah in northern Rhône production (e.g., Côte-Rôtie), which stabilises colour and adds aromatic lift."
+  },
+  {
+    "id": 103,
+    "category": "Wine Production",
+    "question": "Which of the following statements about wild (ambient) yeast fermentation is correct?",
+    "options": [
+      "Wild yeast fermentations are faster and more predictable than commercial yeast fermentations",
+      "Wild yeasts found on grape skins and in the winery can create more complex, terroir-driven wines but carry higher risk of spoilage",
+      "Wild yeasts always produce lower alcohol wines than commercial yeasts",
+      "Wild yeast fermentations are prohibited under EU wine regulations"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Wild (or ambient/indigenous) yeasts naturally present on grape skins and in the winery environment can produce wines of greater complexity and regional character. However, they carry higher risks of stuck fermentation, volatile acidity, and off-flavours compared to inoculated commercial yeasts."
+  },
+  {
+    "id": 104,
+    "category": "Wine Production",
+    "question": "In the fortification of Port wine, when is grape spirit (aguardente) added?",
+    "options": [
+      "Before fermentation begins, to prevent any fermentation",
+      "During fermentation, when approximately half the sugar has been converted, to stop fermentation and retain sweetness",
+      "After fermentation is complete, to increase alcohol",
+      "Only during the aging process in barrel"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In Port production, high-strength grape spirit (aguardente, ~77% ABV) is added to the fermenting must when roughly half the sugars have been converted to alcohol — typically when the wine reaches about 6–9% ABV. This kills the yeast, stops fermentation, and retains significant residual sugar, resulting in a sweet fortified wine of approximately 19–22% ABV."
+  },
+  {
+    "id": 105,
+    "category": "Wine Production",
+    "question": "What is the purpose of filtering wine before bottling?",
+    "options": [
+      "To add aroma compounds to the wine",
+      "To remove microorganisms, particles, and sediment to achieve clarity and microbiological stability",
+      "To increase the concentration of flavour compounds",
+      "To reduce the wine's alcohol content"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Filtration removes suspended particles, yeast, bacteria, and other sediment from wine to achieve clarity and prevent spoilage after bottling. Types range from coarse pad filtration to sterile membrane filtration. Some winemakers choose not to filter (unfiltered wines) to preserve texture and complexity."
+  },
+  {
+    "id": 106,
+    "category": "Wine Production",
+    "question": "What is pétillant naturel (pét-nat)?",
+    "options": [
+      "A sparkling wine made by the ancestral method, bottled before primary fermentation is complete so it finishes in bottle",
+      "A sparkling wine produced by the Charmat method using natural (non-commercial) yeasts",
+      "A lightly sparkling wine produced by injecting CO₂ into still wine",
+      "A sparkling wine with no added sulfites, produced by the traditional method"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pétillant naturel (often called pét-nat) is produced by the ancestral method (méthode ancestrale), the oldest sparkling wine method. The wine is bottled before primary fermentation is complete; fermentation finishes in bottle, trapping CO₂. Wines are typically lightly sparkling, often cloudy (unfined and unfiltered), and may be sealed with a crown cap."
+  },
+  {
+    "id": 107,
+    "category": "Wine Production",
+    "question": "What is the key difference between a 225-litre Bordeaux barrique and a 500-litre puncheon in terms of wine aging?",
+    "options": [
+      "The puncheon imparts more oak flavour per litre of wine than the barrique",
+      "The barrique has a higher wood-to-wine ratio, imparting more oak flavour and allowing more oxygen ingress per litre",
+      "The puncheon is always made from American oak; the barrique from French oak",
+      "The barrique is used only for red wines; the puncheon only for white wines"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Smaller barrels have a greater surface area of wood relative to the volume of wine (higher wood-to-wine ratio). Therefore, a 225-litre barrique exposes wine to more oak flavour, tannin, and oxygen per litre than a larger 500-litre puncheon or 600-litre demi-muid. Larger formats provide gentler, slower maturation with less oak impact."
+  },
+  {
+    "id": 108,
+    "category": "Wine Production",
+    "question": "What happens during the blending process in winemaking?",
+    "options": [
+      "Different grape varieties, regions, or batches are combined to achieve a desired style, complexity, or consistency",
+      "Sugar is added to wine to adjust sweetness levels",
+      "Wine is blended with must to lower alcohol levels",
+      "Different vintages are blended in equal proportions to create a non-vintage product"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Blending (assemblage) is the process of combining wines from different grape varieties, parcels, vineyards, barrel types, or fermentation batches to achieve the desired flavour profile, complexity, balance, and/or consistency. In Champagne, blending across vintages and crus is fundamental to the non-vintage style."
+  },
+  {
+    "id": 109,
+    "category": "Wine Production",
+    "question": "Which rosé production method typically produces the most pale, delicate rosé wines?",
+    "options": [
+      "Saignée (bleeding)",
+      "Blending red and white wines",
+      "Direct pressing of red or black-skinned grapes",
+      "Extended maceration followed by rapid cooling"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Direct pressing involves pressing red or black-skinned grapes quickly with minimal skin contact, extracting only small amounts of colour pigment. The resulting juice is then fermented as a white wine. This produces the palest, most delicate rosé styles, typified by Provence rosé."
+  },
+  {
+    "id": 110,
+    "category": "Wine Production",
+    "question": "What is oxidative winemaking and which wine style is most closely associated with it?",
+    "options": [
+      "Fermenting wine in the absence of oxygen; associated with Champagne",
+      "Deliberately exposing wine to oxygen during aging to develop nutty, complex characters; associated with Sherry (particularly Amontillado and Oloroso)",
+      "Using oxygen-permeable membranes to micro-oxygenate wines; associated with Bordeaux reds",
+      "Aging wine in sealed stainless steel tanks; associated with Muscadet sur lie"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Oxidative winemaking deliberately exposes wine to oxygen during aging (e.g., in old barrels with ullage, or solera systems) to develop complex nutty, dried fruit, and savoury characteristics. Sherry styles like Amontillado and Oloroso are prime examples, as is Vin Jaune from Jura."
+  },
+  {
+    "id": 111,
+    "category": "Wine Production",
+    "question": "In sparkling wine production using the traditional method, what is the 'dosage'?",
+    "options": [
+      "The amount of yeast added at the tirage stage",
+      "A mixture of wine and sugar (liqueur d'expédition) added after disgorgement to adjust sweetness",
+      "The quantity of SO₂ added at bottling",
+      "The amount of grape spirit added during fortification"
+    ],
+    "correctAnswer": 1,
+    "explanation": "After disgorgement in the traditional method, a small volume of wine (lost during disgorgement) is replaced by the dosage — a mixture of reserve wine and sugar (liqueur d'expédition). The dosage determines the sweetness style: Brut Nature (no dosage or sugar), Extra Brut, Brut, Extra Dry, Dry (Sec), Demi-Sec, or Doux."
+  },
+  {
+    "id": 112,
+    "category": "Wine Production",
+    "question": "What is the primary purpose of SO₂ additions at harvest?",
+    "options": [
+      "To encourage the growth of selected commercial yeasts",
+      "To inhibit unwanted wild yeasts and bacteria and prevent oxidation of the must",
+      "To dissolve tartrate crystals in the must",
+      "To increase the pH of the must"
+    ],
+    "correctAnswer": 1,
+    "explanation": "SO₂ added at harvest acts as both an antioxidant (protecting the must from oxidation) and an antimicrobial agent (selectively inhibiting wild yeasts and undesirable bacteria). This gives added commercial yeasts, if used, a head start and helps protect the must before fermentation begins."
+  },
+  {
+    "id": 113,
+    "category": "Wine Production",
+    "question": "What is the solera system used in Sherry production?",
+    "options": [
+      "A dynamic system of fractional blending where wine from older barrels is refreshed with younger wine in a series of stages (criaderas)",
+      "A system of temperature-controlled fermentation used exclusively for Fino Sherry",
+      "A method of drying grapes on straw mats to concentrate sugars before pressing",
+      "A biological process in which flor yeast grows on the surface of the wine"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The solera system is a dynamic, multi-stage fractional blending system. The solera contains the oldest wine, from which portions are drawn for bottling. These are replenished from the first criadera (scale above), which in turn is replenished from the next, and so on up to the newest wine. This creates a consistent, complex house style that blends multiple vintages."
+  },
+  {
+    "id": 114,
+    "category": "Wine Production",
+    "question": "What is the Maillard reaction's significance in winemaking?",
+    "options": [
+      "It is the reaction between malic acid and bacteria during malolactic fermentation",
+      "It is the browning reaction between amino acids and sugars during barrel toasting and cooking of must that creates caramel and toasty flavour compounds",
+      "It describes the reaction of anthocyanins with tannins to stabilise colour in red wine",
+      "It is the enzymatic oxidation of phenols that causes white wines to brown"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Maillard reaction is a non-enzymatic browning reaction between amino acids and reducing sugars, occurring at high temperatures. In winemaking, it is relevant during barrel toasting (creating vanillin, furans, and caramelised notes in the wood) and in the heating of grape must for Madeira production, contributing roasted, caramel, and nutty characters."
+  },
+  {
+    "id": 115,
+    "category": "Wine Production",
+    "question": "What does the term 'free-run juice' refer to in winemaking?",
+    "options": [
+      "Juice produced by the first pressing of grapes under maximum pressure",
+      "Juice that flows freely from crushed grapes under gravity, before pressing",
+      "Juice extracted from the pomace after fermentation",
+      "Juice that has been freed from its lees by centrifugation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Free-run juice (jus de goutte) is the juice that flows naturally from crushed grapes under gravity without applying any mechanical pressure. It is generally considered the highest quality, most aromatic juice and is often kept separate from press wine (jus de presse), which is extracted by applying increasing pressure to the grape skins and pulp."
+  },
+  {
+    "id": 116,
+    "category": "Grape Varieties",
+    "question": "Which grape variety is the primary component of red Bordeaux blends and is known for its small, thick-skinned berries?",
+    "options": [
+      "Merlot",
+      "Cabernet Franc",
+      "Cabernet Sauvignon",
+      "Petit Verdot"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Cabernet Sauvignon is characterised by small, thick-skinned berries that give high tannin and colour. It is the dominant variety in left-bank Bordeaux (Médoc, Graves), producing wines with black fruit (blackcurrant, blackberry), cedar, tobacco, and firm tannins. It ripens late and thrives in well-drained, gravelly soils."
+  },
+  {
+    "id": 117,
+    "category": "Grape Varieties",
+    "question": "What are the typical primary aroma characteristics of Merlot?",
+    "options": [
+      "High tannin, blackcurrant, green pepper, and cedar",
+      "Plum, black cherry, chocolate, and velvety tannins",
+      "Savoury leather, earthy barnyard, and red berry",
+      "Intense black pepper, dark fruits, and smoked meat"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Merlot is characterised by softer, rounder tannins than Cabernet Sauvignon and aromas of plum, black cherry, chocolate, and fruitcake. It tends to be fuller in body with lower acidity. Merlot ripens earlier and thrives in cooler, clay-rich soils. It is the dominant variety in Pomerol and Saint-Émilion."
+  },
+  {
+    "id": 118,
+    "category": "Grape Varieties",
+    "question": "Pinot Noir is considered a thin-skinned grape variety. What are the winemaking implications of this?",
+    "options": [
+      "Wines have high tannin and deep colour, and the grape is easy to grow",
+      "Wines have low to medium tannin and lighter colour, and the grape is sensitive to disease and climate",
+      "Wines have high tannin but pale colour, making blending necessary",
+      "Wines have very high acidity but no tannin, requiring acidification"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pinot Noir's thin skins mean relatively low levels of anthocyanins (colour) and tannins, producing paler wines with lighter body. The thin skin also makes it susceptible to rot, disease, and sunburn, making it challenging to cultivate. It thrives in cool climates (Burgundy, Oregon, New Zealand) where it ripens slowly to develop complexity."
+  },
+  {
+    "id": 119,
+    "category": "Grape Varieties",
+    "question": "What distinguishes Syrah from Shiraz?",
+    "options": [
+      "They are different grape varieties — Syrah is from France, Shiraz from Australia",
+      "They are the same grape variety; 'Shiraz' is the name commonly used in Australia and South Africa",
+      "Shiraz is a crossing of Syrah and Viognier; Syrah is the pure variety",
+      "Syrah is used only for rosé; Shiraz only for red wine"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Syrah and Shiraz are the same grape variety (Vitis vinifera). The name 'Syrah' is used in France (Rhône Valley) and in many New World regions seeking a more restrained, savoury style. 'Shiraz' is the preferred name in Australia and South Africa, often associated with riper, fruit-forward styles. DNA profiling confirmed Syrah originated in the northern Rhône."
+  },
+  {
+    "id": 120,
+    "category": "Grape Varieties",
+    "question": "In which region is Grenache (Garnacha) typically the dominant variety in blended red wines?",
+    "options": [
+      "Burgundy, France",
+      "Barossa Valley, Australia",
+      "Southern Rhône Valley (e.g., Châteauneuf-du-Pape) and Rioja",
+      "Tuscany, Italy"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Grenache (Garnacha in Spain) is the dominant variety in southern Rhône blends including Châteauneuf-du-Pape, as well as a key variety in Rioja (Garnacha) and Priorat (Garnacha). It produces high-alcohol wines with red fruit (raspberry, strawberry), white pepper, and dried herb characters. It has thin skin, low tannin, and ripens late."
+  },
+  {
+    "id": 121,
+    "category": "Grape Varieties",
+    "question": "What is the Spanish name for Tempranillo, and what are its key aromatic characteristics?",
+    "options": [
+      "Tinto Fino; strawberry, leather, tobacco, and dried cherry",
+      "Garnacha; raspberry, white pepper, and herbal notes",
+      "Monastrell; blackberry, chocolate, and spice",
+      "Mencía; dark plum, floral, and mineral notes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tempranillo is known by various regional Spanish names including Tinto Fino (Ribera del Duero), Tinta Roriz (Portugal), and Ull de Llebre (Catalonia). Its typical aromas include strawberry, cherry, leather, tobacco, dried fig, and vanilla (from oak aging). It forms the backbone of Rioja Reserva and Gran Reserva wines."
+  },
+  {
+    "id": 122,
+    "category": "Grape Varieties",
+    "question": "What characteristic aroma compound is responsible for the distinctive tar and rose notes in wines made from Nebbiolo?",
+    "options": [
+      "Methoxypyrazines",
+      "Geraniol",
+      "Geranyl acetate and phenylethanol contribute rose; polyphenols and brett contribute tar",
+      "Rotundone"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Nebbiolo's hallmark 'tar and roses' character arises from a combination of compounds: floral aromas (including phenylethanol contributing rose-like notes) and the reductive, tarry notes from the wine's high tannin and acidity, phenolic compounds, and the reductive aging environment. Nebbiolo produces Italy's most age-worthy reds: Barolo and Barbaresco."
+  },
+  {
+    "id": 123,
+    "category": "Grape Varieties",
+    "question": "What is the main grape variety used to produce Chianti Classico?",
+    "options": [
+      "Montepulciano",
+      "Sangiovese",
+      "Barbera",
+      "Aglianico"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sangiovese is the primary grape of Chianti Classico (minimum 80% required by DOCG regulations). It produces wines with high acidity, firm tannin, and aromas of cherry, plum, leather, dried herbs, and tomato leaf. Clone selection is important; Brunello di Montalcino is made from Sangiovese Grosso (Brunello clone), producing more powerful, age-worthy wines."
+  },
+  {
+    "id": 124,
+    "category": "Grape Varieties",
+    "question": "In which South American country did Malbec find its most celebrated expression?",
+    "options": [
+      "Chile",
+      "Brazil",
+      "Argentina",
+      "Uruguay"
+    ],
+    "correctAnswer": 2,
+    "explanation": "While Malbec originated in Cahors, France (where it is known as Côt or Auxerrois), it flourished in Argentina — particularly in Mendoza — where the high-altitude vineyards (up to 1,500m+) produce deeply coloured, fruit-forward wines with plum, violet, dark chocolate, and velvety tannins. Argentina is now the world's most important producer of varietal Malbec."
+  },
+  {
+    "id": 125,
+    "category": "Grape Varieties",
+    "question": "What is Gamay's most famous wine region, and what style of wine does it typically produce?",
+    "options": [
+      "Burgundy; full-bodied, high-tannin wines for long aging",
+      "Beaujolais; light to medium-bodied, low-tannin wines with vivid red fruit aromas",
+      "Alsace; aromatic, off-dry white wines",
+      "Loire Valley; sparkling rosé wines"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Gamay (officially Gamay Noir à Jus Blanc) is the grape of Beaujolais, where it produces light to medium-bodied red wines with vivid aromas of red cherries, raspberries, and flowers. The wine tends to have low tannin, high acidity, and vibrant colour. Carbonic or semi-carbonic maceration is widely used, especially for Beaujolais Nouveau."
+  },
+  {
+    "id": 126,
+    "category": "Grape Varieties",
+    "question": "Which grape variety is commonly known as Mourvèdre in France and Monastrell in Spain?",
+    "options": [
+      "They are different varieties with similar names",
+      "Mourvèdre and Monastrell are the same grape variety",
+      "Mourvèdre is a French crossing of Grenache and Syrah",
+      "Monastrell is the Spanish name for Grenache"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mourvèdre (France, especially Bandol) and Monastrell (Spain, especially Jumilla, Yecla) are the same grape variety, also known as Mataro in Australia and California. It produces deeply coloured, full-bodied wines with dark fruit, game, leather, and earthy notes. It requires warm climates to ripen fully."
+  },
+  {
+    "id": 127,
+    "category": "Grape Varieties",
+    "question": "What is the genetic relationship between Zinfandel and Primitivo?",
+    "options": [
+      "Primitivo is a crossing of Zinfandel and Negroamaro",
+      "They are the same grape variety, originating from the Croatian variety Tribidrag/Crljenak Kaštelanski",
+      "Zinfandel is a mutation of Primitivo developed in California",
+      "They share 50% of their DNA but are classified as distinct varieties"
+    ],
+    "correctAnswer": 1,
+    "explanation": "DNA profiling has established that Zinfandel (California) and Primitivo (Puglia, Italy) are the same grape variety. Both were traced to the ancient Croatian variety Tribidrag (also called Crljenak Kaštelanski). Zinfandel produces everything from light rosé (White Zinfandel) to powerful, high-alcohol reds with blackberry, pepper, and jammy fruit."
+  },
+  {
+    "id": 128,
+    "category": "Grape Varieties",
+    "question": "Which climate does Chardonnay typically express its most mineral, lean styles in?",
+    "options": [
+      "Warm climates such as Margaret River, Australia",
+      "Hot climates such as Napa Valley, California",
+      "Cool climates such as Chablis, France",
+      "Mediterranean climates such as Sicily"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Chardonnay is a highly adaptable variety that expresses very different styles depending on climate. In cool climates like Chablis (northern Burgundy), it produces lean, high-acid wines with green apple, lemon, and pronounced mineral/chalky character. In warmer climates it produces richer wines with tropical fruit, butter, and oak-driven characteristics."
+  },
+  {
+    "id": 129,
+    "category": "Grape Varieties",
+    "question": "What compound is primarily responsible for the distinctive 'cat's pee' and 'gooseberry' aromas of Sauvignon Blanc?",
+    "options": [
+      "Rotundone",
+      "Linalool",
+      "Methoxypyrazines",
+      "Thiols (volatile sulfur compounds, particularly 4-MMP and 3-MH)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The characteristic aromas of Sauvignon Blanc — grapefruit, passion fruit, cut grass, gooseberry, and cat's pee — are primarily attributed to volatile thiols (mercaptans), particularly 4-mercapto-4-methylpentan-2-one (4-MMP) and 3-mercaptohexan-1-ol (3-MH). These sulfur-containing compounds are present as odourless precursors in the grape, released during fermentation by yeast activity."
+  },
+  {
+    "id": 130,
+    "category": "Grape Varieties",
+    "question": "What is the hallmark aroma profile of Riesling, and why can it develop a 'petrol' (kerosene) note with age?",
+    "options": [
+      "Tropical fruit and vanilla; petrol note comes from oak aging",
+      "Green apple, lime, slate minerality; petrol note develops from TDN (trimethyl-dihydronaphthalene) formed during bottle aging",
+      "Stone fruit and honeysuckle; petrol note is a sign of premature oxidation",
+      "Citrus and floral notes; petrol note comes from malolactic fermentation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Riesling's aromatic profile spans green apple, lime, slate, and floral characters in youth. With bottle age, a characteristic petrol or kerosene note develops, attributed to the formation of TDN (1,1,6-trimethyl-1,2-dihydronaphthalene), a chemical compound that forms from carotenoid degradation in grapes — particularly in sun-exposed vines and warm vintages."
+  },
+  {
+    "id": 131,
+    "category": "Grape Varieties",
+    "question": "What is the difference between Pinot Grigio and Pinot Gris?",
+    "options": [
+      "They are different grape varieties — Pinot Gris is from France, Pinot Grigio from Germany",
+      "They are the same grape variety but typically made in different styles: Pinot Grigio in a light, crisp Italian style; Pinot Gris in a richer Alsatian style",
+      "Pinot Grigio is a white wine; Pinot Gris is always an orange wine",
+      "Pinot Gris is a clone developed in Alsace; Pinot Grigio the original variety"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pinot Grigio and Pinot Gris are the same grape variety (a grey-skinned mutation of Pinot Noir). 'Pinot Grigio' refers to the Italian style — typically light-bodied, crisp, neutral, and dry — while 'Pinot Gris' typically refers to the Alsatian style — fuller-bodied, more aromatic, with stone fruit, honey, and sometimes off-dry or sweet expressions."
+  },
+  {
+    "id": 132,
+    "category": "Grape Varieties",
+    "question": "What is the signature aroma compound responsible for Gewürztraminer's distinctive lychee and rose character?",
+    "options": [
+      "Thiols",
+      "Methoxypyrazines",
+      "Cis-rose oxide and geraniol",
+      "Rotundone"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Gewürztraminer's intense lychee aroma is primarily due to cis-rose oxide, a terpene compound also found in lychee fruit. Geraniol and other terpenes contribute to the rose and floral characteristics. Gewürztraminer is highly aromatic, full-bodied, low in acidity, and often made in off-dry to sweet styles in Alsace."
+  },
+  {
+    "id": 133,
+    "category": "Grape Varieties",
+    "question": "Viognier is known for which distinctive aromatic profile and in which key French appellation is it legally required to produce red wine?",
+    "options": [
+      "Citrus and herbaceous; required in Sancerre",
+      "Peach, apricot, blossom, and Mayflower; permitted (up to 20%) in Côte-Rôtie (Syrah blend)",
+      "Tropical fruit and vanilla; required in Châteauneuf-du-Pape",
+      "Gooseberry and grass; used in Condrieu white wines exclusively"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Viognier is characterised by intense aromas of white peach, apricot, violets, and blossom. It produces Condrieu (a white wine) in the northern Rhône. Uniquely, up to 20% Viognier (white variety) is permitted to be co-fermented with Syrah in Côte-Rôtie red wine, where it stabilises colour and adds perfume."
+  },
+  {
+    "id": 134,
+    "category": "Grape Varieties",
+    "question": "Chenin Blanc is highly versatile. Which French Loire Valley appellation produces its most celebrated dry, age-worthy white wines?",
+    "options": [
+      "Muscadet",
+      "Sancerre",
+      "Savennières",
+      "Vouvray (dry style)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "While Chenin Blanc produces excellent wines across the Loire — from Vouvray (dry, sparkling, and sweet) to Quarts de Chaume and Bonnezeaux (sweet) — Savennières is considered the benchmark for dry, age-worthy Chenin Blanc. With extremely high acidity and mineral intensity, Savennières wines can age for decades. Chenin Blanc also thrives in South Africa (where it is the most planted variety)."
+  },
+  {
+    "id": 135,
+    "category": "Grape Varieties",
+    "question": "Sémillon is a key variety in Bordeaux white blends and in the production of which world-famous sweet wine?",
+    "options": [
+      "Tokaji Aszú",
+      "German Trockenbeerenauslese",
+      "Sauternes",
+      "Vino Santo"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sémillon (often blended with Sauvignon Blanc) is central to Sauternes production, where its thin skin makes it susceptible to Botrytis cinerea (noble rot), concentrating sugars, acid, and creating complex flavours of honey, apricot, and saffron. In its dry form it is a backbone of white Bordeaux and is also produced as a dry varietal wine in the Hunter Valley, Australia."
+  },
+  {
+    "id": 136,
+    "category": "Grape Varieties",
+    "question": "What is the most widely planted Muscat variety used in winemaking, and what is its key aromatic compound?",
+    "options": [
+      "Muscat Blanc à Petits Grains; linalool and other terpenes",
+      "Muscat of Alexandria; methoxypyrazines",
+      "Muscat Ottonel; rotundone",
+      "Muscat Hamburg; thiols"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Muscat Blanc à Petits Grains is considered the finest and most aromatic Muscat variety. Its distinctive grapey, floral, and orange blossom aromas are attributed to high concentrations of terpenes, particularly linalool, geraniol, and nerol. It is used for Asti DOCG, Muscat de Beaumes-de-Venise, and many fortified Muscat wines."
+  },
+  {
+    "id": 137,
+    "category": "Grape Varieties",
+    "question": "In which Spanish region is Albariño (Alvarinho in Portugal) primarily grown and what style of wine does it typically produce?",
+    "options": [
+      "Rioja; full-bodied, oaky white wines",
+      "Rías Baixas, Galicia; crisp, aromatic white wines with stone fruit, citrus, and saline mineral notes",
+      "Penedès; light sparkling wines used as a base for Cava",
+      "Jerez; dry, oxidatively aged white wines"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Albariño thrives in Rías Baixas (Galicia, northwestern Spain), where Atlantic influence creates cool, wet conditions ideal for this aromatic, high-acid variety. It produces fresh, aromatic white wines with peach, apricot, grapefruit, and a distinctive saline/mineral quality. In Portugal it is known as Alvarinho, a key variety in Vinho Verde."
+  },
+  {
+    "id": 138,
+    "category": "Grape Varieties",
+    "question": "What is the signature characteristic aroma descriptor used for Grüner Veltliner, Austria's flagship white variety?",
+    "options": [
+      "Lychee and rose petal",
+      "Gooseberry and cut grass",
+      "White pepper (from rotundone)",
+      "Petrol and slate"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Grüner Veltliner is characterised by a distinctive white pepper note attributed to rotundone, the same compound responsible for the peppery character of Syrah/Shiraz. It produces wines of varying richness — from light, peppery everyday styles to weighty, complex Smaragd-quality wines from the Wachau. Key regions include the Wachau, Kamptal, and Kremstal."
+  },
+  {
+    "id": 139,
+    "category": "Grape Varieties",
+    "question": "Torrontés is Argentina's most distinctive white grape. Which feature makes it unusual in the aromatic wine world?",
+    "options": [
+      "It has very low aromatic intensity despite being technically classified as aromatic",
+      "It displays highly aromatic floral and Muscat-like aromas but is typically made as a dry wine",
+      "Its aromas are dominated by vegetal and herbaceous notes similar to Sauvignon Blanc",
+      "It is a late-ripening variety requiring long hang time to develop aromatics"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Torrontés is Argentina's signature white grape, notable for its intensely floral, Muscat-like aromas (rose, geranium, peach blossom) that might suggest sweetness, but the wine is almost always made completely dry. The contrast between its aromatic exuberance and its dry palate is its defining characteristic. It is most successful in the high-altitude Salta region."
+  },
+  {
+    "id": 140,
+    "category": "Grape Varieties",
+    "question": "Verdejo is the principal white grape variety in which Spanish DO known for its fresh, aromatic whites?",
+    "options": [
+      "Rías Baixas",
+      "Rueda",
+      "Priorat",
+      "Valdepeñas"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Verdejo is the flagship grape of Rueda DO in Castilla y León, Spain. Historically used for oxidised, Sherry-style wines, the modern style (pioneered with Marqués de Riscal in the 1970s) is fresh, aromatic, and dry with herbal, anise, fennel, and citrus notes. It must constitute at least 50% in Rueda Verdejo wines."
+  },
+  {
+    "id": 141,
+    "category": "Grape Varieties",
+    "question": "Garganega is the primary grape in which famous Italian white wine DOC?",
+    "options": [
+      "Pinot Grigio delle Venezie",
+      "Gavi",
+      "Soave",
+      "Vermentino di Sardegna"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Garganega is the dominant grape variety (minimum 70%) in Soave DOC and Soave Classico DOCG in the Veneto, northeastern Italy. It produces wines with almond, white flower, lemon, and mineral notes. Recioto di Soave — a sweet version made from dried Garganega grapes — is also produced in the region."
+  },
+  {
+    "id": 142,
+    "category": "Grape Varieties",
+    "question": "What is Trebbiano's significance in Italian and French wine production?",
+    "options": [
+      "It is Italy's most planted red grape variety",
+      "It is one of Italy's most widely planted white varieties and is the same variety as Ugni Blanc, used in Cognac and Armagnac production in France",
+      "It is used exclusively for premium DOC wines in Tuscany",
+      "It is a high-quality aromatic variety celebrated for its complex flavours"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trebbiano (in Italy) and Ugni Blanc (in France) are the same grape variety. In Italy it is one of the most widely planted white varieties, used in wines from Soave to Orvieto to Frascati. In France, as Ugni Blanc, it is the dominant grape in Cognac and Armagnac — not for quality table wine but because its high acidity and neutral flavour make ideal base wine for distillation."
+  },
+  {
+    "id": 143,
+    "category": "Grape Varieties",
+    "question": "Marsanne and Roussanne are both white Rhône varieties. What general style differences exist between them?",
+    "options": [
+      "Marsanne is lighter, more floral, and higher in acidity; Roussanne is richer and heavier",
+      "Marsanne produces heavier, richer wines with almond and beeswax notes; Roussanne is more elegant, floral, and aromatic with higher acidity",
+      "Marsanne is only used in red wine blends; Roussanne only in white wines",
+      "They are different names for the same grape variety"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Marsanne produces full-bodied, low-acid wines with rich flavours of white peach, marzipan, and beeswax. Roussanne (called Bergeron in Savoie) is more aromatic with floral and herbal notes, higher acidity, and more delicate structure. Both are blended in northern Rhône whites (Saint-Joseph, Crozes-Hermitage, Hermitage) with Roussanne often preferred by winemakers for complexity despite lower yields."
+  },
+  {
+    "id": 144,
+    "category": "Grape Varieties",
+    "question": "What is Touriga Nacional's primary significance in Portuguese winemaking?",
+    "options": [
+      "It is Portugal's most planted table grape variety, used in everyday wine production",
+      "It is considered Portugal's finest red grape variety and is the most important variety in the production of Port wine",
+      "It is used exclusively to produce Vinho Verde in northern Portugal",
+      "It is a white variety used in the production of Madeira"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Touriga Nacional is widely considered Portugal's most noble red grape variety. It is the most prized variety in the Douro Valley, central to the production of Port wine and increasingly to dry red Douro wines. It produces small berries with thick skins, giving deeply coloured, highly tannic wines with intense floral (violet, rose), dark fruit, and dark chocolate characteristics."
+  },
+  {
+    "id": 145,
+    "category": "Grape Varieties",
+    "question": "Which grape variety is known to be late-ripening and is often associated with the aroma of black pepper due to the compound rotundone?",
+    "options": [
+      "Grenache",
+      "Syrah",
+      "Merlot",
+      "Cabernet Franc"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Syrah (Shiraz) is a late-ripening variety associated with pronounced black pepper aromas, attributed to rotundone — the same compound found in black pepper spice. Rotundone is more concentrated in cooler-climate Syrah (such as northern Rhône and cool-climate Australian regions) where the grape doesn't fully ripen into overtly fruity styles."
+  },
+  {
+    "id": 146,
+    "category": "Grape Varieties",
+    "question": "What are the key characteristics that distinguish Nebbiolo as a challenging grape to grow and vinify?",
+    "options": [
+      "It is thin-skinned, early ripening, and produces low-tannin wines",
+      "It is thick-skinned, late ripening, and produces wines with extremely high tannin and high acidity, requiring long aging",
+      "It is prone to coulure (poor fruit set) and produces very aromatic wines with low structure",
+      "It prefers hot climates and sandy soils, rarely succeeding outside Australia"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Nebbiolo is notoriously difficult: it buds early (frost-sensitive) and ripens late, requiring a long growing season in a specific microclimate. Its thick skins and small berries produce wines of exceptional tannin and high acidity. Young Barolo and Barbaresco can be almost undrinkably tannic without extended cellaring; traditionally they needed 10–20+ years to soften."
+  },
+  {
+    "id": 147,
+    "category": "Grape Varieties",
+    "question": "Which white grape variety from Galicia, Spain, produces wines with high acidity and distinctive peach, apricot, and saline mineral notes?",
+    "options": [
+      "Verdejo",
+      "Viura (Macabeo)",
+      "Albariño",
+      "Godello"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Albariño from Rías Baixas, Galicia is characterised by high acidity, aromatic intensity (peach, apricot, citrus), and a distinctive saline or briny mineral quality that reflects the Atlantic maritime influence of the region. It is typically vinified in stainless steel to preserve its fresh, primary character."
+  },
+  {
+    "id": 148,
+    "category": "Grape Varieties",
+    "question": "Which statement best describes Cabernet Franc's typical aromatic profile?",
+    "options": [
+      "Blackcurrant, cedar, and green pepper identical to Cabernet Sauvignon",
+      "Red fruits (raspberry, strawberry), violet, and a distinctive leafy or pencil shaving character with lower tannin than Cabernet Sauvignon",
+      "Dark plum, chocolate, and velvety tannins similar to Merlot",
+      "Tobacco, leather, and dried herbs with very high tannin and no fruit aromas"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cabernet Franc shares some DNA with Cabernet Sauvignon (it is a parent of Cabernet Sauvignon) but is typically lighter in body with lower tannin. Its aromatic profile includes red fruits (raspberry, red cherry), violet, and a distinctive leafy, herbal, or pencil-shaving character from methoxypyrazines. It is the dominant variety in Chinon and Bourgueil in the Loire and a key blending component in Bordeaux."
+  },
+  {
+    "id": 149,
+    "category": "Grape Varieties",
+    "question": "Where does Sangiovese achieve its most powerful and age-worthy expression outside Chianti?",
+    "options": [
+      "Amarone della Valpolicella",
+      "Brunello di Montalcino",
+      "Vino Nobile di Montepulciano",
+      "Barolo"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Brunello di Montalcino DOCG is made entirely from Sangiovese Grosso (the Brunello clone) and is considered one of Italy's greatest red wines. It must be aged a minimum of five years (six for Riserva), producing wines of enormous tannic structure, high acidity, and extraordinary aging potential — sometimes 30–50+ years. Vino Nobile di Montepulciano (minimum 70% Prugnolo Gentile — another Sangiovese clone) is also highly regarded."
+  },
+  {
+    "id": 150,
+    "category": "Grape Varieties",
+    "question": "What are the key attributes of Grenache that make it well-suited to hot, dry growing conditions?",
+    "options": [
+      "Thick skin resistant to sunburn, high natural acidity, and early ripening",
+      "Drought tolerance, high natural alcohol potential, thin skin, and late ripening",
+      "Low vigour, compact clusters resistant to disease, and moderate alcohol production",
+      "Strong resistance to phylloxera, so it can be grown on its own roots"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Grenache is well adapted to hot, dry Mediterranean climates due to its drought tolerance (deep roots), late ripening, and naturally high sugar accumulation that produces wines of high alcohol (often 14–16% ABV). Its thin skin means lower tannin and colour, and it is prone to oxidation, typically requiring blending partners (Syrah, Mourvèdre) for structure."
+  },
+  {
+    "id": 151,
+    "category": "Types of Wine",
+    "question": "What defines a wine as 'still' versus 'sparkling'?",
+    "options": [
+      "Still wines are always red; sparkling wines are always white or rosé",
+      "Still wines have no significant dissolved CO₂, whereas sparkling wines have CO₂ dissolved under pressure giving them effervescence",
+      "Still wines are bottled under screwcap; sparkling wines under cork",
+      "Still wines are always bone dry; sparkling wines always have residual sugar"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The distinction is based on CO₂ content. Still wines have no significant level of dissolved CO₂ (or very slight 'perlance' at most). Sparkling wines have CO₂ dissolved under pressure (minimum 3 bar for fully sparkling wines under EU regulations), which is released as bubbles when the bottle is opened."
+  },
+  {
+    "id": 152,
+    "category": "Types of Wine",
+    "question": "Champagne can only be produced in which region and using which permitted grape varieties?",
+    "options": [
+      "Burgundy; Pinot Noir and Chardonnay only",
+      "Champagne, France; primarily Pinot Noir, Pinot Meunier, and Chardonnay (plus smaller permitted varieties)",
+      "Any French region; Chardonnay, Pinot Gris, and Pinot Blanc",
+      "Champagne, France; only Chardonnay (Blanc de Blancs) and Pinot Noir (Blanc de Noirs)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Champagne is a geographically protected AOP in northeastern France. The three main permitted varieties are Pinot Noir, Pinot Meunier, and Chardonnay, though several additional varieties (including Arbane, Petit Meslier, Pinot Blanc, and Pinot Gris) are also technically permitted. The wine must be produced using the traditional method."
+  },
+  {
+    "id": 153,
+    "category": "Types of Wine",
+    "question": "What distinguishes Cava from Champagne in terms of production region and primary grape varieties?",
+    "options": [
+      "Both are produced in France; Cava uses Chardonnay, Champagne uses Macabeo",
+      "Cava is a Spanish sparkling wine produced primarily in Catalonia using the traditional method; primary grapes are Macabeo (Viura), Xarel·lo, and Parellada",
+      "Cava is produced using the Charmat method; Champagne uses the traditional method",
+      "Cava is always red; Champagne is always white"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cava is a Spanish DO sparkling wine, produced mainly in Penedès (Catalonia) but with production permitted in other regions. It uses the traditional (méthode traditionnelle) method. The traditional Catalan varieties are Macabeo (Viura), Xarel·lo, and Parellada. Chardonnay, Pinot Noir, and Garnacha are also now permitted."
+  },
+  {
+    "id": 154,
+    "category": "Types of Wine",
+    "question": "Prosecco DOC is primarily made from which grape variety, and what production method is used?",
+    "options": [
+      "Pinot Grigio; traditional method",
+      "Glera; Charmat (tank) method",
+      "Chardonnay; transfer method",
+      "Garganega; ancestral method"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Prosecco DOC (and DOCG — Conegliano Valdobbiadene Prosecco Superiore) is made primarily from Glera (minimum 85%), previously also known as Prosecco. It is almost exclusively produced using the Charmat/tank method, which preserves the variety's fresh, primary fruit aromas (apple, pear, peach) and floral notes. This method is more economical than the traditional method."
+  },
+  {
+    "id": 155,
+    "category": "Types of Wine",
+    "question": "What is Crémant and how does it differ from Champagne?",
+    "options": [
+      "Crémant is a sweeter style of Champagne with more residual sugar",
+      "Crémant refers to traditional-method sparkling wines produced in French AOPs outside the Champagne region (e.g., Crémant d'Alsace, Crémant de Bourgogne)",
+      "Crémant is a term for any partially sparkling (pétillant) wine produced anywhere in France",
+      "Crémant is a lower-quality Champagne produced outside the Champagne Classique communes"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Crémant refers to traditional-method (méthode traditionnelle) sparkling wines produced in designated French AOPs outside Champagne. Examples include Crémant d'Alsace, Crémant de Bourgogne, Crémant de Limoux, Crémant de Loire, and Crémant du Jura, among others. They must meet specific appellation rules for grape varieties, yields, and minimum lees aging, but generally age for a shorter minimum period than Champagne."
+  },
+  {
+    "id": 156,
+    "category": "Types of Wine",
+    "question": "What is Sekt and which country produces it?",
+    "options": [
+      "An Italian sparkling wine produced in the Veneto using the Charmat method",
+      "A German (and Austrian) sparkling wine category; quality Sekt b.A. must be produced in a specific German wine region",
+      "A Spanish sparkling wine made from Airén grapes",
+      "A fortified sparkling wine from Portugal similar to Port"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sekt is Germany's (and Austria's) term for sparkling wine. Basic Sekt can be produced anywhere using the Charmat method with imported base wines. Higher-quality Sekt b.A. (bestimmter Anbaugebiet) must come from specific German wine regions and meet stricter production requirements. Winzersekt (grower Sekt) is estate-produced and typically uses the traditional method."
+  },
+  {
+    "id": 157,
+    "category": "Types of Wine",
+    "question": "What are the two main styles of Port wine, and how do they differ in terms of aging?",
+    "options": [
+      "Vintage Port and LBV Port; both aged exclusively in bottle for a minimum of 10 years",
+      "Ruby-style Port (aged in bottle, preserving fruit) and Tawny-style Port (aged in small barrels with oxidation, developing nutty, dried fruit characters)",
+      "White Port and Tawny Port; both aged in stainless steel tanks",
+      "Colheita Port and Garrafeira Port; both produced from single vintages without barrel aging"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Port broadly divides into ruby styles (Ruby, Vintage, LBV, Crusted) — aged reductively in bottle to preserve vivid dark fruit, chocolate, and fresh characters — and tawny styles (Tawny, Colheita, 10/20/30/40-Year-Old Tawny) — aged oxidatively in small barrels (pipes), developing a tawny colour and complex nutty, dried apricot, and caramel characteristics."
+  },
+  {
+    "id": 158,
+    "category": "Types of Wine",
+    "question": "What is Fino Sherry and how is the flor yeast involved in its production?",
+    "options": [
+      "Fino is a sweet, oxidatively aged Sherry produced without flor",
+      "Fino is a pale, dry Sherry produced under a layer of flor yeast that protects the wine from oxidation and consumes glycerol and acetic acid",
+      "Fino is produced by adding grape spirit before fermentation to stop all yeast activity",
+      "Fino is produced from Palomino grapes dried on esparto mats to concentrate sugars"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fino Sherry is produced in Jerez when lightly fortified base wine (to ~15–15.5% ABV) develops a layer of flor yeast on its surface. Flor protects the wine from oxidation and consumes glycerol and acetic acid, producing a pale, dry, delicate wine with yeasty, almond, bread, and chamomile notes. Manzanilla is a Fino produced and aged in Sanlúcar de Barrameda."
+  },
+  {
+    "id": 159,
+    "category": "Types of Wine",
+    "question": "What makes Madeira unique among fortified wines in terms of production?",
+    "options": [
+      "It is the only fortified wine to use grape spirit added after fermentation is complete",
+      "It undergoes a deliberate heating process (estufagem or canteiro) that replicates the conditions of long sea voyages, creating its distinctive caramelised, rancio character",
+      "It is produced using a solera system identical to Sherry",
+      "It is the only fortified wine produced on mainland Portugal rather than an island"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Madeira's unique character comes from its deliberate oxidative heating. The estufagem method heats wine in tanks (estufa) at 45–50°C for at least three months. The premium canteiro method ages wine in casks in warm attics where natural temperature fluctuations achieve the same effect over years. The heat causes Maillard reactions and caramelisation, creating Madeira's distinctive burnt caramel, coffee, and rancio qualities. Madeira is also virtually indestructible once opened due to its high acid, alcohol, and oxidative character."
+  },
+  {
+    "id": 160,
+    "category": "Types of Wine",
+    "question": "What is Marsala wine and how does it differ from other Italian fortified wines?",
+    "options": [
+      "Marsala is a sweet sparkling wine from Sicily, carbonated using the Charmat method",
+      "Marsala is a Sicilian DOC fortified wine produced from white grapes (primarily Grillo, Catarratto, Inzolia) using an aging system similar to the solera, available in dry to sweet styles",
+      "Marsala is a VDN (Vin Doux Naturel) produced from Muscat grapes in Sicily",
+      "Marsala is a Sicilian red wine that is unfortified but aged oxidatively in barrels"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Marsala is a DOC fortified wine from western Sicily, produced primarily from Grillo, Catarratto, and Inzolia white grapes. It is fortified with grape spirit and may include cooked grape must (mosto cotto) and grape concentrate. It ranges from Fino (dry, young) to Superiore and Vergine styles (long-aged, dry, using a solera-like system). It became famous in the UK after John Woodhouse shipped it for the Royal Navy in the late 18th century."
+  },
+  {
+    "id": 161,
+    "category": "Types of Wine",
+    "question": "What is botrytis cinerea and how does it contribute to the production of Sauternes?",
+    "options": [
+      "A beneficial fungus that forms on grapes in humid morning conditions followed by warm afternoon sunshine, concentrating sugars, acid, and creating complex honey and apricot flavours",
+      "A harmful mould that destroys entire harvests in the Bordeaux region",
+      "A yeast strain cultivated in laboratories and added to Sauternes musts to create sweetness",
+      "A bacterium responsible for converting tartaric acid to lactic acid in sweet wines"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Botrytis cinerea (noble rot) attacks ripe grapes under specific conditions: morning mist from the Ciron River provides humidity to establish the mould, while warm afternoon sun dries and concentrates the grapes. The fungus punctures the grape skin, allowing water to evaporate, concentrating sugars, acids, and glycerol, and creating compounds that add honey, apricot, saffron, and marmalade complexity to wines like Sauternes and Barsac."
+  },
+  {
+    "id": 162,
+    "category": "Types of Wine",
+    "question": "What is Tokaji Aszú and what role does botrytis play in its production?",
+    "options": [
+      "A dry white wine from Hungary made without botrytis-affected grapes",
+      "A Hungarian sweet wine made by adding a paste of botrytis-affected (aszú) berries to base wine; sweetness measured in puttonyos",
+      "A sparkling wine from the Tokaj region made by the traditional method",
+      "A fortified wine from Hungary similar to Port, fortified with grape spirit"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tokaji Aszú is Hungary's most famous wine, a complex sweet wine made from botrytis-affected (aszú) berries of Furmint, Hárslevelű, and other permitted grapes. The shrivelled, botrytised berries are crushed into a paste (aszú dough) and added to a base wine or must. Traditionally sweetness was measured in puttonyos (3–6 puttonyos, plus Eszencia), though current regulations express sweetness as minimum residual sugar per litre."
+  },
+  {
+    "id": 163,
+    "category": "Types of Wine",
+    "question": "What is ice wine (Eiswein) and what unique process concentrates its sugars?",
+    "options": [
+      "Wine made from grapes flash-frozen in a laboratory after harvest to concentrate sugars",
+      "Wine made from grapes naturally frozen on the vine, pressed while frozen so that water remains as ice and concentrated juice is extracted",
+      "A sweet wine produced by adding frozen must concentrate to dry wine",
+      "A sparkling wine cooled to below freezing during secondary fermentation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ice wine (Eiswein in Germany and Austria; Icewine in Canada) is made from naturally frozen grapes harvested and pressed at temperatures of -8°C or below. The water in the grape freezes, while the concentrated sugar, acid, and flavour compounds remain liquid and flow from the press. The resulting wine is intensely sweet with high acidity and concentrated fruit flavours."
+  },
+  {
+    "id": 164,
+    "category": "Types of Wine",
+    "question": "What is orange wine (also called amber wine or skin-contact white wine)?",
+    "options": [
+      "White wine made from blood orange juice blended with Chardonnay",
+      "White wine fermented with extended skin contact, extracting tannins, phenolics, and colour, producing an amber/orange-hued wine with textural grip",
+      "A Provence rosé wine made from orange-pigmented grape varieties",
+      "A fortified wine from the Douro Valley produced from Grenache Blanc"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Orange wine is made by fermenting white grapes with extended skin contact (days to months), similar to how red wine is made. This extracts phenolics, tannins, and colour from the skins, producing wines with an amber/orange hue, textural grip, and complex oxidative, nutty, and dried fruit characters. The technique has ancient origins in Georgia (qvevri vessels) and was revived in northeastern Italy (Friuli) and Slovenia."
+  },
+  {
+    "id": 165,
+    "category": "Types of Wine",
+    "question": "What is Vin Doux Naturel (VDN) and which French regions are known for producing it?",
+    "options": [
+      "A naturally sweet wine with no added spirit, produced when fermentation stops naturally due to high sugar levels",
+      "A fortified wine where grape spirit is added during fermentation to stop it and retain natural grape sweetness; key regions include Roussillon (Banyuls, Maury, Muscat de Rivesaltes) and Rhône (Muscat de Beaumes-de-Venise)",
+      "A late-harvest wine made from botrytis-affected grapes in the Loire Valley",
+      "A sweet sparkling wine produced in the Languedoc using the ancestral method"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Vin Doux Naturel (naturally sweet wine, despite the name) is made by adding grape spirit (mutage) to partially fermented grape must, stopping fermentation and retaining natural grape sugars. Key examples include Banyuls and Maury (Grenache-based, Roussillon), Muscat de Rivesaltes, Muscat de Beaumes-de-Venise, and Muscat de Frontignan. Banyuls is often compared to Vintage Port."
+  },
+  {
+    "id": 166,
+    "category": "Types of Wine",
+    "question": "What are the four main styles of Sherry?",
+    "options": [
+      "Fino, Manzanilla, Amontillado, and Oloroso — ranging from pale and bone dry (under flor) to full-bodied and oxidative",
+      "Fino, Seco, Dulce, and Cream — based solely on residual sugar levels",
+      "Vintage, Non-Vintage, Colheita, and Tawny — based on aging method",
+      "Biológico, Oxidativo, Encabezado, and Generoso — technical production classifications"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The main Sherry styles progress from biological aging under flor to oxidative aging: Fino and Manzanilla (pale, dry, under flor); Amontillado (begins under flor, then fortified further to kill flor and ages oxidatively — nutty, amber); Palo Cortado (a rare style with Fino finesse and Oloroso richness); and Oloroso (no flor, fully oxidative — dark, nutty, dry or sweetened as Cream/Medium)."
+  },
+  {
+    "id": 167,
+    "category": "Types of Wine",
+    "question": "What is the key distinction between Late Harvest wine and Trockenbeerenauslese (TBA)?",
+    "options": [
+      "Late Harvest wine is sparkling; TBA is always still",
+      "TBA represents the pinnacle of German Prädikat wine — made from individually selected shrivelled, botrytised berries with extreme sugar concentration; Late Harvest is a broader international term for wines from grapes harvested beyond normal ripeness",
+      "Late Harvest wines have higher alcohol than TBA because they are not botrytised",
+      "TBA wines are always dry; Late Harvest wines are always sweet"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In the German Prädikat system, Trockenbeerenauslese (TBA — 'dry berry selection') is the highest and rarest category, made from individually hand-selected, fully botrytised, shrivelled berries. The must is extraordinarily concentrated and fermentation is slow. TBA is among the world's most expensive wines. 'Late Harvest' is a more generic international term for wines harvested when grapes have accumulated additional sugar beyond normal harvest ripeness."
+  },
+  {
+    "id": 168,
+    "category": "Types of Wine",
+    "question": "What is natural wine and how does it differ from conventional wine?",
+    "options": [
+      "Natural wine must be certified organic and can contain no sulfites whatsoever",
+      "Natural wine is an informal movement (no legal definition) broadly characterised by minimal intervention: organic or biodynamic farming, native yeast fermentation, no or very low added SO₂, and no fining or filtration",
+      "Natural wine is defined by EU regulation as wine produced without any additives including sugar",
+      "Natural wine must be produced in terracotta vessels (amphorae) with no oak contact"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Natural wine has no single legal definition but represents a philosophy of minimal intervention in both vineyard and cellar. Broadly it involves organic or biodynamic viticulture, wild yeast fermentation, no or very low SO₂ additions, and avoidance of fining agents, filtration, and other common cellar treatments. The movement is associated with 'real' wine expressing terroir, though wines can be controversial for fault tolerance (volatile acidity, brett)."
+  },
+  {
+    "id": 169,
+    "category": "Types of Wine",
+    "question": "What is vermouth and how is it classified?",
+    "options": [
+      "A fortified wine aromatised with botanicals (herbs, spices, roots, flowers, and/or wormwood); classified as an aromatised wine",
+      "A still red wine from northern Italy that has been lightly sweetened with honey",
+      "A style of Sherry flavoured with citrus peel and sold under the Vermouth DO",
+      "A grape spirit redistilled with botanicals, similar to gin but produced from wine"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Vermouth is an aromatised wine — a fortified wine (typically base wine + neutral grape spirit) infused or macerated with botanicals, of which wormwood (Artemisia absinthium or A. genepi) must be dominant by EU regulation. Styles range from pale/dry (French/Italian Bianco/Extra Dry) to rich and sweet (Italian Rosso/Sweet). Key regions include Turin (Italy) and Chambéry (France)."
+  },
+  {
+    "id": 170,
+    "category": "Types of Wine",
+    "question": "What is Vintage Port and how does it differ from Late Bottled Vintage (LBV) Port?",
+    "options": [
+      "Vintage Port is blended from multiple vintages; LBV is from a single vintage",
+      "Vintage Port is declared only in exceptional years, aged in bottle for decades, and throws a sediment; LBV is from a single vintage aged 4–6 years in barrel/tank before bottling, ready to drink sooner",
+      "Vintage Port has lower alcohol than LBV; both are unfiltered",
+      "Vintage Port is produced only from Touriga Nacional; LBV from multiple grape varieties"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Vintage Port is declared by individual shippers only in exceptional years (typically 2–3 times per decade), aged 2 years in barrel then bottled unfiltered, and designed for long bottle aging (20–50+ years) during which it throws a sediment and requires decanting. LBV (Late Bottled Vintage) is from a single declared vintage but aged 4–6 years in barrel, bottled filtered (most) or unfiltered (Traditional LBV), and ready to drink younger."
+  },
+  {
+    "id": 171,
+    "category": "Types of Wine",
+    "question": "Which wine region in France produces the famous botrytis-affected sweet white wine Sauternes, and what grape varieties are used?",
+    "options": [
+      "Loire Valley; Chenin Blanc and Riesling",
+      "Alsace; Gewürztraminer and Pinot Gris",
+      "Bordeaux, Sauternes-Barsac appellation; primarily Sémillon with Sauvignon Blanc and Muscadelle",
+      "Burgundy; Chardonnay only"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sauternes and Barsac are appellations within Bordeaux where the confluence of the Ciron and Garonne rivers creates misty morning conditions ideal for Botrytis cinerea. Wines are made primarily from Sémillon (susceptible to botrytis due to thin skin), blended with Sauvignon Blanc (for acidity) and occasionally a small amount of Muscadelle. Premier Cru Supérieur Château d'Yquem is the most famous producer."
+  },
+  {
+    "id": 172,
+    "category": "Types of Wine",
+    "question": "In German wine law, what is the Prädikatswein classification system and what determines each category?",
+    "options": [
+      "A classification based on vineyard quality, similar to Burgundy's Premier Cru and Grand Cru system",
+      "A hierarchy based on the natural sugar content (Oechsle) of the must at harvest, from Kabinett (lightest) to Trockenbeerenauslese (most concentrated)",
+      "A classification based solely on the age of the vines, from Jungreben to Alte Reben",
+      "A quality system based on aging time: wines aged less than one year, 1–5 years, and 5+ years"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Germany's Prädikatswein system classifies wines by the natural ripeness (Oechsle sugar reading) of grapes at harvest, ascending from Kabinett (least ripe, most delicate) through Spätlese (late harvest), Auslese (selected bunches), Beerenauslese (BA, selected botrytised berries), Eiswein (frozen grapes), to Trockenbeerenauslese (TBA, individually selected shrivelled botrytised berries). Higher Prädikat does not necessarily mean sweeter — wines can be fermented to dryness."
+  },
+  {
+    "id": 173,
+    "category": "Types of Wine",
+    "question": "What is a Blanc de Blancs Champagne?",
+    "options": [
+      "Champagne made exclusively from white-fleshed, black-skinned grapes (Pinot Noir and Pinot Meunier)",
+      "Champagne made exclusively from white-skinned grapes, primarily or entirely Chardonnay",
+      "Champagne that has undergone malolactic fermentation",
+      "A sweeter style of Champagne with a minimum of 17g/l residual sugar"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Blanc de Blancs Champagne is made exclusively from white-skinned grapes, overwhelmingly Chardonnay (though other permitted white varieties may be used). These wines tend to be lighter, more delicate and elegant, with high acidity, citrus and green apple notes, and good aging potential. They contrast with Blanc de Noirs, made exclusively from black-skinned grapes (Pinot Noir and/or Pinot Meunier)."
+  },
+  {
+    "id": 174,
+    "category": "Types of Wine",
+    "question": "What is an Oloroso Sherry and how does it develop its characteristics?",
+    "options": [
+      "A light, pale Sherry aged exclusively under a layer of flor yeast",
+      "A dark, full-bodied Sherry that develops without flor protection through deliberate oxidative aging; naturally dry with walnut, dried fruit, and leather notes",
+      "A sweet Sherry produced by blending Fino with Pedro Ximénez",
+      "A Sherry produced from Moscatel grapes, always sweet"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Oloroso ('fragrant') Sherry is fortified to ~18% ABV, above the threshold where flor can survive, so it ages entirely through oxidation in contact with air. This produces a dark mahogany, full-bodied, dry wine with intense walnut, dried fig, leather, and dried fruit notes. Oloroso may be sold dry or sweetened with Pedro Ximénez must to create Cream or Medium Sherry."
+  },
+  {
+    "id": 175,
+    "category": "Types of Wine",
+    "question": "What are the three levels of Champagne based on the percentage of Chardonnay, Pinot Noir, and Pinot Meunier in the blend typically referred to in commercial terms?",
+    "options": [
+      "Grand Cru, Premier Cru, and Village — based on vineyard classification",
+      "Non-Vintage (NV), Vintage, and Prestige Cuvée — based on vintage declaration and quality tier",
+      "Brut, Demi-Sec, and Doux — based on sweetness level",
+      "Blanc de Blancs, Blanc de Noirs, and Rosé — based on grape skin colour used"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Commercially, Champagne is broadly structured in three quality tiers: Non-Vintage (NV) — the house's signature blend of multiple vintages, consistent in style; Vintage — declared in exceptional years, showcasing a single year's character, with a minimum 3 years lees aging; and Prestige Cuvée — the flagship, top-tier wine from the best grapes and vintages (e.g., Moët & Chandon Dom Pérignon, Louis Roederer Cristal)."
+  },
+  {
+    "id": 176,
+    "category": "Types of Wine",
+    "question": "What is a late-harvest wine and how is it made?",
+    "options": [
+      "Wine produced from grapes harvested unusually early to preserve acidity",
+      "Wine made from grapes left on the vine beyond normal harvest time, allowing further ripening and sugar concentration through desiccation or botrytis",
+      "Wine produced by leaving harvested grapes in cold storage before pressing",
+      "Wine that is bottled at least three years after harvest"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Late-harvest wines are made from grapes harvested after the normal picking date, when they have accumulated higher sugar levels through continued vine ripening. This can occur naturally (over-ripening and shrivelling), through botrytis infection, or in cold climates through freeze concentration. Late-harvest wines range from slightly sweet to intensely sweet depending on how long picking is delayed."
+  },
+  {
+    "id": 177,
+    "category": "Types of Wine",
+    "question": "What is the key difference between Tawny Port and Colheita Port?",
+    "options": [
+      "Tawny Port is from a single vintage; Colheita is a blend of multiple vintages",
+      "Both are oxidatively barrel-aged Tawny-style Ports, but Colheita is from a single declared vintage while multi-vintage aged Tawnies (10/20/30/40 Year) are blends of multiple vintages",
+      "Tawny Port is unfortified; Colheita is fortified with grape spirit",
+      "Colheita must spend at least 40 years in barrel; Tawny a minimum of 10 years"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Both Colheita and aged Tawny Port (10/20/30/40 Year Old) are oxidatively aged in small barrels, developing tawny colour and nutty, caramel characteristics. The key difference is that Colheita is a single-vintage Tawny Port (minimum 7 years in barrel) with a harvest date on the label. Aged Tawny (10/20/30/40 Year) indicates the average age of wines in a multi-vintage blend, not a specific single vintage."
+  },
+  {
+    "id": 178,
+    "category": "Types of Wine",
+    "question": "What is the Ancestral Method (méthode ancestrale) for producing sparkling wine?",
+    "options": [
+      "Secondary fermentation of still wine is induced in a large sealed vat using ancient Roman techniques",
+      "The wine is bottled before primary fermentation is complete; no additional sugar or yeast is added for secondary fermentation — CO₂ comes from the original fermentation finishing in bottle",
+      "A blend of multiple vintages of still wine is refermented using the oldest reserve wine available",
+      "The wine is produced in clay amphorae using techniques documented by ancient Greek winemakers"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The ancestral method (méthode ancestrale) is the oldest sparkling wine method — the wine is bottled before primary fermentation is complete, with the residual sugar providing the CO₂ that makes the wine fizzy as fermentation finishes in bottle. Unlike the traditional method, no additional sugar (liqueur de tirage) or yeast is added. The wine may be left on its lees (cloudy pét-nat) or disgorged. Blanquette Méthode Ancestrale from Limoux is a traditional example."
+  },
+  {
+    "id": 179,
+    "category": "Types of Wine",
+    "question": "What distinguishes Amontillado Sherry from Fino in terms of production and flavour profile?",
+    "options": [
+      "Amontillado is sweeter than Fino due to addition of Pedro Ximénez; Fino is always bone dry",
+      "Amontillado begins its life as Fino (under flor), but is then fortified further to kill the flor, after which it ages oxidatively; this dual aging produces hazelnut, amber, and complex dried fruit notes beyond Fino's delicacy",
+      "Amontillado is aged in American oak barrels; Fino in French oak",
+      "Amontillado is produced from the Moscatel grape; Fino from Palomino"
+    ],
+    "correctAnswer": 1,
+    "explanation": "True Amontillado begins as Fino and spends time under flor. It is then fortified to ~17–18% ABV, which kills the flor, after which it ages oxidatively in barrel. This two-phase aging (biological then oxidative) produces a wine combining Fino's freshness and nuttiness with Oloroso's depth and richness: hazelnut, amber, walnut, caramel, and dried fruit. Commercial 'Amontillado' can sometimes be a sweetened blend rather than the true aged version."
+  },
+  {
+    "id": 180,
+    "category": "Types of Wine",
+    "question": "What is the Solera y Criaderas system unique to Sherry production, and how many scales (criaderas) are typically used?",
+    "options": [
+      "A system of two scales: the solera (oldest) and one criadera (newest); wine is extracted annually",
+      "A multi-scale dynamic blending system where wine passes through multiple criaderas (typically 3–14 scales for fino) before reaching the solera (oldest scale); a proportion is drawn from the solera for bottling and each scale is refreshed from the one above",
+      "A system used only for Pedro Ximénez production, with a single annual scale refresh",
+      "A tank-based system with no barrel contact, used to maintain Fino's freshness"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Sherry solera system comprises the solera itself (lowest, oldest scale) and multiple criaderas (nurseries) above it. For Fino, there may be 7–14 criaderas; for Oloroso, typically 3–5. A set proportion (never more than one-third by regulation) is drawn from the solera for bottling. This is replenished from the first criadera, which is replenished from the second, and so on up to the añada (new wine). No wine is ever fully removed, so each draw contains traces of the oldest vintages."
+  }
+]
