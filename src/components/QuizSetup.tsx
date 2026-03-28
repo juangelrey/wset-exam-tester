@@ -1,6 +1,6 @@
 "use client";
 
-import { Question, WsetLevel, Language } from "@/types/quiz";
+import { Question, WsetLevel } from "@/types/quiz";
 import { Translations } from "@/data/translations";
 import { useState } from "react";
 
@@ -8,14 +8,12 @@ interface QuizSetupProps {
   categories: string[];
   questions: Question[];
   level: WsetLevel;
-  language: Language;
   onLevelChange: (level: WsetLevel) => void;
-  onLanguageChange: (language: Language) => void;
   onStart: (selectedCategories: string[], questionCount: number) => void;
   translations: Translations;
 }
 
-export default function QuizSetup({ categories, questions, level, language, onLevelChange, onLanguageChange, onStart, translations }: QuizSetupProps) {
+export default function QuizSetup({ categories, questions, level, onLevelChange, onStart, translations }: QuizSetupProps) {
   const [selectedCategories, setSelectedCategories] = useState<string[]>([]);
   const [questionCount, setQuestionCount] = useState(20);
 
@@ -47,39 +45,6 @@ export default function QuizSetup({ categories, questions, level, language, onLe
         <p className="text-lg text-muted">
           {level === "level1" ? translations.level1Subtitle : translations.level2Subtitle}
         </p>
-      </div>
-
-      {/* Language selector */}
-      <div className="bg-card-bg rounded-2xl shadow-sm border border-border p-6 mb-6">
-        <h2 className="text-lg font-semibold mb-4">{translations.selectLanguage}</h2>
-        <div className="grid grid-cols-2 gap-3">
-          <button
-            onClick={() => {
-              onLanguageChange("en");
-              setSelectedCategories([]);
-            }}
-            className={`px-4 py-3 rounded-xl border text-sm font-medium transition-all ${
-              language === "en"
-                ? "bg-accent text-white border-accent"
-                : "bg-card-bg border-border hover:border-accent-light"
-            }`}
-          >
-            English
-          </button>
-          <button
-            onClick={() => {
-              onLanguageChange("es");
-              setSelectedCategories([]);
-            }}
-            className={`px-4 py-3 rounded-xl border text-sm font-medium transition-all ${
-              language === "es"
-                ? "bg-accent text-white border-accent"
-                : "bg-card-bg border-border hover:border-accent-light"
-            }`}
-          >
-            Español
-          </button>
-        </div>
       </div>
 
       <div className="bg-card-bg rounded-2xl shadow-sm border border-border p-6 mb-6">

@@ -73,7 +73,7 @@ const translations = {
   },
 } as const;
 
-export type Translations = (typeof translations)["en"];
+export type Translations = Record<keyof (typeof translations)["en"], string>;
 
 export function t(lang: Language): Translations {
   return translations[lang];

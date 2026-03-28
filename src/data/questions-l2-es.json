@@ -1,0 +1,2602 @@
+[
+  {
+    "id": 1,
+    "category": "Variedades de Uva Tinta",
+    "question": "¿Cuál de las siguientes opciones describe mejor el perfil de cata típico de un Cabernet Sauvignon de Napa Valley en comparación con uno de la Margen Izquierda de Burdeos?",
+    "options": [
+      "Napa es más ligero en cuerpo con mayor acidez y notas más terrosas",
+      "Napa es más corpulento con sabores frutales más maduros y mayor alcohol debido al clima más cálido",
+      "Ambas regiones producen estilos prácticamente idénticos debido a las mismas técnicas de vinificación",
+      "Napa produce vinos más tánicos con menor alcohol que Burdeos"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El clima cálido de Napa Valley produce fruta más madura (grosella negra, cassis, ciruela), mayor alcohol y un cuerpo más lleno en comparación con los vinos de la Margen Izquierda de Burdeos, que tienden a mostrar fruta más contenida, mayor acidez y notas más terrosas/herbáceas."
+  },
+  {
+    "id": 2,
+    "category": "Variedades de Uva Tinta",
+    "question": "Coonawarra en el sur de Australia es particularmente famosa por el Cabernet Sauvignon cultivado en qué tipo de suelo distintivo?",
+    "options": [
+      "Granito",
+      "Terra rossa sobre caliza",
+      "Arcilla sobre arenisca",
+      "Basalto volcánico"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La famosa 'terra rossa' de Coonawarra es una delgada franja de suelo arcilloso-limoso rojo sobre una base de caliza, que proporciona un excelente drenaje y se considera ideal para producir Cabernet Sauvignon estructurado y elegante."
+  },
+  {
+    "id": 3,
+    "category": "Variedades de Uva Tinta",
+    "question": "¿Qué variedad de uva es dominante en los vinos de Pomerol, produciendo vinos reconocidos por su textura aterciopelada y fruta a ciruela?",
+    "options": [
+      "Cabernet Sauvignon",
+      "Cabernet Franc",
+      "Merlot",
+      "Petit Verdot"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Pomerol, en la Margen Derecha de Burdeos, está dominado por el Merlot, que prospera en los suelos ricos en arcilla. Vinos como Pétrus se elaboran casi enteramente con Merlot y son conocidos por su fruta a ciruela, textura aterciopelada y redondez."
+  },
+  {
+    "id": 4,
+    "category": "Variedades de Uva Tinta",
+    "question": "Los vinos a base de Merlot de Chile se caracterizan típicamente por ¿qué estilo?",
+    "options": [
+      "Alto tanino, austero y que necesita largo envejecimiento",
+      "Suave, frutal con notas a ciruela y taninos accesibles",
+      "Muy alta acidez con carácter verde y herbáceo en todo momento",
+      "Color profundo, tánico y altamente estructurado como el Cabernet Sauvignon"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El Merlot chileno es típicamente suave y frutal, con notas a ciruela y chocolate y taninos accesibles. El clima cálido produce fruta madura, haciendo estos vinos accesibles relativamente jóvenes."
+  },
+  {
+    "id": 5,
+    "category": "Variedades de Uva Tinta",
+    "question": "El Pinot Noir de Borgoña se envejece típicamente en qué tipo de recipiente para preservar su delicado carácter frutal?",
+    "options": [
+      "Grandes foudres de roble viejo o barricas de roble neutro",
+      "Barricas nuevas de roble americano durante 24 meses",
+      "Solo tanques de acero inoxidable",
+      "Barricas nuevas de roble francés con tostado intenso"
+    ],
+    "correctAnswer": 0,
+    "explanation": "El Pinot Noir borgoñón se envejece típicamente en una proporción de roble viejo o neutro francés para evitar abrumar el delicado carácter de fruta roja y terroso de la uva. El roble nuevo se usa con moderación, especialmente para vinos de pueblo y regionales."
+  },
+  {
+    "id": 6,
+    "category": "Variedades de Uva Tinta",
+    "question": "¿Cuál de las siguientes regiones de Oregón es más reconocida por producir Pinot Noir?",
+    "options": [
+      "Walla Walla Valley",
+      "Willamette Valley",
+      "Columbia Valley",
+      "Rogue Valley"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El Willamette Valley en Oregón es la región vinícola más famosa del estado y es particularmente reconocida por el Pinot Noir. El clima fresco y húmedo es muy adecuado para esta uva de piel delgada."
+  },
+  {
+    "id": 7,
+    "category": "Variedades de Uva Tinta",
+    "question": "El Pinot Noir de Central Otago, Nueva Zelanda, se caracteriza típicamente por ¿qué estilo en comparación con Borgoña?",
+    "options": [
+      "Más claro en color, menor alcohol, con más notas terrosas y salinas",
+      "Más rico, más concentrado, con fruta más oscura como cereza negra y ciruela debido a la intensa luz UV y días soleados",
+      "Más tánico y estructurado, diseñado para largo envejecimiento",
+      "Más ligero y más floral, con menores taninos que cualquier otra región"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Central Otago tiene un clima continental con intensa luz UV, largos días soleados y noches frescas. Esto produce un Pinot Noir concentrado con sabores frutales más profundos (cereza, ciruela, mora) y mayor alcohol que Borgoña, aunque con buena frescura gracias a las noches frescas."
+  },
+  {
+    "id": 8,
+    "category": "Variedades de Uva Tinta",
+    "question": "¿Cuál es la variedad principal en las denominaciones del norte del Ródano como Côte-Rôtie y Hermitage?",
+    "options": [
+      "Grenache",
+      "Mourvèdre",
+      "Syrah",
+      "Cabernet Sauvignon"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La Syrah es la única uva tinta permitida en las principales denominaciones del norte del Ródano (Côte-Rôtie, Hermitage, Crozes-Hermitage, Saint-Joseph). Estos vinos son conocidos por su carácter a pimienta, carne y notas salinas con fruta oscura."
+  },
+  {
+    "id": 9,
+    "category": "Variedades de Uva Tinta",
+    "question": "¿Cómo difiere típicamente el estilo de la Syrah del norte del Ródano del Shiraz del Barossa Valley?",
+    "options": [
+      "La Syrah del norte del Ródano es más corpulenta, mermeladosa y alcohólica",
+      "La Syrah del norte del Ródano tiende a ser más salina, especiada y estructurada, mientras que el Shiraz de Barossa es más rico, más corpulento y más frutal",
+      "El Shiraz de Barossa es más tánico y austero que la Syrah del norte del Ródano",
+      "No hay diferencia estilística significativa entre las dos regiones"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El clima fresco del norte del Ródano produce Syrah con pimienta negra, aceituna y notas salinas con altos taninos, mientras que el caluroso Barossa Valley produce Shiraz opulento con fruta oscura mermeladosa, chocolate y notas de moca con mayor alcohol."
+  },
+  {
+    "id": 10,
+    "category": "Variedades de Uva Tinta",
+    "question": "En el sur del Ródano, la Grenache se mezcla típicamente con ¿qué otras dos variedades de uva para producir vinos como Châteauneuf-du-Pape?",
+    "options": [
+      "Syrah y Mourvèdre",
+      "Cabernet Sauvignon y Merlot",
+      "Cinsault y Carignan",
+      "Mourvèdre y Viognier"
+    ],
+    "correctAnswer": 0,
+    "explanation": "La mezcla clásica del sur del Ródano (conocida como GSM) combina Grenache, Syrah y Mourvèdre. En Châteauneuf-du-Pape, hasta 18 variedades están realmente permitidas, pero Grenache, Syrah y Mourvèdre forman la columna vertebral de la mayoría de las mezclas."
+  },
+  {
+    "id": 11,
+    "category": "Variedades de Uva Tinta",
+    "question": "¿Cuál es el nombre local de la Grenache en Priorat, España, donde ejemplares de viñas viejas producen vinos altamente concentrados y potentes?",
+    "options": [
+      "Garnacha Tinta",
+      "Cariñena",
+      "Monastrell",
+      "Bobal"
+    ],
+    "correctAnswer": 0,
+    "explanation": "La Grenache se conoce como Garnacha en España. En el Priorat DOCa, la Garnacha de viña vieja (junto con Cariñena/Carignan) cultivada en suelos de llicorella (pizarra) produce algunos de los vinos más concentrados y caros de España."
+  },
+  {
+    "id": 12,
+    "category": "Variedades de Uva Tinta",
+    "question": "Según el sistema de clasificación de Rioja, ¿cuánto tiempo debe envejecerse un vino Reserva y cuánto de ese tiempo debe ser en roble?",
+    "options": [
+      "Mínimo 3 años en total, con al menos 1 año en roble",
+      "Mínimo 2 años en total, con al menos 1 año en roble",
+      "Mínimo 5 años en total, con al menos 2 años en roble",
+      "Mínimo 4 años en total, con al menos 3 años en roble"
+    ],
+    "correctAnswer": 0,
+    "explanation": "El Rioja Reserva requiere un mínimo de 3 años de envejecimiento total, con al menos 1 año en barricas de roble. El Gran Reserva requiere un mínimo de 5 años en total, con al menos 2 años en roble."
+  },
+  {
+    "id": 13,
+    "category": "Variedades de Uva Tinta",
+    "question": "¿Con qué nombre local se conoce el Tempranillo en Ribera del Duero, España?",
+    "options": [
+      "Ull de Llebre",
+      "Cencibel",
+      "Tinto Fino",
+      "Tinta Roriz"
+    ],
+    "correctAnswer": 2,
+    "explanation": "El Tempranillo se llama Tinto Fino (o Tinta del País) en Ribera del Duero. También se conoce como Ull de Llebre en Cataluña, Cencibel en La Mancha y Tinta Roriz en Portugal."
+  },
+  {
+    "id": 14,
+    "category": "Variedades de Uva Tinta",
+    "question": "El Barolo elaborado con Nebbiolo debe envejecerse un mínimo de ¿cuántos años antes de su comercialización, con cuántos meses requeridos en roble?",
+    "options": [
+      "3 años en total, con 18 meses en roble",
+      "2 años en total, con 12 meses en roble",
+      "5 años en total, con 36 meses en roble",
+      "4 años en total, con 24 meses en roble"
+    ],
+    "correctAnswer": 0,
+    "explanation": "El Barolo DOCG estándar requiere un mínimo de 3 años de envejecimiento desde la vendimia, con al menos 18 meses en roble. El Barolo Riserva requiere 5 años de envejecimiento total."
+  },
+  {
+    "id": 15,
+    "category": "Variedades de Uva Tinta",
+    "question": "¿Cuál es la principal diferencia estilística entre Barolo y Barbaresco, ambos elaborados con Nebbiolo en Piamonte?",
+    "options": [
+      "El Barolo debe usar exclusivamente Nebbiolo; el Barbaresco puede mezclar con Barbera",
+      "El Barolo es generalmente más potente y requiere mayor envejecimiento; el Barbaresco es típicamente más elegante con requisitos mínimos de envejecimiento más cortos",
+      "El Barbaresco solo se produce en añadas cálidas; el Barolo se elabora cada año",
+      "El Barolo permite el uso de roble nuevo; el Barbaresco debe envejecerse solo en grandes barricas de roble viejo"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ambos son DOCG 100% Nebbiolo, pero el Barolo (mínimo 3 años de envejecimiento, 5 para Riserva) es típicamente más potente y tánico, mientras que el Barbaresco (mínimo 2 años, 4 para Riserva) tiende a ser más elegante. Los diferentes suelos y microclimas también contribuyen a las diferencias estilísticas."
+  },
+  {
+    "id": 16,
+    "category": "Variedades de Uva Tinta",
+    "question": "¿Qué vino a base de Sangiovese debe elaborarse con 100% Sangiovese (localmente llamado Brunello) y envejecerse un mínimo de 5 años incluyendo 2 años en roble?",
+    "options": [
+      "Chianti Classico Riserva",
+      "Vino Nobile di Montepulciano",
+      "Brunello di Montalcino",
+      "Morellino di Scansano"
+    ],
+    "correctAnswer": 2,
+    "explanation": "El Brunello di Montalcino DOCG debe elaborarse con 100% Sangiovese Grosso (localmente llamado Brunello) y requiere un mínimo de 5 años de envejecimiento desde la vendimia (6 para Riserva), incluyendo al menos 2 años en roble y 4 meses en botella."
+  },
+  {
+    "id": 17,
+    "category": "Variedades de Uva Tinta",
+    "question": "¿El Chianti Classico se produce en una zona entre cuáles dos ciudades toscanas?",
+    "options": [
+      "Pisa y Livorno",
+      "Florencia y Siena",
+      "Bolonia y Florencia",
+      "Siena y Arezzo"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La zona del Chianti Classico se encuentra entre Florencia al norte y Siena al sur en Toscana. Históricamente fue la zona original de 'Chianti', definida antes de que la denominación más amplia de Chianti se expandiera."
+  },
+  {
+    "id": 18,
+    "category": "Variedades de Uva Tinta",
+    "question": "El Malbec cultivado a gran altitud en Mendoza (por ejemplo, en las subregiones de Luján de Cuyo y Valle de Uco) muestra típicamente ¿qué características en comparación con ejemplares de menor altitud?",
+    "options": [
+      "Menor intensidad de color, taninos más suaves y más fruta tropical",
+      "Mayor intensidad de color, taninos más firmes, mayor acidez y sabores más complejos",
+      "Cuerpo más ligero, menor alcohol y más notas vegetales verdes",
+      "Sabores menos concentrados debido a temperaturas más frescas que reducen la madurez"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La viticultura de gran altitud en Mendoza (a menudo por encima de los 1000 m en el Valle de Uco) produce Malbec con color más intenso, taninos más firmes, mayor acidez y mayor complejidad en comparación con ejemplares de menor altitud, debido a la mayor variación de temperatura diurna que preserva la frescura."
+  },
+  {
+    "id": 19,
+    "category": "Variedades de Uva Tinta",
+    "question": "El Malbec es originario de ¿qué región francesa, donde es la variedad de uva dominante en los vinos de Cahors?",
+    "options": [
+      "Burdeos",
+      "Borgoña",
+      "Suroeste de Francia (Cahors)",
+      "El Valle del Loira"
+    ],
+    "correctAnswer": 2,
+    "explanation": "El Malbec (conocido como Côt o Auxerrois en Francia) es la variedad dominante en la AOC de Cahors en el suroeste de Francia, donde produce vinos oscuros y tánicos a veces llamados 'vino negro'. Se ha vuelto mucho más famoso en su hogar adoptivo de Argentina."
+  },
+  {
+    "id": 20,
+    "category": "Variedades de Uva Tinta",
+    "question": "¿Qué técnica de vinificación se asocia con el Beaujolais Nouveau y muchos vinos Beaujolais Cru, produciendo vinos con fruta brillante y bajos taninos?",
+    "options": [
+      "Maceración prolongada",
+      "Estabilización en frío",
+      "Maceración carbónica",
+      "Termovinificación"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La maceración carbónica consiste en fermentar uvas enteras sin estrujar en un ambiente rico en CO2. La fermentación comienza dentro de cada uva, produciendo vinos frutales y de bajos taninos. Está fuertemente asociada con la Gamay en Beaujolais, particularmente para el Beaujolais Nouveau."
+  },
+  {
+    "id": 21,
+    "category": "Variedades de Uva Tinta",
+    "question": "¿Cuántos Crus de Beaujolais existen y cuál de los siguientes es uno de ellos?",
+    "options": [
+      "8 Crus; Beaujolais-Villages es uno",
+      "10 Crus; Moulin-à-Vent es uno",
+      "12 Crus; Fleurie es uno de dos Crus nombrados",
+      "6 Crus; Saint-Amour es el único Cru nombrado"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hay 10 Crus de Beaujolais: Saint-Amour, Juliénas, Chénas, Moulin-à-Vent, Fleurie, Chiroubles, Morgon, Régnié, Côte de Brouilly y Brouilly. Moulin-à-Vent se considera uno de los más estructurados y aptos para el envejecimiento."
+  },
+  {
+    "id": 22,
+    "category": "Variedades de Uva Tinta",
+    "question": "La Mourvèdre es la variedad de uva dominante en ¿cuál prestigiosa AOC del sur de Francia, conocida por vinos oscuros y estructurados con notas de garriga y carne?",
+    "options": [
+      "Châteauneuf-du-Pape",
+      "Bandol",
+      "Côtes du Rhône",
+      "Gigondas"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La AOC de Bandol en Provenza requiere que la Mourvèdre represente un mínimo del 50% de la mezcla (en la práctica a menudo más). Los vinos son conocidos por su color oscuro, altos taninos, garriga y complejidad cárnica y terrosa."
+  },
+  {
+    "id": 23,
+    "category": "Variedades de Uva Tinta",
+    "question": "La Zinfandel es genéticamente idéntica a ¿cuál variedad de uva italiana?",
+    "options": [
+      "Negroamaro",
+      "Sagrantino",
+      "Primitivo",
+      "Aglianico"
+    ],
+    "correctAnswer": 2,
+    "explanation": "El análisis de ADN ha demostrado que la Zinfandel (California) y la Primitivo (Puglia, Italia) son la misma variedad de uva, ambas originarias de la uva croata Tribidrag/Crljenak Kaštelanski."
+  },
+  {
+    "id": 24,
+    "category": "Variedades de Uva Tinta",
+    "question": "La Pinotage es un cruce exclusivamente sudafricano de ¿cuáles dos variedades de uva?",
+    "options": [
+      "Pinot Noir y Hermitage (Cinsault)",
+      "Pinot Noir y Cabernet Sauvignon",
+      "Pinot Gris y Syrah",
+      "Pinot Blanc y Gamay"
+    ],
+    "correctAnswer": 0,
+    "explanation": "La Pinotage fue creada en 1925 por el Profesor Abraham Perold en la Universidad de Stellenbosch cruzando Pinot Noir con Hermitage (el nombre sudafricano para Cinsault). Es la variedad de uva emblemática de Sudáfrica."
+  },
+  {
+    "id": 25,
+    "category": "Variedades de Uva Tinta",
+    "question": "La Carménère fue confundida durante mucho tiempo con ¿cuál otra variedad de uva en los viñedos chilenos antes de ser identificada por pruebas de ADN en los años 90?",
+    "options": [
+      "Merlot",
+      "Cabernet Franc",
+      "Malbec",
+      "Petit Verdot"
+    ],
+    "correctAnswer": 0,
+    "explanation": "La Carménère se plantó ampliamente en Chile pero fue erróneamente identificada como Merlot durante muchas décadas. Las pruebas de ADN en 1994 confirmaron su verdadera identidad. Ahora es reconocida como la uva tinta emblemática de Chile, produciendo vinos con fruta oscura, especias y un carácter ocasional a pimiento verde."
+  },
+  {
+    "id": 26,
+    "category": "Variedades de Uva Tinta",
+    "question": "¿Cuál de las siguientes NO es una uva de ensamblaje típica en la Margen Izquierda de Burdeos junto al Cabernet Sauvignon?",
+    "options": [
+      "Merlot",
+      "Cabernet Franc",
+      "Petit Verdot",
+      "Nebbiolo"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Los ensamblajes de la Margen Izquierda de Burdeos se basan en Cabernet Sauvignon, mezclado con Merlot, Cabernet Franc, Petit Verdot y a veces Malbec o Carménère. El Nebbiolo es una variedad piamontesa sin papel en Burdeos."
+  },
+  {
+    "id": 27,
+    "category": "Variedades de Uva Tinta",
+    "question": "Carneros, conocida por producir elegante Pinot Noir, se sitúa en el extremo sur de ¿cuáles dos famosos valles vinícolas de California?",
+    "options": [
+      "Sonoma y Mendocino",
+      "Napa y Sonoma",
+      "Paso Robles y Napa",
+      "San Joaquin Valley y Sonoma"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Carneros (Los Carneros AVA) abarca las porciones sureñas tanto de Napa Valley como del condado de Sonoma. Es enfriada por nieblas y vientos de la Bahía de San Pablo, haciéndola ideal para variedades de clima fresco como Pinot Noir y Chardonnay."
+  },
+  {
+    "id": 28,
+    "category": "Variedades de Uva Tinta",
+    "question": "¿Qué efecto tiene típicamente el envejecimiento prolongado en roble (por ejemplo, en roble americano) en un vino de Rioja a base de Tempranillo?",
+    "options": [
+      "Añade notas de vainilla, coco y tostado mientras suaviza los taninos con el tiempo",
+      "Preserva la fruta primaria fresca y aumenta la acidez",
+      "Reduce significativamente los niveles de color y taninos",
+      "No tiene efecto ya que el Tempranillo es resistente a la influencia del roble"
+    ],
+    "correctAnswer": 0,
+    "explanation": "La Rioja tradicional usa barricas de roble americano, que aportan notas distintivas de vainilla, coco y eneldo al vino. El envejecimiento prolongado suaviza los taninos e integra el roble, creando un carácter más complejo y terciario junto con las notas de cereza y cuero del Tempranillo."
+  },
+  {
+    "id": 29,
+    "category": "Variedades de Uva Tinta",
+    "question": "El Nebbiolo es notoriamente alto en ¿cuáles dos componentes estructurales que hacen del joven Barolo un vino difícil de beber?",
+    "options": [
+      "Tanino y acidez",
+      "Alcohol y azúcar residual",
+      "Intensidad de color y cuerpo",
+      "Acidez volátil y amargor"
+    ],
+    "correctAnswer": 0,
+    "explanation": "El Nebbiolo produce vinos con taninos muy altos y acidez muy alta, haciendo que el joven Barolo y Barbaresco sean austeros y cerrados. Por eso ambos requieren envejecimiento prolongado: los taninos y la acidez se suavizan con los años, revelando complejas notas terciarias."
+  },
+  {
+    "id": 30,
+    "category": "Variedades de Uva Tinta",
+    "question": "El Vino Nobile di Montepulciano se elabora predominantemente con Sangiovese, conocido localmente con ¿qué nombre en esta zona?",
+    "options": [
+      "Brunello",
+      "Morellino",
+      "Prugnolo Gentile",
+      "Sangioveto"
+    ],
+    "correctAnswer": 2,
+    "explanation": "En Montepulciano, el Sangiovese se conoce como Prugnolo Gentile. El Vino Nobile di Montepulciano DOCG requiere un mínimo del 70% de Prugnolo Gentile. No debe confundirse con la uva Montepulciano d'Abruzzo."
+  },
+  {
+    "id": 31,
+    "category": "Variedades de Uva Tinta",
+    "question": "¿Qué factor climático distingue más al Barossa Valley de McLaren Vale en el sur de Australia para la producción de Shiraz?",
+    "options": [
+      "Barossa es más fresco debido a su proximidad al océano",
+      "Barossa es generalmente más cálido y seco, produciendo Shiraz más corpulento y de mayor alcohol",
+      "McLaren Vale tiene significativamente menos precipitaciones haciendo el riego esencial",
+      "Ambas regiones tienen climas prácticamente idénticos y producen el mismo estilo"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El Barossa Valley está más al interior y es generalmente más cálido y seco que McLaren Vale, que se beneficia de cierto enfriamiento marítimo del Golfo de San Vicente. Esto resulta en que Barossa produce Shiraz más rico y opulento, mientras que McLaren Vale puede mostrar mayor complejidad salina y terrosa."
+  },
+  {
+    "id": 32,
+    "category": "Variedades de Uva Tinta",
+    "question": "Gamay Noir à Jus Blanc es el nombre completo de la uva Gamay. ¿Qué indica 'à Jus Blanc'?",
+    "options": [
+      "El vino debe producirse como un blanc de noirs",
+      "La uva tiene jugo blanco (incoloro), con el color proveniente solo de las pieles",
+      "La uva requiere mezcla con variedades blancas para equilibrar la acidez",
+      "La uva fue creada cruzando una variedad blanca y una tinta"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'À Jus Blanc' significa 'con jugo blanco', indicando que el jugo dentro de la uva Gamay es incoloro. El color rojo del vino proviene del contacto con las pieles oscuras de la uva durante la vinificación. Esto es cierto para la mayoría de las uvas tintas."
+  },
+  {
+    "id": 33,
+    "category": "Variedades de Uva Tinta",
+    "question": "¿Cuál Cru de Beaujolais se considera generalmente el más estructurado y apto para envejecer, a menudo comparado con un Borgoña más ligero?",
+    "options": [
+      "Fleurie",
+      "Brouilly",
+      "Moulin-à-Vent",
+      "Chiroubles"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Moulin-à-Vent es ampliamente considerado el más potente y apto para envejecer de los 10 Crus de Beaujolais. Sus suelos graníticos ricos en manganeso producen vinos con más estructura y tanino que pueden envejecer 5-10+ años, desarrollando una complejidad similar al Pinot Noir."
+  },
+  {
+    "id": 34,
+    "category": "Variedades de Uva Tinta",
+    "question": "¿Qué indica el término 'Crianza' en una etiqueta de vino tinto español en términos de envejecimiento?",
+    "options": [
+      "El vino ha sido envejecido un mínimo de 5 años en roble",
+      "El vino ha sido envejecido un mínimo de 2 años, con al menos 6 meses en roble (en Rioja: 1 año en roble)",
+      "El vino no ha tenido envejecimiento en roble y se comercializa joven",
+      "El vino proviene de un viñedo único y se envejece un mínimo de 3 años"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Crianza es la categoría de envejecimiento de nivel inicial para vinos tintos españoles. Generalmente requiere un mínimo de 2 años de envejecimiento con un tiempo especificado en roble (que varía por región). En Rioja específicamente, el Crianza requiere al menos 2 años en total con al menos 1 año en roble."
+  },
+  {
+    "id": 35,
+    "category": "Variedades de Uva Tinta",
+    "question": "¿Cuál de las siguientes opciones describe mejor el perfil de sabor típico de la Carménère de Chile?",
+    "options": [
+      "Fruta roja brillante, alta acidez y cuerpo delgado similar al Pinot Noir",
+      "Fruta oscura (ciruela, mora), especias y a veces notas de pimiento verde o café con cuerpo medio-lleno",
+      "Taninos y acidez extremadamente altos con un estilo muy austero y estructurado",
+      "Color claro, bajos taninos y fruta fresca de frambuesa con aromas florales"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La Carménère chilena muestra típicamente sabores de fruta oscura (ciruela, mora, cassis), notas especiadas y un carácter distintivo a pimiento verde (de pirazinas) cuando no está completamente madura, o notas de café/chocolate cuando está plenamente madura. Tiene cuerpo medio-lleno con taninos suaves."
+  },
+  {
+    "id": 36,
+    "category": "Variedades de Uva Blanca",
+    "question": "Chablis, en la parte más septentrional de Borgoña, es conocido por producir ¿qué estilo de Chardonnay?",
+    "options": [
+      "Rico, corpulento y fuertemente enrobleado con notas mantecosas",
+      "Delgado, de alta acidez, con notas minerales, de pedernal y manzana verde, típicamente sin roble o ligeramente enrobleado",
+      "Dulce y aromático con notas florales y azúcar residual",
+      "Corpulento y enrobleado, indistinguible del Meursault"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El clima fresco de Chablis y sus suelos de caliza kimmeridgiense producen Chardonnay delgado y de alta acidez con notas distintivas minerales, calcáreas y de pedernal. Los vinos son típicamente sin roble (o usan roble grande y viejo) para preservar este estilo crujiente y acerado, contrastando fuertemente con los Chardonnays más ricos de la Côte de Beaune."
+  },
+  {
+    "id": 37,
+    "category": "Variedades de Uva Blanca",
+    "question": "Meursault, en la Côte de Beaune, produce Chardonnay con ¿cuáles características estilísticas típicas?",
+    "options": [
+      "Ligero, sin roble, con cítricos y manzana verde",
+      "Rico y corpulento con avellana, mantequilla y fruta de hueso, envejecido en barricas de roble francés",
+      "Vinos dulces botritizados con notas de miel y albaricoque",
+      "Vinos espumosos producidos por el método tradicional"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Meursault produce Borgoña blanco rico y corpulento envejecido en roble francés. Los vinos son conocidos por su carácter a frutos secos (avellana, almendra), mantecoso y de fruta de hueso (melocotón, nectarina) con una textura cremosa de la fermentación maloláctica."
+  },
+  {
+    "id": 38,
+    "category": "Variedades de Uva Blanca",
+    "question": "En Champagne, ¿qué papel específico desempeña el Chardonnay en la producción de 'Blanc de Blancs'?",
+    "options": [
+      "Se mezcla con Pinot Noir y Pinot Meunier en proporciones iguales",
+      "El Blanc de Blancs se elabora exclusivamente con Chardonnay, produciendo un estilo más ligero y elegante",
+      "El Chardonnay se usa solo para los vinos de reserva en el Blanc de Blancs",
+      "Proporciona color y cuerpo en la mezcla, con el Pinot Noir aportando frescura"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El Champagne Blanc de Blancs se elabora exclusivamente con uvas blancas — en la práctica casi siempre 100% Chardonnay. Estos vinos tienden a ser más ligeros, más elegantes, con mayor acidez y notas de cítricos/manzana verde, y tienen excelente potencial de envejecimiento."
+  },
+  {
+    "id": 39,
+    "category": "Variedades de Uva Blanca",
+    "question": "El Sauvignon Blanc de Sancerre (Valle del Loira) se caracteriza típicamente por ¿cuál perfil aromático?",
+    "options": [
+      "Fruta tropical (mango, maracuyá), baja acidez y cuerpo lleno",
+      "Acidez crujiente, con notas de cítricos, grosella espinosa y minerales/pedernal de los suelos kimmeridgienses",
+      "Rico, enrobleado, con vainilla y tostado complementando fruta de hueso madura",
+      "Notas florales dulces con alto azúcar residual y textura melosa"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sancerre produce Sauvignon Blanc lineal y mineral con alta acidez, cítricos, grosella espinosa y una distintiva cualidad mineral de pedernal/sílex atribuida a los suelos de caliza kimmeridgiense y sílex. Es bastante diferente al estilo más tropical de Marlborough."
+  },
+  {
+    "id": 40,
+    "category": "Variedades de Uva Blanca",
+    "question": "¿Cuál es la variedad de uva principal en el Burdeos blanco seco, típicamente mezclada con Sauvignon Blanc para añadir riqueza y textura?",
+    "options": [
+      "Muscadelle",
+      "Sémillon",
+      "Chenin Blanc",
+      "Viognier"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El Sémillon es la uva principal del Burdeos blanco seco (por ejemplo, Pessac-Léognan), mezclada con Sauvignon Blanc. El Sémillon añade cuerpo, textura y potencial de envejecimiento, mientras que el Sauvignon Blanc proporciona frescura aromática y acidez."
+  },
+  {
+    "id": 41,
+    "category": "Variedades de Uva Blanca",
+    "question": "El Sauvignon Blanc de Marlborough, Nueva Zelanda, se caracteriza por ¿cuál perfil aromático distintivo en comparación con los ejemplares del Valle del Loira?",
+    "options": [
+      "Más mineral y austero con fruta menos evidente",
+      "Más fruta tropical (maracuyá, guayaba), notas herbáceas y tioles pungentes, con acidez vibrante",
+      "Más rico y corpulento debido al envejecimiento prolongado en roble",
+      "Más ligero y sutil, con menor acidez que los ejemplares del Loira"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El Sauvignon Blanc de Marlborough es conocido por su estilo pungente y expresivo con maracuyá, guayaba, kiwi y notas de pimiento, junto con tioles característicos (pomelo, notas a sudor). Esto contrasta con el estilo más contenido y mineral del Valle del Loira."
+  },
+  {
+    "id": 42,
+    "category": "Variedades de Uva Blanca",
+    "question": "En la clasificación de vinos alemanes, ¿qué indica el nivel Prädikat 'Spätlese' sobre las uvas utilizadas?",
+    "options": [
+      "Las uvas fueron cosechadas temprano para preservar alta acidez",
+      "Las uvas fueron cosechadas tardíamente con niveles de azúcar natural más altos que Kabinett",
+      "Las uvas fueron seleccionadas individualmente por infección de botrytis",
+      "El vino se elabora con uvas congeladas cosechadas en invierno"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Spätlese ('vendimia tardía') significa que las uvas fueron cosechadas más tarde de lo normal, acumulando niveles más altos de azúcar natural (el peso mínimo del mosto es mayor que el de Kabinett). Los vinos Spätlese pueden ser secos, semisecos o dulces según la elección del enólogo respecto al azúcar residual."
+  },
+  {
+    "id": 43,
+    "category": "Variedades de Uva Blanca",
+    "question": "¿Cómo difiere típicamente en estilo el Riesling del Mosela del Riesling de Alsacia?",
+    "options": [
+      "El Riesling del Mosela es usualmente más corpulento, mayor en alcohol y a menudo vinificado seco",
+      "El Riesling del Mosela es típicamente más bajo en alcohol, más ligero, más delicado con mayor acidez y a menudo semiseco; el Riesling de Alsacia tiende a ser más seco, más corpulento y mayor en alcohol",
+      "El Riesling de Alsacia es siempre más dulce que el del Mosela debido a que la botrytis es más común",
+      "No hay diferencia significativa ya que ambas regiones producen el mismo estilo"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Las empinadas laderas de pizarra del Mosela producen Riesling delicado, bajo en alcohol (7-10% ABV), de alta acidez que es a menudo semiseco o dulce. El clima continental más seco de Alsacia produce Riesling más corpulento, seco y de mayor alcohol (a menudo 12-13% ABV) con más cuerpo y fruta madura."
+  },
+  {
+    "id": 44,
+    "category": "Variedades de Uva Blanca",
+    "question": "El Riesling del Clare Valley en el sur de Australia es conocido por ¿cuál estilo distintivo?",
+    "options": [
+      "Dulce, botritizado y bajo en alcohol",
+      "Seco, con alta acidez, notas de lima cítrica, mineral de pizarra y excelente potencial de envejecimiento",
+      "Rico, corpulento y fuertemente enrobleado",
+      "Aromático y semiseco con notas florales y de lichi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El Clare Valley produce algunos de los Riesling secos más celebrados de Australia, conocidos por su acidez crujiente, alta, lima y notas de pizarra/mineral. Estos vinos son famosamente aptos para envejecer, desarrollando notas de petróleo/queroseno con el tiempo — una señal clásica de Riesling envejecido (compuesto TDN)."
+  },
+  {
+    "id": 45,
+    "category": "Variedades de Uva Blanca",
+    "question": "¿Cuál es la diferencia clave entre el Pinot Grigio del Véneto (Italia) y el Pinot Gris de Alsacia (Francia)?",
+    "options": [
+      "Son diferentes variedades de uva con perfiles de sabor distintos",
+      "El Pinot Grigio del Véneto es típicamente ligero, crujiente y neutro; el Pinot Gris de Alsacia es más corpulento, rico y aromático con notas especiadas",
+      "El Pinot Gris de Alsacia es siempre dulce mientras que el Pinot Grigio del Véneto es siempre seco",
+      "El Pinot Grigio del Véneto se envejece en roble; el Pinot Gris de Alsacia siempre es sin roble"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Son la misma uva (Pinot Gris) pero producen estilos contrastantes debido al clima y la vinificación. El estilo ligero del Véneto es pálido, crujiente y neutro, diseñado para consumo cotidiano. El clima continental de Alsacia y la vinificación de bajo rendimiento produce vinos ricos, corpulentos, especiados y a veces semisecos."
+  },
+  {
+    "id": 46,
+    "category": "Variedades de Uva Blanca",
+    "question": "El Gewürztraminer de Alsacia es reconocido por ¿cuáles características aromáticas?",
+    "options": [
+      "Neutro, crujiente y ligeramente floral",
+      "Intensamente aromático con lichi, pétalo de rosa, jengibre y especias, con menor acidez y cuerpo rico y lleno",
+      "Herbáceo y herboso con notas cítricas",
+      "Delicado con fruta de hueso sutil y alta acidez"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El Gewürztraminer es una de las uvas vinícolas más aromáticas del mundo, con intensos aromas de lichi, rosa, delicia turca, jengibre y especias. Los ejemplares de Alsacia son típicamente corpulentos con acidez relativamente baja, a veces con azúcar residual."
+  },
+  {
+    "id": 47,
+    "category": "Variedades de Uva Blanca",
+    "question": "El Viognier es la única variedad blanca permitida en ¿cuál prestigiosa denominación del norte del Ródano conocida por sus vinos blancos ricos y florales?",
+    "options": [
+      "Hermitage",
+      "Crozes-Hermitage",
+      "Condrieu",
+      "Saint-Joseph"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La AOC de Condrieu está dedicada exclusivamente al Viognier, produciendo algunos de los vinos blancos más distintivos del mundo con intensos aromas florales (flor de albaricoque, violeta), sabores de fruta de hueso (melocotón, albaricoque) y un cuerpo rico y lleno. Château-Grillet es una AOC de finca única dentro de Condrieu también elaborada con Viognier."
+  },
+  {
+    "id": 48,
+    "category": "Variedades de Uva Blanca",
+    "question": "En el norte del Ródano, ¿pequeñas cantidades de Viognier están legalmente permitidas para co-fermentarse con Syrah en cuál denominación de vino tinto?",
+    "options": [
+      "Saint-Joseph",
+      "Crozes-Hermitage",
+      "Côte-Rôtie",
+      "Cornas"
+    ],
+    "correctAnswer": 2,
+    "explanation": "En Côte-Rôtie, hasta un 20% de Viognier puede legalmente co-fermentarse con Syrah. Se cree que el Viognier (que es blanco) mejora la estabilidad del color, añade aromáticos florales y suaviza el vino. Esta es una práctica tradicional, aunque muchos productores ahora elaboran 100% Syrah."
+  },
+  {
+    "id": 49,
+    "category": "Variedades de Uva Blanca",
+    "question": "La AOC de Vouvray en el Valle del Loira produce vinos exclusivamente con ¿cuál variedad de uva, en una gama de estilos de seco a dulce?",
+    "options": [
+      "Sauvignon Blanc",
+      "Muscadet/Melon de Bourgogne",
+      "Chenin Blanc",
+      "Chardonnay"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Vouvray se elabora enteramente con Chenin Blanc (llamado Pineau de la Loire localmente) y puede variar desde completamente seco (sec) hasta dulce (moelleux) y espumoso (Vouvray Pétillant o Mousseux). La alta acidez natural del Chenin Blanc permite que incluso las versiones más dulces se sientan equilibradas."
+  },
+  {
+    "id": 50,
+    "category": "Variedades de Uva Blanca",
+    "question": "El Sémillon del Hunter Valley en Nueva Gales del Sur, Australia, es distintivo porque se cosecha típicamente temprano y tiene bajo alcohol. ¿Qué desarrolla con el envejecimiento?",
+    "options": [
+      "Más sabores de fruta tropical y un final más dulce",
+      "Una rica complejidad tostada y melosa con notas de crema de limón y lanolina, a pesar de ser seco",
+      "Mayor acidez fresca pero pérdida de todo carácter frutal",
+      "Color dorado profundo y carácter de botrytis similar al Sauternes"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El Sémillon del Hunter Valley se cosecha temprano a bajos niveles de azúcar (alrededor del 11% ABV) e inicialmente sabe delgado y cítrico. Con 5-15 años de envejecimiento en botella, desarrolla una notable complejidad: pan tostado, miel, crema de limón, cera de abeja y notas de lanolina — uno de los estilos de vino más distintivos de Australia."
+  },
+  {
+    "id": 51,
+    "category": "Variedades de Uva Blanca",
+    "question": "El Sauternes, el famoso vino dulce de Burdeos, se elabora principalmente con Sémillon afectado por ¿cuál hongo beneficioso?",
+    "options": [
+      "Oídio (Oidium)",
+      "Podredumbre noble (Botrytis cinerea)",
+      "Levadura de flor",
+      "Podredumbre negra (Plasmopara viticola)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La riqueza del Sauternes proviene de Botrytis cinerea (podredumbre noble), que concentra azúcares, ácidos y sabores en las uvas afectadas al deshidratarlas. La mezcla típica es Sémillon (dominante), Sauvignon Blanc y una pequeña cantidad de Muscadelle."
+  },
+  {
+    "id": 52,
+    "category": "Variedades de Uva Blanca",
+    "question": "El Moscato d'Asti DOCG del Piamonte se caracteriza por ¿cuál estilo?",
+    "options": [
+      "Completamente espumoso, completamente seco y alto en alcohol",
+      "Ligeramente espumoso (frizzante), bajo en alcohol (típicamente 5-6,5% ABV), dulce, con delicados aromas de melocotón y albaricoque",
+      "Completamente espumoso, seco y producido por el método tradicional",
+      "Tranquilo, seco y envejecido en barricas de roble"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El Moscato d'Asti es un vino dulce delicado y ligeramente espumoso (frizzante) elaborado con Muscat Bianco (Moscato Bianco). Tiene bajo alcohol (típicamente 5-6,5% ABV), azúcar residual y encantadores aromas de melocotón, albaricoque y florales. La fermentación se detiene temprano para retener la dulzura y el bajo alcohol."
+  },
+  {
+    "id": 53,
+    "category": "Variedades de Uva Blanca",
+    "question": "El Muscat de Beaumes-de-Venise del sur del Ródano es un ejemplo de ¿cuál estilo de vino?",
+    "options": [
+      "Un vino blanco seco y tranquilo",
+      "Un Vin Doux Naturel — un vino dulce fortificado",
+      "Un vino naturalmente dulce elaborado con uvas de vendimia tardía sin fortificación",
+      "Un vino espumoso elaborado por el método tradicional"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El Muscat de Beaumes-de-Venise es un Vin Doux Naturel (VDN), lo que significa que la fermentación se detiene mediante la adición de aguardiente de uva neutro, dejando azúcar residual mientras se preservan los aromas frescos del Muscat. Es rico, dulce y aromático con notas de flor de azahar y albaricoque."
+  },
+  {
+    "id": 54,
+    "category": "Variedades de Uva Blanca",
+    "question": "El Albariño (Alvarinho) es la uva principal de Rías Baixas en Galicia, España. ¿Qué estilo de vino produce típicamente?",
+    "options": [
+      "Corpulento, enrobleado, con baja acidez",
+      "Aromático, con notas de fruta de hueso y florales, alta acidez y cuerpo medio, a menudo con una ligera cualidad salina/mineral",
+      "Ligero, neutro y bajo en alcohol",
+      "Rico y dulce, afectado por botrytis"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El Albariño de Rías Baixas es conocido por su perfil aromático (melocotón, albaricoque, cítricos, notas florales), alta acidez y una característica cualidad mineral, casi salina, de la influencia atlántica. Es típicamente sin roble y mejor consumido joven, aunque las versiones premium pueden envejecer."
+  },
+  {
+    "id": 55,
+    "category": "Variedades de Uva Blanca",
+    "question": "El Wachau en Austria utiliza su propio sistema de clasificación para Grüner Veltliner y Riesling. ¿Cuál de las siguientes opciones ordena correctamente las tres categorías del Wachau de más ligero a más rico?",
+    "options": [
+      "Steinfeder, Federspiel, Smaragd",
+      "Federspiel, Steinfeder, Smaragd",
+      "Smaragd, Federspiel, Steinfeder",
+      "Steinfeder, Smaragd, Federspiel"
+    ],
+    "correctAnswer": 0,
+    "explanation": "La clasificación Vinea Wachau va de más ligero a más rico: Steinfeder (delicado, máx. 11,5% ABV), Federspiel (cuerpo medio, hasta 12,5% ABV) y Smaragd (más rico, más maduro, mínimo 12,5% ABV). Nombrados respectivamente por una hierba, un ave y un lagarto."
+  },
+  {
+    "id": 56,
+    "category": "Variedades de Uva Blanca",
+    "question": "El Torrontés es la variedad de uva blanca más importante de Argentina, cultivada principalmente en ¿cuál región de gran altitud?",
+    "options": [
+      "Mendoza",
+      "Patagonia",
+      "Salta (Cafayate)",
+      "San Juan"
+    ],
+    "correctAnswer": 2,
+    "explanation": "El Torrontés está fuertemente asociado con la provincia de Salta, particularmente el valle de Cafayate a altitudes de hasta 3.000 m. Produce vinos altamente aromáticos con notas florales (rosa, geranio) y de fruta de hueso. A pesar de sus intensos aromáticos, es típicamente seco."
+  },
+  {
+    "id": 57,
+    "category": "Variedades de Uva Blanca",
+    "question": "Marsanne y Roussanne son variedades de uva blanca asociadas con ¿cuál región vinícola francesa?",
+    "options": [
+      "Burdeos",
+      "Valle del Loira",
+      "Valle del Ródano (particularmente el norte del Ródano en Hermitage)",
+      "Alsacia"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Marsanne y Roussanne son las variedades blancas principales del norte del Ródano, usadas para producir Hermitage blanco y Crozes-Hermitage, así como Château-Grillet (Viognier) y St-Péray (Marsanne). También aparecen en los ensamblajes del sur del Ródano."
+  },
+  {
+    "id": 58,
+    "category": "Variedades de Uva Blanca",
+    "question": "¿Cuál es la diferencia clave en vinificación entre un Chardonnay sin roble y uno con roble en cuanto a cómo afecta el sabor?",
+    "options": [
+      "El Chardonnay con roble siempre tiene más azúcar residual que el sin roble",
+      "El Chardonnay con roble gana vainilla, tostado y textura cremosa del contacto con la madera, a menudo con la FML añadiendo notas mantecosas; el sin roble retiene más fruta primaria y acidez",
+      "El Chardonnay sin roble tiene mayor alcohol debido a una fermentación más rápida",
+      "No hay diferencia perceptible en el vino final"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El envejecimiento en roble añade sabores secundarios (vainilla, tostado, humo, crema) al Chardonnay, y la fermentación/envejecimiento en barrica con contacto con lías y FML (fermentación maloláctica) añade una textura cremosa y mantecosa. El Chardonnay sin roble o fermentado en acero inoxidable preserva la fruta primaria fresca (manzana, cítricos, melón) y una acidez más alta y crujiente."
+  },
+  {
+    "id": 59,
+    "category": "Variedades de Uva Blanca",
+    "question": "La AOC de Savennières en el Valle del Loira se considera una de las mejores expresiones del mundo de ¿cuál variedad de uva en estilo seco?",
+    "options": [
+      "Sauvignon Blanc",
+      "Pinot Gris",
+      "Chenin Blanc",
+      "Muscadet"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Savennières produce vinos de Chenin Blanc completamente secos de notable complejidad y longevidad. Los suelos volcánicos/esquistosos y la disciplina de la denominación resultan en vinos con alta acidez, intensidad mineral y capacidad de envejecer durante décadas. Coulée de Serrant es la finca individual más famosa."
+  },
+  {
+    "id": 60,
+    "category": "Variedades de Uva Blanca",
+    "question": "¿Qué significa 'Auslese' en el sistema Prädikat alemán y qué estilo de vino produce típicamente?",
+    "options": [
+      "Uvas cosechadas normalmente, produciendo un vino seco",
+      "Racimos seleccionados de uvas de vendimia tardía, produciendo vinos que van de medio-dulce a dulce con fruta concentrada",
+      "Bayas seleccionadas individualmente afectadas por botrytis, produciendo vino muy dulce y complejo",
+      "Uvas congeladas cosechadas en invierno, produciendo un Eiswein intensamente dulce"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Auslese ('cosecha seleccionada') se refiere a racimos seleccionados individualmente (no bayas) de uvas de vendimia tardía. Los vinos son típicamente de cuerpo medio a lleno, a menudo con algo de dulzor residual, y a veces con influencia parcial de botrytis. Son más ricos que Spätlese pero más ligeros que Beerenauslese."
+  },
+  {
+    "id": 61,
+    "category": "Variedades de Uva Blanca",
+    "question": "¿Cuál proceso de vinificación, a menudo aplicado al Borgoña blanco, convierte el ácido málico agudo en ácido láctico más suave, reduciendo la acidez percibida y añadiendo una textura cremosa?",
+    "options": [
+      "Estabilización en frío",
+      "Fermentación maloláctica (FML)",
+      "Micro-oxigenación",
+      "Clarificación con bentonita"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La fermentación maloláctica (FML o fermentación secundaria) convierte el ácido málico de sabor más agudo en ácido láctico más suave, reduciendo la acidez del vino y añadiendo una textura y sabor cremoso y mantecoso. Se usa ampliamente para el Borgoña blanco y el Chardonnay de California pero se bloquea para Chablis y la mayoría de las variedades aromáticas."
+  },
+  {
+    "id": 62,
+    "category": "Variedades de Uva Blanca",
+    "question": "El Grüner Veltliner es la uva blanca emblemática de Austria. ¿Cuál es el descriptor de sabor más característico que se usa a menudo para esta variedad?",
+    "options": [
+      "Lichi y pétalo de rosa",
+      "Pimienta blanca (junto con cítricos, notas de vegetales verdes)",
+      "Miel y albaricoque con baja acidez",
+      "Fruta tropical y vainilla del envejecimiento en roble"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La característica más distintiva del Grüner Veltliner es su nota de pimienta blanca, junto con cítricos, hierbas verdes (eneldo, perejil) y a veces pomelo. Los mejores ejemplares del Wachau (nivel Smaragd) pueden ser ricos y aptos para envejecer."
+  },
+  {
+    "id": 63,
+    "category": "Variedades de Uva Blanca",
+    "question": "En Alsacia, ¿el Riesling se considera de cuál estilo comparado con su homólogo alemán, y por qué?",
+    "options": [
+      "Más dulce y menor en alcohol debido a una cosecha más temprana",
+      "Más seco, más corpulento y mayor en alcohol debido al clima continental más soleado, cálido y seco (sombra de lluvia) de Alsacia",
+      "Más ácido y ligero con fruta menos madura que el Riesling alemán",
+      "Idéntico en estilo ya que ambas regiones comparten los mismos métodos vitícolas"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Alsacia se sitúa en la sombra de lluvia de los Vosgos, dándole uno de los climas más secos y soleados de Francia. Este calor continental permite que el Riesling madure completamente, produciendo vinos más secos y corpulentos (a menudo 12-14% ABV) comparados con los estilos alemanes más ligeros y a menudo semisecos."
+  },
+  {
+    "id": 64,
+    "category": "Variedades de Uva Blanca",
+    "question": "El Chenin Blanc en Sudáfrica se planta ampliamente y se usa para una gama de estilos de vino. ¿Con qué otro nombre se conoce ampliamente el Chenin Blanc en Sudáfrica?",
+    "options": [
+      "Palomino",
+      "Steen",
+      "Colombard",
+      "Clairette"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El Chenin Blanc se conoce ampliamente como 'Steen' en Sudáfrica, donde es la variedad de uva más plantada. Se usa para producir desde vinos frescos y ligeros de consumo cotidiano hasta vinos secos serios y complejos y vinos dulces de postre."
+  },
+  {
+    "id": 65,
+    "category": "Variedades de Uva Blanca",
+    "question": "El Asti DOCG (anteriormente Asti Spumante) del Piamonte se produce con Muscat (Moscato Bianco) usando ¿cuál método?",
+    "options": [
+      "Método tradicional (méthode champenoise) con fermentación secundaria en botella",
+      "Método Charmat/tanque con fermentación secundaria en tanques presurizados",
+      "El método Asti — una fermentación única detenida temprano mediante enfriamiento y filtración, luego embotellado bajo presión",
+      "Método ancestral (pétillant naturel) con fermentación completándose en la botella"
+    ],
+    "correctAnswer": 2,
+    "explanation": "El Asti DOCG usa un método único de fermentación única (a veces llamado el método Asti): el mosto de uva se somete a una sola fermentación que se detiene temprano (mediante enfriamiento y filtración) cuando el vino alcanza la dulzura y nivel de CO2 deseados. A diferencia del Champagne, no hay fermentación secundaria."
+  },
+  {
+    "id": 66,
+    "category": "Variedades de Uva Blanca",
+    "question": "¿Cuál es el término para el mosto de uva sin fermentar usado como vino base para el Champagne y muchos otros vinos espumosos de método tradicional?",
+    "options": [
+      "Cuvée",
+      "Liqueur de tirage",
+      "Vino base tranquilo (vin clair)",
+      "Mistelle"
+    ],
+    "correctAnswer": 2,
+    "explanation": "El vino base tranquilo (vin clair en francés) es el vino tranquilo de bajo alcohol y alta acidez elaborado antes de la segunda fermentación en la producción de Champagne. Típicamente se cata y mezcla antes de que se añada el liqueur de tirage (azúcar + levadura) para iniciar la fermentación secundaria en botella."
+  },
+  {
+    "id": 67,
+    "category": "Variedades de Uva Blanca",
+    "question": "¿Cuál es una característica clave de la familia de uvas aromáticas Muscat que la distingue de la mayoría de las otras uvas vinícolas?",
+    "options": [
+      "Produce vinos que saben completamente diferentes a las uvas frescas",
+      "Los vinos de Muscat saben muy similar a la uva real, con aromas distintivamente afrutados a uva",
+      "Siempre se vinifica como vino dulce independientemente de la intervención enológica",
+      "El Muscat es la única variedad que no puede usarse para elaborar vino espumoso"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Una característica definitoria del Muscat (y es una gran familia de variedades) es que los vinos saben inconfundiblemente 'a uva' — huelen y saben a uvas Muscat frescas. Esto distingue al Muscat de otras uvas vinícolas cuyo sabor se transforma significativamente durante la fermentación."
+  },
+  {
+    "id": 68,
+    "category": "Variedades de Uva Blanca",
+    "question": "Pouilly-Fumé en el Valle del Loira se elabora con 100% Sauvignon Blanc. ¿A qué se refiere tradicionalmente 'Fumé' (ahumado) en el nombre?",
+    "options": [
+      "El vino se ahúma ligeramente durante la producción",
+      "El carácter mineral ahumado/de pedernal del vino atribuido a los suelos locales de sílex",
+      "Los aromas ahumados del envejecimiento obligatorio en barricas de roble",
+      "El carácter a pólvora del azufre añadido"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El 'Fumé' en Pouilly-Fumé se refiere tradicionalmente a las notas minerales ahumadas y de pedernal del vino, atribuidas en parte a los suelos locales de sílex (pedernal) y en parte al carácter natural del Sauvignon Blanc maduro. No está relacionado con el ahumado ni con el envejecimiento en roble."
+  },
+  {
+    "id": 69,
+    "category": "Variedades de Uva Blanca",
+    "question": "El Hermitage blanco del norte del Ródano se elabora principalmente con Marsanne. ¿Cómo se comporta típicamente la Marsanne al envejecer?",
+    "options": [
+      "Pierde todo su carácter frutal y se vuelve austero y delgado",
+      "Pasa por una fase muda antes de abrirse con una rica complejidad melosa, de frutos secos y cerosa con la edad",
+      "Conserva notas frescas de cítricos durante todo su potencial de envejecimiento",
+      "Se vuelve más dulce a medida que desarrolla azúcar residual durante el envejecimiento en botella"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La Marsanne es uno de los pocos vinos blancos que mejora significativamente con el envejecimiento prolongado en botella. La Marsanne joven puede ser pesada y aparentemente simple, pero durante 10-20+ años desarrolla una notable complejidad melosa, de frutos secos, mazapán y notas cerosas. El Hermitage blanco se considera capaz de envejecer durante décadas."
+  },
+  {
+    "id": 70,
+    "category": "Variedades de Uva Blanca",
+    "question": "En la región de Sauternes en Burdeos, ¿cuál mezcla de variedades de uva se usa típicamente para producir el vino dulce botritizado?",
+    "options": [
+      "100% Sauvignon Blanc",
+      "Sémillon, Sauvignon Blanc y Muscadelle",
+      "Sémillon y Viognier",
+      "Chenin Blanc y Sauvignon Blanc"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El Sauternes se elabora típicamente con una mezcla de Sémillon (la variedad dominante, altamente susceptible a la botrytis), Sauvignon Blanc (proporcionando frescura aromática y acidez) y una pequeña cantidad de Muscadelle. La piel delgada del Sémillon lo hace particularmente vulnerable a la podredumbre noble."
+  },
+  {
+    "id": 71,
+    "category": "Vino Espumoso",
+    "question": "¿Cómo se llama el proceso de fermentación secundaria en la producción de Champagne y dónde tiene lugar?",
+    "options": [
+      "Método Charmat; tiene lugar en grandes tanques presurizados",
+      "Método tradicional (méthode champenoise); tiene lugar en la botella individual",
+      "Método ancestral; tiene lugar en la botella usando solo los azúcares originales de la uva",
+      "Método de transferencia; comienza en la botella y luego se transfiere a un tanque"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El Champagne se elabora por el método tradicional (méthode champenoise o méthode traditionnelle), en el que la fermentación secundaria tiene lugar dentro de la botella individual después de la adición de una solución de azúcar y levadura (liqueur de tirage). Esto crea CO2 atrapado en el vino, creando las burbujas."
+  },
+  {
+    "id": 72,
+    "category": "Vino Espumoso",
+    "question": "¿Cuál es el tiempo mínimo que el Champagne sin añada (NV) debe envejecerse sobre sus lías antes de su comercialización?",
+    "options": [
+      "6 meses",
+      "12 meses",
+      "15 meses",
+      "36 meses"
+    ],
+    "correctAnswer": 2,
+    "explanation": "El Champagne NV debe envejecerse sobre sus lías durante un mínimo de 15 meses (de los cuales al menos 12 meses deben ser sobre las lías en botella). El Champagne de añada requiere un mínimo de 36 meses sobre las lías. Las casas premium a menudo envejecen sus vinos NV durante mucho más tiempo."
+  },
+  {
+    "id": 73,
+    "category": "Vino Espumoso",
+    "question": "¿Cuál es el proceso de 'removido' (remuage) en la producción de Champagne?",
+    "options": [
+      "Añadir el dosaje para ajustar la dulzura antes del taponado final",
+      "El giro gradual e inclinación de las botellas (tradicionalmente a mano en un pupitre) para mover el sedimento de lías al cuello para el degüelle",
+      "Congelar el cuello de la botella para retirar el tapón de lías",
+      "El primer trasiego del vino base antes de la fermentación secundaria"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El removido (remuage) es el proceso de inclinar y rotar gradualmente las botellas para que el sedimento (células de levadura muertas de la fermentación secundaria) se acumule en el cuello de la botella. Tradicionalmente hecho a mano en un pupitre durante 6-8 semanas, ahora se hace mayormente de forma mecánica en gyropalettes."
+  },
+  {
+    "id": 74,
+    "category": "Vino Espumoso",
+    "question": "¿Qué término describe el proceso de retirar el sedimento de lías de una botella de Champagne?",
+    "options": [
+      "Dosaje",
+      "Removido",
+      "Degüelle (dégorgement)",
+      "Tirage"
+    ],
+    "correctAnswer": 2,
+    "explanation": "El degüelle (dégorgement) es la eliminación del sedimento de levadura del cuello de la botella. El cuello se congela, formando un tapón de hielo que contiene el sedimento. La presión en la botella expulsa el tapón de hielo cuando se retira la chapa, y luego el vino se rellena con el dosaje."
+  },
+  {
+    "id": 75,
+    "category": "Vino Espumoso",
+    "question": "¿Qué es el 'dosaje' en la producción de Champagne?",
+    "options": [
+      "La adición de azúcar y levadura para iniciar la fermentación secundaria",
+      "Una mezcla de vino y azúcar (liqueur d'expédition) añadida después del degüelle para ajustar el nivel final de dulzura",
+      "La medición de la presión de CO2 disuelto en el vino terminado",
+      "La proporción de vinos de reserva añadidos a la mezcla NV"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Después del degüelle, se pierde una pequeña cantidad de vino con el tapón de hielo. El dosaje (liqueur d'expédition) — una mezcla de vino y azúcar de caña — se añade para rellenar la botella y determinar el nivel final de dulzura (por ejemplo, Brut, Extra Brut, Demi-Sec)."
+  },
+  {
+    "id": 76,
+    "category": "Vino Espumoso",
+    "question": "¿Cuánto azúcar residual se permite en un Champagne 'Brut'?",
+    "options": [
+      "0-3 g/L",
+      "0-6 g/L",
+      "Hasta 12 g/L",
+      "12-17 g/L"
+    ],
+    "correctAnswer": 2,
+    "explanation": "El Champagne Brut puede contener hasta 12 g/L de azúcar residual. Extra Brut es 0-6 g/L, Brut Nature/Zero Dosage es 0-3 g/L, y Demi-Sec es 32-50 g/L. A pesar de permitirse hasta 12 g/L para Brut, la alta acidez hace que sepa seco."
+  },
+  {
+    "id": 77,
+    "category": "Vino Espumoso",
+    "question": "¿Cuáles tres variedades de uva son las principales uvas utilizadas en la producción de Champagne?",
+    "options": [
+      "Chardonnay, Sauvignon Blanc y Pinot Meunier",
+      "Chardonnay, Pinot Noir y Pinot Meunier",
+      "Chardonnay, Pinot Noir y Pinot Gris",
+      "Pinot Noir, Pinot Meunier y Pinot Blanc"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Las tres uvas principales del Champagne son Chardonnay (aportando frescura, elegancia y potencial de envejecimiento), Pinot Noir (estructura, cuerpo y carácter de fruta roja) y Pinot Meunier (accesibilidad, redondez y fruta juvenil). Otras variedades están permitidas pero se usan raramente."
+  },
+  {
+    "id": 78,
+    "category": "Vino Espumoso",
+    "question": "¿Qué distingue a un Champagne 'Blanc de Noirs' de un ensamblaje estándar de Champagne?",
+    "options": [
+      "Se elabora solo con uvas blancas (Chardonnay)",
+      "Se elabora solo con uvas de piel oscura (Pinot Noir y/o Pinot Meunier), produciendo un vino blanco",
+      "Contiene una mayor proporción de vino tinto en la mezcla para crear color",
+      "Debe ser elaborado por un viticultor en lugar de una casa (récoltant manipulant)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El Blanc de Noirs es un Champagne blanco elaborado enteramente con uvas de piel oscura — Pinot Noir y/o Pinot Meunier. El jugo se separa rápidamente de las pieles para evitar la extracción de color. Estos vinos tienden a ser más corpulentos con carácter de fruta roja comparados con el Blanc de Blancs."
+  },
+  {
+    "id": 79,
+    "category": "Vino Espumoso",
+    "question": "¿Cómo se produce más comúnmente el Champagne rosado?",
+    "options": [
+      "Solo por prensado directo de uvas tintas (método saignée)",
+      "Ya sea mezclando una pequeña cantidad de vino tinto tranquilo de Pinot Noir en el vino base blanco, o por breve contacto con las pieles (saignée)",
+      "Añadiendo jugo de uva tinta después del degüelle como parte del dosaje",
+      "Co-fermentando Pinot Noir y Chardonnay juntos con contacto de pieles"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El Champagne rosado puede elaborarse mezclando una pequeña cantidad de vino tinto tranquilo de Pinot Noir (de pueblos como Bouzy o Aÿ) en la mezcla base blanca antes de la fermentación secundaria, o por el método saignée (breve maceración con pieles). La mezcla es el método comercial más común y está permitido en Champagne a diferencia de la mayoría de las otras producciones de vino rosado."
+  },
+  {
+    "id": 80,
+    "category": "Vino Espumoso",
+    "question": "¿Cuál es la diferencia clave entre un Champagne de añada y un Champagne sin añada (NV)?",
+    "options": [
+      "El Champagne de añada usa solo Chardonnay; el NV usa las tres variedades de uva",
+      "El Champagne NV se mezcla con cosechas de múltiples años para lograr un estilo de casa consistente; el Champagne de añada se elabora con uvas de un solo año declarado",
+      "El Champagne de añada siempre es elaborado por viticultores; el NV es elaborado solo por grandes casas",
+      "El Champagne NV no puede envejecerse; el Champagne de añada debe beberse inmediatamente"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El Champagne NV es una mezcla de uvas de múltiples añadas (incluyendo vinos de reserva de años anteriores) para mantener un estilo de casa consistente independientemente de la variación de la añada. El Champagne de añada se elabora solo con uvas cosechadas en un único año de alta calidad declarado y debe envejecerse sobre las lías durante al menos 36 meses."
+  },
+  {
+    "id": 81,
+    "category": "Vino Espumoso",
+    "question": "¿Qué es un Champagne 'prestige cuvée' y puede nombrar dos ejemplos famosos?",
+    "options": [
+      "Un Champagne básico de nivel inicial de una gran casa; ejemplos incluyen Moët Impérial y Veuve Clicquot Yellow Label",
+      "Un Champagne de gama alta, usualmente de añada, que representa los mejores vinos de una casa; ejemplos incluyen Dom Pérignon y Cristal",
+      "Un Champagne elaborado exclusivamente para el comercio de restaurantes; ejemplos incluyen Club des Sommeliers",
+      "Un Champagne elaborado por una cooperativa vendido bajo la etiqueta propia del restaurante"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Los prestige cuvées son los vinos insignia de máxima calidad de las casas de Champagne, típicamente con fecha de añada, elaborados con las mejores parcelas de viñedo y con precios premium. Ejemplos famosos incluyen Dom Pérignon de Moët & Chandon, Cristal de Louis Roederer, Sir Winston Churchill de Pol Roger y Grand Siècle de Laurent-Perrier."
+  },
+  {
+    "id": 82,
+    "category": "Vino Espumoso",
+    "question": "¿Qué término describe un Champagne producido por el viticultor que cultiva las uvas, a diferencia de una gran casa que compra uvas?",
+    "options": [
+      "Négociant Manipulant (NM)",
+      "Récoltant Manipulant (RM)",
+      "Coopérative de Manipulation (CM)",
+      "Marque d'Acheteur (MA)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "RM (Récoltant Manipulant) indica un Champagne de viticultor — el productor cultiva sus propias uvas y elabora su propio vino. NM (Négociant Manipulant) se refiere a las grandes casas que compran uvas a los viticultores. Estos códigos aparecen en la etiqueta del Champagne."
+  },
+  {
+    "id": 83,
+    "category": "Vino Espumoso",
+    "question": "Crémant es el término usado para vinos espumosos de método tradicional elaborados en varias regiones francesas fuera de Champagne. ¿Cuál de los siguientes NO es una AOC de Crémant reconocida?",
+    "options": [
+      "Crémant d'Alsace",
+      "Crémant de Bourgogne",
+      "Crémant de Bordeaux",
+      "Crémant de Provence"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Las AOC de Crémant reconocidas incluyen Crémant d'Alsace, Crémant de Bourgogne, Crémant de Loire, Crémant de Bordeaux, Crémant du Jura, Crémant de Limoux, Crémant de Die y Crémant de Savoie. No existe la denominación Crémant de Provence."
+  },
+  {
+    "id": 84,
+    "category": "Vino Espumoso",
+    "question": "El Cava, el vino espumoso español de método tradicional, se elabora principalmente con ¿cuáles tres variedades de uva autóctonas?",
+    "options": [
+      "Tempranillo, Garnacha y Monastrell",
+      "Macabeo, Xarel·lo y Parellada",
+      "Chardonnay, Pinot Noir y Macabeo",
+      "Viura, Verdejo y Albariño"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El Cava se elabora tradicionalmente con las variedades autóctonas catalanas Macabeo (también llamada Viura), Xarel·lo y Parellada. Chardonnay y Pinot Noir también están ahora permitidas, y el Cava rosado puede elaborarse con Garnacha, Monastrell, Trepat y Pinot Noir."
+  },
+  {
+    "id": 85,
+    "category": "Vino Espumoso",
+    "question": "La mayor parte del Cava se produce en ¿cuál región española?",
+    "options": [
+      "La Rioja",
+      "Andalucía",
+      "Penedès, Cataluña",
+      "Galicia"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La gran mayoría del Cava se produce en la región del Penedès en Cataluña, centrada en el pueblo de Sant Sadurní d'Anoia. Aunque el Cava puede técnicamente producirse en varias regiones españolas, Cataluña representa más del 95% de la producción."
+  },
+  {
+    "id": 86,
+    "category": "Vino Espumoso",
+    "question": "El Prosecco DOC y el Prosecco DOCG (Conegliano Valdobbiadene) se producen usando ¿cuál método de producción?",
+    "options": [
+      "Método tradicional (fermentación secundaria en botella)",
+      "Método Charmat (fermentación secundaria en tanque presurizado)",
+      "Método ancestral (fermentación única completándose en botella)",
+      "Método de transferencia (fermentación secundaria en botella, luego transferido a tanque)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El Prosecco se elabora usando el método Charmat (o de tanque), en el que la fermentación secundaria tiene lugar en grandes tanques de acero inoxidable presurizados. Esto preserva el carácter fresco y frutal del Prosecco (manzana verde, pera, melocotón blanco) y es más rentable que el método tradicional."
+  },
+  {
+    "id": 87,
+    "category": "Vino Espumoso",
+    "question": "¿Cuál es la variedad de uva principal utilizada en la producción de Prosecco?",
+    "options": [
+      "Pinot Grigio",
+      "Trebbiano",
+      "Glera",
+      "Garganega"
+    ],
+    "correctAnswer": 2,
+    "explanation": "El Prosecco debe elaborarse con un mínimo del 85% de Glera (anteriormente conocida como Prosecco — la uva fue renombrada al pueblo de Prosecco para proteger el nombre de la denominación). Hasta un 15% de otras variedades permitidas pueden añadirse."
+  },
+  {
+    "id": 88,
+    "category": "Vino Espumoso",
+    "question": "¿Cuál es la diferencia clave entre el Prosecco DOC y el Prosecco DOCG (Conegliano Valdobbiadene)?",
+    "options": [
+      "El DOC se elabora por el método tradicional; el DOCG usa el método Charmat",
+      "El DOCG cubre un área de producción mucho más grande en el noreste de Italia; el DOC se limita a una zona pequeña",
+      "El DOCG (Conegliano Valdobbiadene) es una zona más pequeña y geográficamente más específica en las colinas del Véneto con requisitos de calidad más estrictos que el DOC más amplio",
+      "El Prosecco DOC debe tener fecha de añada; el DOCG puede ser sin añada"
+    ],
+    "correctAnswer": 2,
+    "explanation": "El Prosecco DOCG (Conegliano Valdobbiadene Prosecco Superiore) cubre la zona original de mayor calidad en las colinas del Véneto con regulaciones más estrictas. El Prosecco DOC cubre una zona mucho más amplia en Véneto y Friuli. Ambos usan el método Charmat, pero el DOCG se considera de calidad superior."
+  },
+  {
+    "id": 89,
+    "category": "Vino Espumoso",
+    "question": "El vino espumoso inglés ha ganado considerable prestigio. ¿Qué factor climático hace que el sur de Inglaterra sea particularmente apto para la producción de vino espumoso de método tradicional?",
+    "options": [
+      "Un clima cálido y seco mediterráneo que produce uvas muy maduras",
+      "Un clima fresco con suelos calcáreos (similar a Champagne), produciendo uvas de alta acidez ideales para vino espumoso de método tradicional",
+      "Alta precipitación asegurando madurez consistente de la uva sin irrigación",
+      "Suelos arenosos que preservan el calor y producen uvas muy maduras y corpulentas"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El sur de Inglaterra tiene un clima fresco y marginal y, en partes (notablemente East Sussex, Hampshire y Kent), comparte los mismos suelos de tiza y greensand que la región de Champagne. Esto produce uvas de alta acidez y bajo azúcar perfectas para vino espumoso de método tradicional. El vino espumoso inglés se elabora típicamente con Chardonnay, Pinot Noir y Pinot Meunier."
+  },
+  {
+    "id": 90,
+    "category": "Vino Espumoso",
+    "question": "El Franciacorta DOCG en Lombardía, Italia, es significativo porque produce vino espumoso de método tradicional con ¿cuál distinción específica comparada con el Prosecco?",
+    "options": [
+      "Usa el método Charmat pero requiere mayor envejecimiento en tanque",
+      "Es el DOCG de vino espumoso de método tradicional (méthode classique) más prestigioso de Italia, con requisitos de envejecimiento más estrictos que el Champagne NV básico",
+      "Usa un método ancestral con una única fermentación",
+      "Se produce exclusivamente con variedades internacionales como Chardonnay y Pinot Noir, a diferencia del Prosecco"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El Franciacorta se elabora por el método tradicional y a menudo se le llama 'la respuesta de Italia al Champagne'. Usa Chardonnay, Pinot Noir y Pinot Blanc. El Franciacorta sin añada requiere 18 meses sobre las lías (vs 15 para el Champagne NV), y el de añada requiere 30 meses."
+  },
+  {
+    "id": 91,
+    "category": "Vino Espumoso",
+    "question": "El Sekt es el vino espumoso de Alemania. ¿Qué término se usa para un Sekt alemán premium que debe elaborarse en Alemania con uvas alemanas usando el método tradicional?",
+    "options": [
+      "Qualitätssekt",
+      "Winzersekt",
+      "Deutscher Sekt bA",
+      "Crémant Deutschland"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Deutscher Sekt bA (bestimmter Anbaugebiete) es una categoría de calidad de Sekt que debe producirse con uvas cultivadas en una de las 13 regiones vinícolas especificadas de Alemania. Winzersekt se refiere al Sekt de método tradicional producido por la propia finca. Mucho Sekt estándar se elabora con vinos base importados usando el método Charmat."
+  },
+  {
+    "id": 92,
+    "category": "Vino Espumoso",
+    "question": "Méthode Cap Classique (MCC) es el término usado en Sudáfrica para ¿cuál tipo de producción de vino espumoso?",
+    "options": [
+      "Vino espumoso de método Charmat similar al Prosecco",
+      "Vino espumoso de método tradicional elaborado en Sudáfrica con fermentación secundaria en botella",
+      "Vino espumoso de método ancestral con azúcar residual de la uva",
+      "Vino espumoso fermentado en tanque de la región del Cabo"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Méthode Cap Classique (MCC) es la designación de Sudáfrica para vino espumoso de método tradicional elaborado con fermentación secundaria en botella — equivalente al Crémant en Francia o al Cava en España. Los productores incluyen Graham Beck y Simonsig, y Chardonnay y Pinot Noir son las variedades principales."
+  },
+  {
+    "id": 93,
+    "category": "Vino Espumoso",
+    "question": "¿Qué es el método ancestral (méthode ancestrale o pétillant naturel) de producción de vino espumoso?",
+    "options": [
+      "Una técnica moderna que usa tanques de alta presión para carbonatar vino tranquilo",
+      "El método más antiguo de elaborar vino espumoso, en el que el vino se embotella antes de que la fermentación se complete, de modo que el CO2 queda atrapado en la botella por la fermentación en curso sin fermentación secundaria ni degüelle",
+      "Una forma del método tradicional que usa barricas de madera viejas para la fermentación secundaria",
+      "Un proceso donde las uvas se congelan para concentrar el azúcar antes de la fermentación"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El método ancestral se considera la técnica más antigua de vino espumoso. El vino se embotella durante su primera (y única) fermentación; el azúcar restante fermenta en la botella, atrapando CO2. No hay fermentación secundaria, y usualmente no hay degüelle, por lo que los vinos pueden ser ligeramente turbios. A menudo se les llama 'pét nat' y tienden a tener menor presión y menos burbujas."
+  },
+  {
+    "id": 94,
+    "category": "Vino Espumoso",
+    "question": "¿Qué presión (en atmósferas/bar) se encuentra típicamente en una botella de Champagne?",
+    "options": [
+      "1-2 bar",
+      "3-4 bar",
+      "5-6 bar",
+      "7-8 bar"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Una botella estándar de Champagne contiene aproximadamente 5-6 atmósferas (bar) de presión — aproximadamente 3 veces la presión de un neumático de coche. Los Crémant y otros vinos espumosos de método tradicional pueden tener algo menos (alrededor de 3,5-4,5 bar), mientras que los vinos pétillant naturel tienen mucha menor presión (1-2,5 bar)."
+  },
+  {
+    "id": 95,
+    "category": "Vino Espumoso",
+    "question": "¿Qué indica 'Extra Brut' en una etiqueta de Champagne en términos de dulzura y azúcar residual?",
+    "options": [
+      "0-6 g/L de azúcar residual — un estilo muy seco",
+      "6-12 g/L — ligeramente menos seco que Brut",
+      "12-17 g/L — ligeramente dulce",
+      "32-50 g/L — notablemente dulce"
+    ],
+    "correctAnswer": 0,
+    "explanation": "El Champagne Extra Brut contiene entre 0-6 g/L de azúcar residual, haciéndolo más seco que el Brut estándar (hasta 12 g/L). 'Brut Nature' o 'Zero Dosage' es aún más seco con 0-3 g/L sin azúcar añadido en absoluto."
+  },
+  {
+    "id": 96,
+    "category": "Vino Espumoso",
+    "question": "El método de transferencia para producir vino espumoso implica fermentación secundaria en botella seguida de un paso adicional. ¿Cuál es este paso?",
+    "options": [
+      "El vino se remueve y se degüella de la misma manera que el método tradicional",
+      "El vino se vacía de la botella a un tanque presurizado, se filtra, se mezcla y se reembotella — evitando la necesidad de removido y degüelle individuales",
+      "El sedimento se retira congelando toda la botella",
+      "Las botellas se sellan con corcho en lugar de chapa para la fermentación secundaria"
+    ],
+    "correctAnswer": 1,
+    "explanation": "En el método de transferencia, la fermentación secundaria tiene lugar en la botella individual (como el método tradicional), pero luego el vino se transfiere bajo presión a un tanque, se filtra para eliminar las lías y se reembotella. Esto permite algunos beneficios de la fermentación en botella (complejidad) sin el trabajo del removido/degüelle. Muchos vinos espumosos australianos y neozelandeses usan este método."
+  },
+  {
+    "id": 97,
+    "category": "Vino Espumoso",
+    "question": "El Champagne Demi-Sec contiene aproximadamente ¿cuánto azúcar residual?",
+    "options": [
+      "0-6 g/L",
+      "Hasta 12 g/L",
+      "17-32 g/L",
+      "32-50 g/L"
+    ],
+    "correctAnswer": 3,
+    "explanation": "El Champagne Demi-Sec contiene 32-50 g/L de azúcar residual, haciéndolo notablemente dulce. A pesar del nombre ('medio seco'), es claramente dulce y a menudo se marida con postres o platos a base de fruta. El Doux (por encima de 50 g/L) es aún más dulce y se produce raramente."
+  },
+  {
+    "id": 98,
+    "category": "Vino Espumoso",
+    "question": "¿Cuál de las siguientes es la descripción correcta del método Charmat (tanque) para la producción de vino espumoso?",
+    "options": [
+      "La fermentación secundaria tiene lugar en botellas individuales, y el vino se remueve y se degüella",
+      "La fermentación secundaria tiene lugar en grandes tanques de acero inoxidable presurizados, y el vino se filtra y se embotella bajo presión",
+      "El vino se carbonata directamente inyectando CO2, similar a cómo se elaboran los refrescos",
+      "La fermentación comienza en la botella pero se completa en un tanque después de la transferencia"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El método Charmat (o Cuve Close o de tanque) implica una segunda fermentación que tiene lugar en grandes tanques de acero inoxidable sellados y presurizados. El vino se filtra y embotella bajo presión, reteniendo el CO2. Es más rápido y menos costoso que el método tradicional e ideal para variedades aromáticas como Glera (Prosecco) y Muscat."
+  },
+  {
+    "id": 99,
+    "category": "Vino Espumoso",
+    "question": "El Prosecco Superiore DOCG incluye una subcategoría de viñedo único. ¿Cómo se llama?",
+    "options": [
+      "Cru",
+      "Grand Cru",
+      "Rive",
+      "Classico"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Rive' es el término para el Prosecco Superiore DOCG de viñedo único o de una sola comuna. 'Rive' significa 'ladera empinada' en el dialecto local. Los vinos Rive deben tener fecha de añada, elaborarse con uvas vendimiadas a mano y tener niveles mínimos más estrictos de azúcar residual para estilos secos. Cartizze es el prestigioso viñedo único Grand Cru dentro de Valdobbiadene."
+  },
+  {
+    "id": 100,
+    "category": "Vino Espumoso",
+    "question": "El envejecimiento del Champagne sobre sus lías (células de levadura muertas) aporta ¿cuáles de las siguientes características de sabor a través de un proceso llamado autólisis?",
+    "options": [
+      "Aromas florales y frutales que reemplazan el carácter primario de la uva",
+      "Notas a pan, galleta y tostado (brioche, pastelería, crema) que añaden complejidad al vino",
+      "Un aumento significativo del azúcar residual dando un final más dulce",
+      "Mayor acidez y un estilo más austero y delgado"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La autólisis es la descomposición de las células de levadura muertas (lías) con el tiempo, liberando compuestos que añaden sabores a pan, galleta, cremosos y tostados al Champagne. Cuanto más tiempo permanece el vino sobre sus lías, más pronunciados se vuelven estos caracteres terciarios — por eso los Champagnes de añada y prestige cuvée se envejecen durante muchos años."
+  },
+  {
+    "id": 101,
+    "category": "Regiones Vinícolas",
+    "question": "¿En qué margen del estuario de la Gironda se encuentra Château Margaux?",
+    "options": [
+      "Margen derecha",
+      "Margen izquierda",
+      "Ambas márgenes",
+      "Ninguna — está tierra adentro"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Château Margaux es una propiedad de la margen izquierda de Burdeos en la denominación de Margaux, clasificada como Premier Grand Cru Classé en la clasificación de 1855."
+  },
+  {
+    "id": 102,
+    "category": "Regiones Vinícolas",
+    "question": "La clasificación de Burdeos de 1855 clasificó principalmente châteaux de qué dos denominaciones?",
+    "options": [
+      "Pomerol y Saint-Émilion",
+      "Médoc y Sauternes",
+      "Graves y Pomerol",
+      "Solo Saint-Julien y Pauillac"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La clasificación de 1855 clasificó los vinos tintos del Médoc (más Haut-Brion de Graves) y los vinos dulces de Sauternes y Barsac."
+  },
+  {
+    "id": 103,
+    "category": "Regiones Vinícolas",
+    "question": "¿Qué variedad de uva domina los vinos tintos de la margen derecha de Burdeos?",
+    "options": [
+      "Cabernet Sauvignon",
+      "Merlot",
+      "Cabernet Franc",
+      "Malbec"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Las denominaciones de la margen derecha de Pomerol y Saint-Émilion están dominadas por el Merlot, que prospera en los suelos arcillosos que allí se encuentran."
+  },
+  {
+    "id": 104,
+    "category": "Regiones Vinícolas",
+    "question": "Pétrus, uno de los vinos más famosos del mundo, proviene de qué denominación de la margen derecha?",
+    "options": [
+      "Saint-Émilion",
+      "Fronsac",
+      "Pomerol",
+      "Lalande-de-Pomerol"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Pétrus se produce en Pomerol, una pequeña denominación de la margen derecha notable por sus suelos arcillosos y sus vinos casi exclusivamente elaborados con Merlot."
+  },
+  {
+    "id": 105,
+    "category": "Regiones Vinícolas",
+    "question": "En la clasificación de Saint-Émilion, ¿cuál es el nivel más alto?",
+    "options": [
+      "Grand Cru Classé",
+      "Premier Grand Cru Classé A",
+      "Premier Grand Cru Classé B",
+      "Grand Cru"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El nivel más alto de la clasificación de Saint-Émilion es Premier Grand Cru Classé A, actualmente ostentado por Château Pétrus en Pomerol; en Saint-Émilion lo ostentan Château Ausone y Château Cheval Blanc (entre otros)."
+  },
+  {
+    "id": 106,
+    "category": "Regiones Vinícolas",
+    "question": "¿Cuál de las siguientes es una denominación satélite de Saint-Émilion?",
+    "options": [
+      "Pomerol",
+      "Lussac-Saint-Émilion",
+      "Fronsac",
+      "Blaye"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Lussac-Saint-Émilion es una de varias denominaciones satélite que añaden el nombre de Saint-Émilion al suyo propio. Otras incluyen Montagne- y Puisseguin-Saint-Émilion."
+  },
+  {
+    "id": 107,
+    "category": "Regiones Vinícolas",
+    "question": "Château Haut-Brion está clasificado como Premier Cru de 1855 pero se encuentra fuera del Médoc, ¿en qué denominación?",
+    "options": [
+      "Saint-Émilion",
+      "Pessac-Léognan",
+      "Pomerol",
+      "Entre-Deux-Mers"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Haut-Brion fue la única propiedad fuera del Médoc incluida en la clasificación de 1855; está situada en Pessac-Léognan dentro de la región de Graves."
+  },
+  {
+    "id": 108,
+    "category": "Regiones Vinícolas",
+    "question": "En Borgoña, ¿qué nivel se sitúa entre Village y Grand Cru en la jerarquía de calidad?",
+    "options": [
+      "Bourgogne Régionale",
+      "Premier Cru",
+      "Clos",
+      "Lieu-dit"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La jerarquía de cuatro niveles de Borgoña de mayor a menor es: Grand Cru, Premier Cru, Village y Régionale. Los viñedos Premier Cru son el segundo nivel más alto de calidad."
+  },
+  {
+    "id": 109,
+    "category": "Regiones Vinícolas",
+    "question": "Gevrey-Chambertin es un pueblo en qué parte de Borgoña?",
+    "options": [
+      "Côte de Beaune",
+      "Côte Chalonnaise",
+      "Côte de Nuits",
+      "Mâconnais"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Gevrey-Chambertin es el pueblo principal más septentrional de la Côte de Nuits, hogar de muchos viñedos Grand Cru incluyendo Le Chambertin."
+  },
+  {
+    "id": 110,
+    "category": "Regiones Vinícolas",
+    "question": "Meursault es famoso por producir qué estilo de vino de Borgoña?",
+    "options": [
+      "Tinto de Pinot Noir",
+      "Espumoso Crémant",
+      "Blanco de Chardonnay",
+      "Dulce Botrytis"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Meursault en la Côte de Beaune es célebre por sus Chardonnay ricos, con cuerpo, fermentados en barrica. Inusualmente para un pueblo de primer nivel de Borgoña, no tiene viñedos Grand Cru."
+  },
+  {
+    "id": 111,
+    "category": "Regiones Vinícolas",
+    "question": "¿Qué comuna de la Côte de Beaune es conocida tanto por sus excepcionales vinos blancos como tintos de Borgoña?",
+    "options": [
+      "Nuits-Saint-Georges",
+      "Pommard",
+      "Puligny-Montrachet",
+      "Corton"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Puligny-Montrachet es más conocido por sus vinos blancos; sin embargo, el Grand Cru Corton es la denominación de mayor producción de tintos de la Côte de Beaune, aunque Puligny también produce pequeñas cantidades de tinto."
+  },
+  {
+    "id": 112,
+    "category": "Regiones Vinícolas",
+    "question": "Los viñedos Grand Cru de Chablis están orientados en qué dirección para maximizar la maduración en este clima frío?",
+    "options": [
+      "Noreste",
+      "Suroeste",
+      "Sur a suroeste",
+      "Oeste"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Los siete viñedos Grand Cru de Chablis están situados en una única ladera orientada al sur-suroeste sobre el río Serein, maximizando la exposición solar en este clima septentrional frío."
+  },
+  {
+    "id": 113,
+    "category": "Regiones Vinícolas",
+    "question": "Côte-Rôtie en el norte del Ródano puede incluir legalmente un pequeño porcentaje de qué uva blanca en su vino tinto?",
+    "options": [
+      "Marsanne",
+      "Viognier",
+      "Roussanne",
+      "Grenache Blanc"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Côte-Rôtie es un tinto basado en Syrah pero puede incluir hasta un 20% de Viognier, que aporta aromas florales y suaviza la estructura del vino."
+  },
+  {
+    "id": 114,
+    "category": "Regiones Vinícolas",
+    "question": "¿Cuántas variedades de uva permite Châteauneuf-du-Pape en sus ensamblajes?",
+    "options": [
+      "8",
+      "13",
+      "18",
+      "7"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Châteauneuf-du-Pape ha permitido históricamente 13 variedades (y las variaciones clonales elevan el recuento), con Grenache dominando típicamente los ensamblajes tintos."
+  },
+  {
+    "id": 115,
+    "category": "Regiones Vinícolas",
+    "question": "Hermitage en el norte del Ródano produce vino tinto principalmente de qué uva?",
+    "options": [
+      "Mourvèdre",
+      "Grenache",
+      "Syrah",
+      "Carignan"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Hermitage produce algunos de los mejores vinos tintos del mundo basados en Syrah desde su colina de granito con vistas al Ródano en Tain l'Hermitage."
+  },
+  {
+    "id": 116,
+    "category": "Regiones Vinícolas",
+    "question": "Muscadet, el vino blanco seco del oeste del Loira, está elaborado con qué variedad de uva?",
+    "options": [
+      "Chenin Blanc",
+      "Sauvignon Blanc",
+      "Melon de Bourgogne",
+      "Aligoté"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Muscadet se elabora con Melon de Bourgogne. Los mejores ejemplos se etiquetan como 'sur lie', indicando que el vino fue criado sobre sus lías antes del embotellado."
+  },
+  {
+    "id": 117,
+    "category": "Regiones Vinícolas",
+    "question": "Vouvray en el Valle del Loira se produce exclusivamente con qué uva?",
+    "options": [
+      "Sauvignon Blanc",
+      "Chardonnay",
+      "Pinot Gris",
+      "Chenin Blanc"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Vouvray se elabora con Chenin Blanc y puede variar en estilo desde muy seco (sec) hasta muy dulce (moelleux) y también espumoso (pétillant/mousseux)."
+  },
+  {
+    "id": 118,
+    "category": "Regiones Vinícolas",
+    "question": "Sancerre en el Valle del Loira es más conocido por qué variedad de uva?",
+    "options": [
+      "Pinot Noir",
+      "Sauvignon Blanc",
+      "Chenin Blanc",
+      "Gamay"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sancerre es famoso por su Sauvignon Blanc fresco y mineral. También produce algunos vinos tintos y rosados de Pinot Noir."
+  },
+  {
+    "id": 119,
+    "category": "Regiones Vinícolas",
+    "question": "Chinon y Bourgueil en el Valle del Loira son conocidos principalmente por vinos tintos elaborados con qué uva?",
+    "options": [
+      "Merlot",
+      "Cabernet Franc",
+      "Cabernet Sauvignon",
+      "Gamay"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Chinon y Bourgueil son las principales denominaciones de vino tinto de Touraine en el Valle del Loira, produciendo vinos predominantemente de Cabernet Franc."
+  },
+  {
+    "id": 120,
+    "category": "Regiones Vinícolas",
+    "question": "¿Qué es 'Vendange Tardive' en Alsacia?",
+    "options": [
+      "Un estilo de vendimia temprana",
+      "Un estilo de vendimia tardía elaborado con uvas muy maduras",
+      "Un vino espumoso",
+      "Un vino de cooperativa"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Vendange Tardive significa 'vendimia tardía' en francés. En Alsacia, estos vinos se elaboran con uvas muy maduras y pueden variar de semisecos a lujosamente dulces."
+  },
+  {
+    "id": 121,
+    "category": "Regiones Vinícolas",
+    "question": "¿Qué significa SGN en el contexto de los vinos de Alsacia?",
+    "options": [
+      "Sélection de Grains Naturels",
+      "Sélection Grand Noir",
+      "Spätlese Grand Nature",
+      "Sélection des Grands Nobles"
+    ],
+    "correctAnswer": 0,
+    "explanation": "SGN (Sélection de Grains Naturels) es el estilo más rico de vino de Alsacia, elaborado con granos individuales seleccionados afectados por botrytis, equivalente en concepto al Trockenbeerenauslese alemán."
+  },
+  {
+    "id": 122,
+    "category": "Regiones Vinícolas",
+    "question": "Las DOCG de Barolo y Barbaresco en Piamonte se elaboran con qué uva?",
+    "options": [
+      "Barbera",
+      "Dolcetto",
+      "Nebbiolo",
+      "Sangiovese"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Tanto Barolo como Barbaresco se elaboran con Nebbiolo, una uva de piel gruesa que produce vinos de alto tanino, alta acidez y aromas complejos que incluyen alquitrán, rosas y frutas rojas."
+  },
+  {
+    "id": 123,
+    "category": "Regiones Vinícolas",
+    "question": "La DOCG de Gavi en Piamonte produce vino blanco seco con qué variedad de uva?",
+    "options": [
+      "Arneis",
+      "Cortese",
+      "Moscato",
+      "Vermentino"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Gavi (también conocido como Cortese di Gavi) se produce con la uva Cortese en el sureste de Piamonte, elaborando vinos blancos secos, frescos y neutros."
+  },
+  {
+    "id": 124,
+    "category": "Regiones Vinícolas",
+    "question": "La DOCG Chianti Classico, la zona de mayor calidad dentro de la región más amplia de Chianti, se encuentra entre qué dos ciudades toscanas?",
+    "options": [
+      "Pisa y Lucca",
+      "Florencia y Siena",
+      "Arezzo y Grosseto",
+      "Livorno y Pisa"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Chianti Classico es el corazón histórico de la zona de Chianti, situado en las colinas entre Florencia y Siena. Produce vinos basados en Sangiovese de mayor concentración que el Chianti básico."
+  },
+  {
+    "id": 125,
+    "category": "Regiones Vinícolas",
+    "question": "La DOCG Brunello di Montalcino debe elaborarse con qué uva?",
+    "options": [
+      "Sangiovese (llamado Brunello localmente)",
+      "Nebbiolo",
+      "Montepulciano",
+      "Aglianico"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Brunello di Montalcino se produce con 100% Sangiovese, conocido localmente como Brunello. Es uno de los vinos italianos con mayor capacidad de envejecimiento, requiriendo largo tiempo de crianza en roble y botella."
+  },
+  {
+    "id": 126,
+    "category": "Regiones Vinícolas",
+    "question": "¿Qué distingue a un vino 'Super Toscano'?",
+    "options": [
+      "Debe elaborarse solo con variedades autóctonas toscanas",
+      "Es un vino que se sale de las reglas DOC tradicionales, utilizando a menudo variedades internacionales",
+      "Debe producirse en la subzona Classico",
+      "Requiere un mínimo de 5 años de crianza"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Los Super Toscanos surgieron cuando productores innovadores mezclaron variedades internacionales como Cabernet Sauvignon, lo que estaba fuera de las reglas DOC, y fueron inicialmente etiquetados como humilde Vino da Tavola."
+  },
+  {
+    "id": 127,
+    "category": "Regiones Vinícolas",
+    "question": "El Amarone della Valpolicella se elabora utilizando qué técnica de producción?",
+    "options": [
+      "Maceración carbónica",
+      "Secado de uvas en esteras de paja (appassimento)",
+      "Infección por botrytis",
+      "Vendimia temprana para máxima acidez"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El Amarone utiliza el método de appassimento, donde las uvas cosechadas (principalmente Corvina) se secan durante varios meses antes del prensado, concentrando azúcares, sabores y produciendo un vino tinto seco, rico y potente."
+  },
+  {
+    "id": 128,
+    "category": "Regiones Vinícolas",
+    "question": "El Prosecco DOC/DOCG se produce principalmente con qué variedad de uva?",
+    "options": [
+      "Pinot Grigio",
+      "Trebbiano",
+      "Glera",
+      "Garganega"
+    ],
+    "correctAnswer": 2,
+    "explanation": "El Prosecco se elabora principalmente con la uva Glera (anteriormente llamada Prosecco) en las regiones del Véneto y Friuli, utilizando el método Charmat (fermentación secundaria en tanque)."
+  },
+  {
+    "id": 129,
+    "category": "Regiones Vinícolas",
+    "question": "El Soave Classico en el Véneto se produce principalmente con qué uva blanca?",
+    "options": [
+      "Pinot Grigio",
+      "Garganega",
+      "Trebbiano di Soave",
+      "Malvasia"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El Soave se elabora principalmente con Garganega (mínimo 70%), que produce vinos blancos frescos con notas de almendra. Se puede añadir Trebbiano di Soave en el ensamblaje."
+  },
+  {
+    "id": 130,
+    "category": "Regiones Vinícolas",
+    "question": "La DOC Etna en Sicilia produce vinos tintos principalmente con qué uva autóctona?",
+    "options": [
+      "Nero d'Avola",
+      "Nerello Mascalese",
+      "Aglianico",
+      "Primitivo"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El Etna Rosso se elabora principalmente con Nerello Mascalese cultivado en las laderas volcánicas del Monte Etna, produciendo vinos elegantes y de alta acidez a menudo comparados en estilo con los de Borgoña."
+  },
+  {
+    "id": 131,
+    "category": "Regiones Vinícolas",
+    "question": "En Rioja, ¿qué clasificación de crianza describe un vino con un mínimo de 2 años de envejecimiento, de los cuales al menos 6 meses deben ser en roble?",
+    "options": [
+      "Joven",
+      "Crianza",
+      "Reserva",
+      "Gran Reserva"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Crianza es la designación mínima de crianza en roble en Rioja, requiriendo al menos 2 años de envejecimiento total con un mínimo de 6 meses en barrica de roble para vinos tintos."
+  },
+  {
+    "id": 132,
+    "category": "Regiones Vinícolas",
+    "question": "¿Qué subzona de Rioja se encuentra más cerca de la costa atlántica y tiende a producir los vinos más elegantes y aromáticos?",
+    "options": [
+      "Rioja Oriental",
+      "Rioja Alta",
+      "Rioja Alavesa",
+      "Rioja Baja"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Rioja Alavesa, situada en el País Vasco en la margen norte del Ebro, tiene influencia atlántica fresca y suelos calizos que producen Tempranillo aromático y elegante."
+  },
+  {
+    "id": 133,
+    "category": "Regiones Vinícolas",
+    "question": "Ribera del Duero produce vino tinto principalmente con qué uva?",
+    "options": [
+      "Garnacha",
+      "Tempranillo (llamado Tinto Fino localmente)",
+      "Monastrell",
+      "Bobal"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La uva principal de Ribera del Duero es el Tempranillo, conocido localmente como Tinto Fino o Tinta del País. La gran altitud y el clima continental producen vinos estructurados y concentrados."
+  },
+  {
+    "id": 134,
+    "category": "Regiones Vinícolas",
+    "question": "Priorat en España posee el raro estatus de DOCa (Denominación de Origen Calificada) — ¿qué otra región también posee este estatus?",
+    "options": [
+      "Ribera del Duero",
+      "Rías Baixas",
+      "Rioja",
+      "Penedès"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La clasificación vinícola más alta de España, DOCa (equivalente a la DOCG italiana), solo la ostentan Rioja y Priorat, reconociendo su calidad excepcional y trayectoria."
+  },
+  {
+    "id": 135,
+    "category": "Regiones Vinícolas",
+    "question": "Rías Baixas en Galicia, noroeste de España, es conocida por qué variedad de uva blanca?",
+    "options": [
+      "Verdejo",
+      "Viura",
+      "Albariño",
+      "Godello"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Rías Baixas es famosa por el Albariño, produciendo vinos blancos aromáticos, de alta acidez con carácter de fruta de hueso y cítricos que maridan bien con el marisco local."
+  },
+  {
+    "id": 136,
+    "category": "Regiones Vinícolas",
+    "question": "El Fino de Jerez se caracteriza por qué agente protector que previene la oxidación durante la crianza?",
+    "options": [
+      "Botrytis cinerea",
+      "Levadura de flor",
+      "Bentonita",
+      "Solo dióxido de azufre"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El Fino (y la Manzanilla) se crían bajo una capa de flor — una película de levadura — en el sistema de solera. La flor protege el vino del oxígeno, preservando la frescura y creando un carácter distintivo a frutos secos y levadura."
+  },
+  {
+    "id": 137,
+    "category": "Regiones Vinícolas",
+    "question": "¿Qué AVA dentro del Valle de Napa es particularmente famosa por el Cabernet Sauvignon cultivado en sus suelos aluviales bien drenados?",
+    "options": [
+      "Carneros",
+      "Rutherford",
+      "Los Carneros",
+      "Oakville"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Oakville en el Valle de Napa es célebre por el Cabernet Sauvignon. El viñedo To-Kalon, hogar de vinos como Opus One y Robert Mondavi Reserve, se encuentra aquí."
+  },
+  {
+    "id": 138,
+    "category": "Regiones Vinícolas",
+    "question": "El Valle de Willamette en Oregón es más conocido por qué variedad de uva?",
+    "options": [
+      "Cabernet Sauvignon",
+      "Zinfandel",
+      "Pinot Noir",
+      "Merlot"
+    ],
+    "correctAnswer": 2,
+    "explanation": "El fresco Valle de Willamette en Oregón, con influencia marítima, es la región vinícola más importante de Oregón, produciendo Pinot Noir de referencia del Nuevo Mundo junto con Pinot Gris y Chardonnay."
+  },
+  {
+    "id": 139,
+    "category": "Regiones Vinícolas",
+    "question": "El Valle de Uco en Mendoza, Argentina, es apreciado por la viticultura de altura, ¿qué efecto produce esto en los vinos?",
+    "options": [
+      "Menor acidez y mayor alcohol",
+      "Mayor concentración y acidez más fresca",
+      "Más características oxidativas",
+      "Color y cuerpo más ligeros"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El Valle de Uco se sitúa a 900–1.500 m de altitud. La combinación de sol intenso y noches frescas en altura promueve una buena madurez fenólica mientras se retiene la acidez natural, produciendo vinos concentrados pero frescos."
+  },
+  {
+    "id": 140,
+    "category": "Regiones Vinícolas",
+    "question": "El Valle de Casablanca en Chile es conocido por qué estilo de vino?",
+    "options": [
+      "Cabernet Sauvignon tinto de gran cuerpo",
+      "Blancos aromáticos de clima frío y Pinot Noir",
+      "Vinos fortificados",
+      "Blancos con crianza oxidativa"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El Valle de Casablanca se beneficia de la influencia fresca del Océano Pacífico y la niebla matinal, lo que lo hace ideal para variedades blancas aromáticas como Sauvignon Blanc, Chardonnay y Pinot Noir."
+  },
+  {
+    "id": 141,
+    "category": "Regiones Vinícolas",
+    "question": "El Valle de Barossa en el sur de Australia es más celebrado por qué variedad?",
+    "options": [
+      "Pinot Noir",
+      "Shiraz",
+      "Riesling",
+      "Chardonnay"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El Valle de Barossa es la región vinícola más famosa de Australia para Shiraz (Syrah), produciendo vinos ricos y de gran cuerpo a menudo con carácter de fruta oscura, chocolate y especias. Algunas viñas tienen más de 100 años."
+  },
+  {
+    "id": 142,
+    "category": "Regiones Vinícolas",
+    "question": "El Valle de Eden en el sur de Australia, adyacente a Barossa, es particularmente célebre por qué variedad blanca?",
+    "options": [
+      "Chardonnay",
+      "Viognier",
+      "Riesling",
+      "Sauvignon Blanc"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La mayor altitud y las condiciones más frescas del Valle de Eden lo hacen ideal para el Riesling, produciendo vinos de gran elegancia, carácter cítrico y de lima con potencial para envejecer bellamente."
+  },
+  {
+    "id": 143,
+    "category": "Regiones Vinícolas",
+    "question": "Central Otago en Nueva Zelanda es la región vinícola más meridional del mundo y es conocida principalmente por qué variedad?",
+    "options": [
+      "Sauvignon Blanc",
+      "Pinot Gris",
+      "Riesling",
+      "Pinot Noir"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Central Otago, en la Isla Sur de Nueva Zelanda, tiene un clima continental y produce Pinot Noir muy apreciado con color profundo, rica fruta de cereza y especias."
+  },
+  {
+    "id": 144,
+    "category": "Regiones Vinícolas",
+    "question": "Marlborough en Nueva Zelanda es internacionalmente reconocida por qué variedad de uva?",
+    "options": [
+      "Chardonnay",
+      "Sauvignon Blanc",
+      "Riesling",
+      "Gewürztraminer"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El Sauvignon Blanc de Marlborough es el estilo de vino más famoso de Nueva Zelanda, tipificado por vinos intensamente aromáticos con carácter de maracuyá, grosella espinosa y 'hierba cortada'."
+  },
+  {
+    "id": 145,
+    "category": "Regiones Vinícolas",
+    "question": "Stellenbosch en Sudáfrica es particularmente conocida por qué variedad tinta?",
+    "options": [
+      "Pinotage",
+      "Chenin Blanc",
+      "Cabernet Sauvignon",
+      "Cinsault"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Aunque Stellenbosch cultiva muchas variedades, es más aclamada por el Cabernet Sauvignon, produciendo algunos de los mejores vinos tintos estructurados y aptos para el envejecimiento de Sudáfrica."
+  },
+  {
+    "id": 146,
+    "category": "Regiones Vinícolas",
+    "question": "El Valle del Duero en Portugal es famoso por el vino de Oporto, pero ¿qué estilo de vino tinto seco de mesa de la misma región ha crecido significativamente en reputación?",
+    "options": [
+      "Vinho Verde",
+      "Vinos tintos Douro DOC",
+      "Tintos del Dão",
+      "Moscatel de Setúbal"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La DOC Douro produce vinos tintos secos de mesa cada vez más aclamados con variedades autóctonas como Touriga Nacional, Touriga Franca y Tinta Roriz, utilizando las mismas uvas que el Oporto."
+  },
+  {
+    "id": 147,
+    "category": "Regiones Vinícolas",
+    "question": "El Vinho Verde del noroeste de Portugal se caracteriza por qué rasgos clave?",
+    "options": [
+      "Alto alcohol, color profundo y gran cuerpo",
+      "Bajo alcohol, alta acidez y a menudo una ligera efervescencia",
+      "Alto azúcar y textura rica",
+      "Crianza oxidativa y carácter a frutos secos"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Vinho Verde ('vino verde') se produce en la fresca y húmeda región del Minho con variedades como Alvarinho y Loureiro. Es típicamente ligero, de alta acidez, bajo en alcohol, y a menudo tiene una ligera efervescencia natural."
+  },
+  {
+    "id": 148,
+    "category": "Regiones Vinícolas",
+    "question": "En Alemania, ¿qué denota la clasificación VDP 'Grosses Gewächs' (GG)?",
+    "options": [
+      "Un vino de finca básico",
+      "Un vino seco de un viñedo clasificado de primer nivel",
+      "Un vino dulce de nivel Auslese o superior",
+      "Un vino de una sola variedad de uva aprobada"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Grosses Gewächs (Gran Cosecha) es el nivel más alto de la VDP para vinos secos, producidos en sus viñedos clasificados 'Grosse Lage' (equivalente a Grand Cru), análogo al sistema de Grand Cru de Borgoña."
+  },
+  {
+    "id": 149,
+    "category": "Regiones Vinícolas",
+    "question": "El sistema DAC (Districtus Austriae Controllatus) de Austria está diseñado para hacer qué?",
+    "options": [
+      "Clasificar los vinos por nivel de dulzor",
+      "Vincular variedades de uva específicas con estilos vinícolas regionales específicos",
+      "Regular los rendimientos de viñedos a nivel nacional",
+      "Certificar la producción ecológica"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El sistema DAC vincula una variedad de uva dominante a cada distrito vinícola — por ejemplo, Grüner Veltliner y Riesling en Wachau/Kamptal/Kremstal — para construir identidades regionales más fuertes."
+  },
+  {
+    "id": 150,
+    "category": "Regiones Vinícolas",
+    "question": "Walker Bay en Sudáfrica es un distrito vinícola costero y fresco conocido por qué variedades?",
+    "options": [
+      "Pinotage y Chenin Blanc",
+      "Pinot Noir y Chardonnay",
+      "Cabernet Sauvignon y Merlot",
+      "Shiraz y Viognier"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Walker Bay, influenciado por brisas frescas del océano Atlántico Sur, es la principal región de clima frío de Sudáfrica, produciendo elegantes Pinot Noir y Chardonnay."
+  },
+  {
+    "id": 151,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "¿Qué tipo de clima se caracteriza por veranos cálidos y secos e inviernos suaves y húmedos, encontrado en regiones como la costa de California y el Mediterráneo?",
+    "options": [
+      "Continental",
+      "Marítimo",
+      "Mediterráneo",
+      "Subtropical"
+    ],
+    "correctAnswer": 2,
+    "explanation": "El clima mediterráneo presenta veranos largos, secos y de cálidos a calurosos con la mayor parte de las precipitaciones en invierno. Esto es adecuado para muchas variedades de uva, produciendo fruta confiablemente madura con acidez moderada."
+  },
+  {
+    "id": 152,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "Los climas continentales, típicos de regiones como el Mosela en Alemania o Borgoña, se caracterizan por qué condiciones?",
+    "options": [
+      "Veranos cálidos y húmedos e inviernos suaves",
+      "Veranos calurosos y secos e inviernos muy fríos con gran variación de temperatura diurna",
+      "Temperaturas constantes durante todo el año con alta humedad",
+      "Veranos frescos e inviernos cálidos"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Los climas continentales experimentan variaciones extremas de temperatura estacionales y diurnas — inviernos fríos, veranos calurosos — y están lejos de la influencia moderadora del océano. Esto crea variación entre cosechas y puede amenazar las viñas con heladas primaverales."
+  },
+  {
+    "id": 153,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "¿Cómo beneficia una gran amplitud térmica diurna (días cálidos, noches frescas) a la calidad del vino?",
+    "options": [
+      "Solo acelera la acumulación de azúcar en la uva",
+      "Ayuda a retener la acidez natural en las uvas mientras se alcanza la plena madurez fenólica",
+      "Aumenta el riesgo de infección por botrytis",
+      "Provoca la deshidratación de las uvas, elevando el alcohol"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Las noches frescas ralentizan la respiración, preservando el ácido málico en las uvas, mientras que los días cálidos permiten el desarrollo de azúcar y madurez fenólica. Este equilibrio entre madurez y acidez es clave para la calidad y capacidad de envejecimiento del vino."
+  },
+  {
+    "id": 154,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "¿Qué tipo de suelo se asocia más con excelente drenaje y retención de calor, común en la región del Médoc de Burdeos?",
+    "options": [
+      "Arcilla",
+      "Grava",
+      "Caliza",
+      "Basalto volcánico"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Los lechos profundos de grava en el Médoc drenan libremente, previniendo el encharcamiento, y absorben calor durante el día que irradian a la viña por la noche. Esto ayuda a madurar el Cabernet Sauvignon en lo que de otro modo sería un clima marginal."
+  },
+  {
+    "id": 155,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "Los suelos de pizarra en el Valle del Mosela son valorados porque:",
+    "options": [
+      "Proporcionan altos niveles de nutrientes a la vid",
+      "Absorben y reflejan el calor, ayudando a la maduración en un clima frío",
+      "Tienen alta retención de agua, previniendo el estrés hídrico",
+      "Suprimen las enfermedades de la vid debido a su contenido mineral"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La pizarra (Schiefer) en el Mosela retiene calor y refleja la luz solar sobre las viñas, ayudando al Riesling a madurar en laderas empinadas orientadas al norte en este clima septentrional frío."
+  },
+  {
+    "id": 156,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "¿Cómo afecta generalmente la gran altitud al cultivo de la vid y al estilo del vino?",
+    "options": [
+      "Eleva significativamente las temperaturas, produciendo uvas con más azúcar",
+      "Reduce las temperaturas, preservando la acidez y frescura en las uvas",
+      "Aumenta la radiación UV pero no tiene efecto sobre la temperatura",
+      "Reduce la variación de temperatura diurna"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La temperatura desciende aproximadamente 0,6°C por cada 100 m de aumento en altitud. Los viñedos de mayor altitud experimentan condiciones de cultivo más frescas que preservan la acidez natural y la frescura."
+  },
+  {
+    "id": 157,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "¿Qué efecto tienen las viñas viejas en la calidad del vino?",
+    "options": [
+      "Producen rendimientos más altos de uvas con sabores intensos",
+      "Producen rendimientos más bajos pero a menudo con sabores más concentrados",
+      "Son más susceptibles a enfermedades, reduciendo la calidad",
+      "Producen uvas con mayor acidez"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Las viñas viejas desarrollan sistemas radiculares profundos y regulan naturalmente su propio rendimiento a la baja. Menos bayas significan más concentración de azúcares, sabores y otros compuestos por uva."
+  },
+  {
+    "id": 158,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "¿Qué es el 'mesoclima' en viticultura?",
+    "options": [
+      "El clima global de todo un país vinícola",
+      "El clima de un área geográfica específica y pequeña como un valle o ladera",
+      "El clima dentro de una bodega",
+      "El clima creado dentro del dosel de la vid"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El mesoclima se refiere al clima de un área pequeña específica — un pueblo, valle o ladera — que puede diferir significativamente del clima regional más amplio e influye notablemente en el estilo del vino."
+  },
+  {
+    "id": 159,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "La proximidad a una gran masa de agua, como un océano o lago, modera las temperaturas del viñedo porque el agua:",
+    "options": [
+      "Aumenta las precipitaciones drásticamente",
+      "Absorbe calor lentamente y lo libera lentamente, estabilizando las temperaturas",
+      "Crea corrientes descendentes que enfrían los viñedos solo por la noche",
+      "Aumenta la humedad, reduciendo el riesgo de heladas"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Las masas de agua tienen alta masa térmica — se calientan y enfrían lentamente — lo que modera los extremos de temperatura en los viñedos cercanos. Esto reduce el riesgo de heladas, extiende la temporada de cultivo y ayuda a lograr una maduración uniforme."
+  },
+  {
+    "id": 160,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "¿Cuál es el efecto principal de un rendimiento alto (toneladas por hectárea) en la calidad del vino?",
+    "options": [
+      "Un rendimiento alto siempre mejora la calidad del vino al diluir taninos agresivos",
+      "Un rendimiento alto típicamente diluye la concentración de sabor, reduciendo el potencial de calidad",
+      "Un rendimiento alto reduce el alcohol y mejora el equilibrio",
+      "Un rendimiento alto no tiene efecto en la calidad, solo en la cantidad"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cuando una vid produce más fruta de la que puede madurar y concentrar completamente, los compuestos de sabor se diluyen entre más bayas. Limitar el rendimiento es una herramienta clave para perseguir vinos de calidad."
+  },
+  {
+    "id": 161,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "¿Cuál es el propósito de las técnicas de gestión del dosel vegetal como el deshojado?",
+    "options": [
+      "Aumentar el estrés de la vid y reducir el rendimiento solamente",
+      "Mejorar la circulación del aire, reducir el riesgo de enfermedades y aumentar la exposición solar de las uvas",
+      "Prevenir que los pájaros coman las uvas",
+      "Reducir la absorción de agua de la vid"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El deshojado en la zona de frutos mejora la circulación del aire, reduciendo el riesgo de enfermedades fúngicas, y expone las uvas a más luz solar, favoreciendo la maduración y el desarrollo del color."
+  },
+  {
+    "id": 162,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "¿Cuál es la razón principal para usar portainjertos en la viticultura moderna?",
+    "options": [
+      "Los portainjertos mejoran los aromas varietales naturales de la vid",
+      "Los portainjertos proporcionan resistencia a la plaga del suelo Filoxera",
+      "Los portainjertos permiten cultivar viñas en cualquier tipo de suelo",
+      "Los portainjertos aumentan drásticamente los rendimientos"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La Filoxera, un insecto radicular de América del Norte, devastó los viñedos europeos en el siglo XIX. Injertar variedades de Vitis vinifera sobre portainjertos americanos resistentes es la principal protección contra la Filoxera."
+  },
+  {
+    "id": 163,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "¿Qué distingue la viticultura biodinámica de la viticultura ecológica?",
+    "options": [
+      "La biodinámica usa más pesticidas sintéticos",
+      "La biodinámica incluye una filosofía espiritual holística y sigue un calendario lunar de siembra, yendo más allá de la simple ausencia de sintéticos",
+      "La biodinámica permite el riego mientras que la ecológica no",
+      "La biodinámica es una certificación legal regulada por el gobierno, la ecológica no"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La viticultura ecológica evita pesticidas y fertilizantes sintéticos. La biodinámica va más allá, tratando la finca como un ecosistema autosuficiente y trabajando según un calendario lunar/cósmico basado en la filosofía de Rudolf Steiner."
+  },
+  {
+    "id": 164,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "El riego por goteo suministra agua directamente a la zona radicular de la vid. ¿Cuál es una ventaja clave sobre el riego por inundación?",
+    "options": [
+      "Es más barato de instalar",
+      "Utiliza el agua de forma más eficiente y permite un control preciso del estrés hídrico",
+      "No requiere mantenimiento",
+      "Está permitido en todas las regiones vinícolas incluyendo las que prohíben el riego"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El riego por goteo suministra pequeñas cantidades de agua con precisión a cada vid, reduciendo el desperdicio, previniendo el vigor excesivo por exceso de riego, y permitiendo a los viticultores gestionar el estrés hídrico controlado para concentrar el sabor."
+  },
+  {
+    "id": 165,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "¿Qué es la fermentación maloláctica (FML)?",
+    "options": [
+      "Una segunda fermentación alcohólica que añade CO₂",
+      "Una conversión bacteriana del ácido málico agresivo en ácido láctico más suave",
+      "Una técnica para aumentar el contenido de azúcar del vino",
+      "La fermentación de los hollejos para extraer color"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La FML la realizan bacterias lácticas, convirtiendo el ácido málico ácido en ácido láctico más suave. Esto reduce la acidez percibida y añade textura cremosa y mantecosa — clave en los Chardonnay fermentados en barrica, pero a menudo evitada en blancos aromáticos."
+  },
+  {
+    "id": 166,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "¿Qué efecto tiene fermentar o criar vino en barricas nuevas de roble francés sobre el vino?",
+    "options": [
+      "No añade sabor — solo importa el tamaño de la barrica",
+      "Añade notas de vainilla, especias, tostado y cedro y permite una lenta microoxigenación",
+      "Elimina completamente los aromas frutales del vino",
+      "Añade taninos significativos que no pueden suavizarse con el tiempo"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El roble francés nuevo contribuye sabores que incluyen vainilla, clavo, cedro y tostado a través de la extracción de compuestos como la vainillina y el eugenol. También permite la microoxigenación a través de los poros de la madera, suavizando los taninos con el tiempo."
+  },
+  {
+    "id": 167,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "¿En qué se diferencia el roble americano del roble francés en su efecto sobre el vino?",
+    "options": [
+      "El roble americano no tiene impacto aromático; el roble francés es muy aromático",
+      "El roble americano aporta notas más pronunciadas de vainilla y coco; el roble francés es más sutil e integrado",
+      "El roble americano reduce los taninos; el roble francés los aumenta",
+      "El roble americano solo se usa para vinos blancos; el roble francés solo para tintos"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El roble americano (Quercus alba) tiene grano más ancho e imparte sabores más intensos y directos de vainilla, coco y eneldo. El roble francés (Quercus petraea/robur) tiene grano más fino, dando notas más sutiles y complejas de cedro y especias."
+  },
+  {
+    "id": 168,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "Un enólogo utiliza barricas 100% nuevas para la crianza. ¿Cuál es el efecto probable en comparación con el uso de roble viejo y neutro?",
+    "options": [
+      "Un vino más neutro con menos influencia de roble",
+      "Sabores de roble más pronunciados, más tanino de la madera y mayor microoxigenación",
+      "Envejecimiento más lento y menor microoxigenación",
+      "Ninguna diferencia perceptible en el vino final"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El roble nuevo aporta más taninos de madera extraíbles, compuestos de sabor y permite mayor microoxigenación que el roble usado/neutro. A medida que las barricas se usan repetidamente, su contribución de sabor disminuye significativamente."
+  },
+  {
+    "id": 169,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "¿Qué es el contacto con lías (crianza 'sur lie') y qué aporta al vino?",
+    "options": [
+      "Contacto con los hollejos para extraer color y tanino",
+      "Crianza del vino sobre las células de levadura muertas tras la fermentación, añadiendo textura, complejidad y a veces una ligera efervescencia",
+      "Añadir mosto fresco al vino para aumentar el azúcar residual",
+      "Una técnica para eliminar taninos agresivos del vino tinto"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Las lías son las células de levadura muertas que quedan tras la fermentación. La crianza sobre lías (sur lie) contribuye textura cremosa, amplitud de cuerpo, complejidad a bizcocho/levadura, y un ligero CO₂ que puede dar frescura."
+  },
+  {
+    "id": 170,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "¿Qué es la maceración en frío en la vinificación de tintos?",
+    "options": [
+      "Enfriar el vino terminado para causar la precipitación de tartratos antes del embotellado",
+      "Mantener las uvas tintas trituradas a baja temperatura antes de que comience la fermentación, para extraer color y sabor sin alcohol",
+      "Fermentar el vino tinto a temperaturas inusualmente frías para extender la fermentación",
+      "Añadir agua fría al mosto para reducir el alcohol potencial"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La maceración en frío permite la extracción de color (antocianinas) y compuestos de sabor frutal de los hollejos antes de que comience la fermentación alcohólica, ya que la baja temperatura inhibe la actividad de las levaduras. Esto puede producir vinos tintos más redondos y afrutados."
+  },
+  {
+    "id": 171,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "¿Cómo beneficia la microoxigenación (MOX) a la producción de vino tinto?",
+    "options": [
+      "Elimina la necesidad de añadir dióxido de azufre",
+      "Imita el efecto de la crianza en barrica introduciendo cantidades pequeñas y controladas de oxígeno, suavizando taninos y estabilizando el color",
+      "Añade cantidades significativas de CO₂ para crear efervescencia",
+      "Mata bacterias dañinas sin necesidad de filtración"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La MOX introduce cantidades precisas y diminutas de oxígeno en el vino a través de difusores porosos. Esto puede polimerizar los taninos (haciéndolos más suaves) y estabilizar el color — logrando efectos similares a la crianza en barrica pero en tanques de acero inoxidable."
+  },
+  {
+    "id": 172,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "¿Qué es la fermentación de racimo entero y qué carácter puede aportar?",
+    "options": [
+      "Fermentar racimos enteros de uva incluyendo los raspones, lo que puede añadir notas salinas, especiadas y estructura",
+      "Un método solo usado para vinos blancos para extraer más aromas",
+      "Prensar racimos enteros sin estrujar para una extracción de mosto muy delicada",
+      "Fermentar uvas sin sacarlas de las cajas de vendimia"
+    ],
+    "correctAnswer": 0,
+    "explanation": "La fermentación de racimo entero incluye los raspones de la uva en el recipiente de fermentación. Los raspones pueden contribuir notas herbáceas, especiadas y salinas así como taninos estructurales. Es utilizada por algunos productores de Borgoña y del Ródano."
+  },
+  {
+    "id": 173,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "¿Cuál es el propósito principal de la clarificación de un vino?",
+    "options": [
+      "Añadir compuestos de sabor",
+      "Clarificar el vino eliminando partículas en suspensión, proteínas o taninos usando agentes como bentonita o clara de huevo",
+      "Aumentar el contenido alcohólico del vino",
+      "Reducir el azúcar residual del vino"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La clarificación implica añadir agentes (clara de huevo, bentonita, ictiocola) que atraen y se unen a partículas, proteínas o taninos, causando su precipitación para poder eliminarlos. Esto mejora la limpidez y estabilidad."
+  },
+  {
+    "id": 174,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "¿Cuál es el papel del dióxido de azufre (SO₂) en la vinificación?",
+    "options": [
+      "Proporciona dulzor para equilibrar la acidez",
+      "Actúa como antioxidante y agente antimicrobiano, protegiendo el vino de la oxidación y los organismos de deterioro",
+      "Añade cuerpo y textura al vino",
+      "Solo se usa para limpiar equipos de bodega, no se añade al vino"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El SO₂ es una de las herramientas más importantes de la vinificación, protegiendo el vino de la oxidación e inhibiendo levaduras salvajes y bacterias dañinas. Se añade en varias etapas desde el estrujado hasta el embotellado."
+  },
+  {
+    "id": 175,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "¿Qué distingue la fermentación con levaduras salvajes (autóctonas/naturales) de la fermentación con levaduras cultivadas?",
+    "options": [
+      "Las levaduras salvajes son más predecibles y rápidas",
+      "Las levaduras salvajes utilizan levaduras naturalmente presentes en las uvas y en la bodega, lo que puede añadir complejidad pero es menos predecible; las levaduras cultivadas son fiables y consistentes",
+      "Las levaduras cultivadas siempre producen vinos de menor alcohol",
+      "La fermentación con levaduras salvajes requiere más adiciones de SO₂"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Las fermentaciones salvajes utilizan levaduras naturales del viñedo y el entorno de la bodega, que pueden crear sabores complejos y específicos del lugar pero conllevan riesgo de fermentación detenida o sabores defectuosos. Las levaduras cultivadas ofrecen fermentaciones predecibles y limpias."
+  },
+  {
+    "id": 176,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "La fermentación a temperaturas más altas para vino tinto generalmente produce qué resultado?",
+    "options": [
+      "Vinos más delicados y de color más claro con menor extracción",
+      "Mayor extracción de color, tanino y cuerpo, pero con riesgo de perder aromas volátiles",
+      "Fermentación más lenta y mayor azúcar residual",
+      "Menor alcohol en el vino terminado"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Las temperaturas de fermentación más cálidas aumentan la velocidad de extracción de fenoles (color, tanino) de los hollejos pero también pueden volatilizar algunos aromas delicados. La fermentación de vino tinto típicamente oscila entre 25–32°C."
+  },
+  {
+    "id": 177,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "¿Qué influye el tamaño de la barrica en la crianza del vino?",
+    "options": [
+      "Solo el color del vino",
+      "La relación entre la superficie de madera y el volumen de vino — las barricas más pequeñas tienen más contacto con el roble en relación al volumen, impartiendo más sabor de roble más rápidamente",
+      "La velocidad de la fermentación maloláctica",
+      "El nivel de azúcar residual en el vino terminado"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Una barrica bordelesa estándar (225L) tiene una relación superficie-volumen más alta que un foudre grande (2.000L+). Las barricas más pequeñas imparten más sabor de roble y permiten más microoxigenación por litro de vino."
+  },
+  {
+    "id": 178,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "¿En qué se diferencia el mecanismo del envejecimiento en botella bajo corcho del envejecimiento en barrica?",
+    "options": [
+      "El envejecimiento en botella es oxidativo; el envejecimiento en barrica es reductivo",
+      "La crianza en barrica permite una lenta microoxigenación (oxidativa); el envejecimiento en botella bajo corcho es reductivo, permitiendo reacciones químicas diferentes",
+      "No hay diferencia química significativa entre ambos",
+      "El envejecimiento en botella solo afecta a los vinos blancos; la crianza en barrica solo a los tintos"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La crianza en barrica es un proceso semi-oxidativo debido al ingreso de oxígeno a través de los poros de la duela. El envejecimiento en botella bajo corcho (una vez consumido el oxígeno del espacio superior) es reductivo, permitiendo reacciones de reducción que desarrollan aromas terciarios como petróleo, caza y notas terrosas."
+  },
+  {
+    "id": 179,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "¿Cuál es un argumento principal para usar tapones de rosca en lugar de corchos?",
+    "options": [
+      "Los tapones de rosca son más baratos pero permiten más entrada de oxígeno, acelerando el envejecimiento",
+      "Los tapones de rosca eliminan el riesgo de TCA (olor a corcho) y proporcionan un sellado más consistente y hermético",
+      "Los tapones de rosca solo son adecuados para vinos fortificados",
+      "Los tapones de rosca añaden sabor positivo a los vinos durante el envejecimiento"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El olor a corcho (causado por el TCA - 2,4,6-tricloroanisol) puede afectar al 1–3% de los vinos sellados con corcho, produciendo un carácter a moho, cartón húmedo que enmascara la fruta. Los tapones de rosca eliminan este riesgo y proporcionan condiciones de envejecimiento muy consistentes."
+  },
+  {
+    "id": 180,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "En una región de clima frío, los vinos blancos tienden a tener qué características en comparación con los de clima cálido?",
+    "options": [
+      "Mayor alcohol, menor acidez, sabores de frutas tropicales",
+      "Menor alcohol, mayor acidez y sabores de frutas verdes/cítricas",
+      "Color más profundo y mayor grip fenólico",
+      "Mayor azúcar residual y menor acidez"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Las condiciones de cultivo en clima frío limitan la tasa de acumulación de azúcar mientras preservan la acidez natural de la uva. Esto produce vinos con menor alcohol potencial, alta acidez fresca y carácter de frutas cítricas o verdes."
+  },
+  {
+    "id": 181,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "El cambio climático está teniendo qué efecto directo principal en las regiones vinícolas en los márgenes de la viticultura viable (por ejemplo, Inglaterra, Alemania)?",
+    "options": [
+      "Haciendo imposible la viticultura en estas regiones",
+      "Permitiendo una maduración más consistente, mayores niveles de azúcar y el cultivo exitoso de una gama más amplia de variedades",
+      "Causando rendimientos excesivos que diluyen la calidad del vino",
+      "Aumentando el riesgo de heladas primaverales"
+    ],
+    "correctAnswer": 1,
+    "explanation": "En regiones de clima frío históricamente marginales, el aumento de temperaturas ha extendido la temporada de cultivo y mejorado la acumulación de azúcar, permitiendo la producción de vinos plenamente maduros e incluso vinos espumosos de referencia (por ejemplo, el espumoso inglés)."
+  },
+  {
+    "id": 182,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "¿Cuál de las siguientes describe correctamente la variación de añada?",
+    "options": [
+      "La variación de añada solo afecta a los vinos baratos; los productores de calidad son consistentes cada año",
+      "Las diferencias en las condiciones climáticas de un año a otro afectan la madurez, sanidad y carácter de la cosecha, creando variación en la calidad y estilo del vino",
+      "La variación de añada se elimina con riego en todas las regiones del Nuevo Mundo",
+      "La variación de añada solo se aplica a los vinos tintos"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El clima varía cada temporada de cultivo — sequía, lluvia durante la vendimia, calor excesivo o heladas afectan la calidad de la uva. Por eso el año de cosecha es información importante para la evaluación del vino, particularmente en climas continentales."
+  },
+  {
+    "id": 183,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "¿Qué logra el 'ensamblaje' en la vinificación?",
+    "options": [
+      "Solo se usa para enmascarar defectos del vino",
+      "Permite a los enólogos combinar diferentes variedades, parcelas o añadas para lograr un vino final consistente, complejo o equilibrado",
+      "El ensamblaje siempre reduce la calidad general del vino",
+      "Es ilegal en todas las denominaciones premium"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El ensamblaje es una herramienta clave de vinificación. Al combinar vinos de diferente carácter — variedad, viñedo o barrica — los enólogos pueden crear complejidad, equilibrar deficiencias (por ejemplo, añadir acidez, estructura) y lograr consistencia estilística."
+  },
+  {
+    "id": 184,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "En una etiqueta de vino del Viejo Mundo (por ejemplo, un vino AOC francés), la etiqueta identifica principalmente el vino por:",
+    "options": [
+      "Variedad de uva y año de cosecha",
+      "Nombre del productor y origen geográfico (denominación)",
+      "Estilo (seco/dulce) y nivel de alcohol solamente",
+      "Variedad de uva y nombre del enólogo"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La convención de etiquetado del Viejo Mundo se centra en el origen geográfico (la denominación, por ejemplo, 'Pauillac', 'Chablis'), con la implicación subyacente de que las reglas de la denominación definen la variedad y el estilo. La variedad de uva rara vez se indica en la etiqueta."
+  },
+  {
+    "id": 185,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "Las etiquetas de vinos del Nuevo Mundo (por ejemplo, de Australia o California) típicamente difieren de las del Viejo Mundo porque:",
+    "options": [
+      "Nunca incluyen el nombre del productor",
+      "Destacan prominentemente el nombre de la variedad de uva en la etiqueta junto con la región",
+      "Siempre listan cada uva del ensamblaje con porcentajes",
+      "No incluyen año de cosecha"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El etiquetado del Nuevo Mundo es orientado al consumidor y liderado por la variedad — la variedad de uva (por ejemplo, 'Shiraz', 'Chardonnay') se muestra típicamente de forma prominente. Esto contrasta con las etiquetas del Viejo Mundo donde la denominación geográfica es el identificador principal."
+  },
+  {
+    "id": 186,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "¿Qué información le dice al consumidor el año de cosecha en una etiqueta de vino?",
+    "options": [
+      "El año en que se embotelló el vino",
+      "El año en que se cosecharon las uvas",
+      "El año en que se fundó la bodega",
+      "El año en que el vino alcanzará su momento óptimo de consumo"
+    ],
+    "correctAnswer": 1,
+    "explanation": "El año de cosecha indica el año en que se vendimaron las uvas. Esto es importante porque las condiciones climáticas difieren de un año a otro, afectando la calidad y el carácter del vino."
+  },
+  {
+    "id": 187,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "La densidad de plantación (número de viñas por hectárea) afecta la calidad del vino porque:",
+    "options": [
+      "Una mayor densidad siempre aumenta el rendimiento y diluye la calidad",
+      "Una mayor densidad de viñas aumenta la competencia radicular, forzando a las raíces a profundizar para encontrar agua y nutrientes, lo que puede mejorar la concentración del vino y la expresión del terroir",
+      "Una menor densidad de viñas produce los vinos más complejos en todos los climas",
+      "La densidad de plantación no tiene efecto en la calidad del vino, solo en los costes de producción"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Una mayor densidad de plantación aumenta la competencia radicular entre vides, fomentando un enraizamiento más profundo y una regulación natural del rendimiento por vid. Por eso los mejores viñedos de Borgoña pueden tener más de 10.000 vides/hectárea frente a algunos sitios del Nuevo Mundo con 1.000–2.000."
+  },
+  {
+    "id": 188,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "¿Cuál es el efecto de los suelos calcáreos en la viticultura?",
+    "options": [
+      "La caliza retiene demasiada agua, causando pudrición de raíces",
+      "La caliza proporciona buen drenaje, modera el vigor de la vid y se cree que contribuye a la frescura mineral de los vinos",
+      "Los suelos calcáreos son demasiado alcalinos para que crezca cualquier variedad de Vitis vinifera",
+      "La caliza solo beneficia a las variedades de uva blanca, no a las tintas"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Los suelos calcáreos drenan bien, regulan el vigor de la vid y se asocian con vinos de frescura y carácter mineral. Champaña, Chablis y Borgoña están parcialmente definidos por su geología calcárea."
+  },
+  {
+    "id": 189,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "¿Cómo beneficia el suelo volcánico (como el que se encuentra en el Etna o Santorini) a la producción de vino?",
+    "options": [
+      "Los suelos volcánicos son demasiado fértiles y siempre producen vinos diluidos",
+      "Los suelos volcánicos tienen buen drenaje, son bajos en nutrientes (limitando el vigor) y se cree que aportan un carácter mineral y ahumado distintivo a los vinos",
+      "Los suelos volcánicos retienen demasiado calor, produciendo vinos sobre-maduros de alto alcohol",
+      "Los suelos volcánicos matan la Filoxera, lo que significa que las viñas no requieren injerto"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Los suelos volcánicos típicamente tienen buen drenaje, son relativamente infértiles (moderando el vigor y los rendimientos de la vid) y pueden contribuir a la complejidad mineral. Algunas regiones volcánicas (como Santorini) permanecen sin injertar ya que la Filoxera no prospera en suelos volcánicos arenosos."
+  },
+  {
+    "id": 190,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "¿Qué significa la 'orientación' de un viñedo y por qué importa?",
+    "options": [
+      "La altitud del viñedo sobre el nivel del mar",
+      "La dirección a la que mira una ladera (por ejemplo, orientación sur en el hemisferio norte), que afecta la exposición solar y la temperatura",
+      "El tipo de sistema de conducción usado en las viñas",
+      "La distancia del viñedo a la bodega"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La orientación se refiere a la dirección a la que mira la ladera de un viñedo. En el hemisferio norte, las laderas orientadas al sur reciben la máxima luz solar, haciéndolas valiosas para la maduración en climas fríos. En el hemisferio sur, se prefieren las laderas orientadas al norte."
+  },
+  {
+    "id": 191,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "¿Qué elimina la 'filtración' de un vino, y cuál es el compromiso?",
+    "options": [
+      "La filtración añade compuestos antioxidantes al vino",
+      "La filtración elimina microorganismos y partículas para la estabilidad y limpidez, pero algunos argumentan que puede eliminar textura y complejidad",
+      "La filtración aumenta la concentración de sabor en un vino",
+      "La filtración elimina alcohol del vino para crear estilos de menor graduación"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La filtración elimina físicamente células de levadura, bacterias y partículas, haciendo el vino estable y limpio. Sin embargo, algunos productores de vinos finos argumentan que una filtración estricta puede eliminar textura, sensación en boca y complejidad aromática junto con las partículas objetivo."
+  },
+  {
+    "id": 192,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "¿Cuál es el principio general detrás de la latitud y la calidad del vino?",
+    "options": [
+      "Solo las regiones ecuatoriales (baja latitud) pueden producir vino de calidad",
+      "Las mejores regiones vinícolas se encuentran generalmente entre aproximadamente 30° y 50° de latitud en ambos hemisferios, donde las temperaturas son lo suficientemente moderadas para una viticultura de calidad",
+      "Una mayor latitud siempre produce mejor vino independientemente del clima",
+      "La latitud no tiene correlación con el estilo o la calidad del vino"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La mayoría de las regiones vinícolas de calidad del mundo se encuentran entre 30°–50° de latitud (N y S), donde las temperaturas estacionales permiten la plena madurez fenólica sin calor excesivo. El calor ecuatorial y el frío polar son ambos factores limitantes."
+  },
+  {
+    "id": 193,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "¿Qué es la técnica de vinificación de 'maceración prolongada' en la producción de vino tinto?",
+    "options": [
+      "Criar el vino durante un período prolongado en barricas nuevas de roble",
+      "Dejar los hollejos de uva tinta en contacto con el vino después de completada la fermentación, para extraer más tanino, color y complejidad",
+      "Fermentar el vino a un ritmo muy lento para extender el tiempo de fermentación",
+      "Añadir mosto de uva al vino terminado para aumentar el color"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La maceración prolongada (contacto con los hollejos post-fermentación) extrae tanino, color y otros compuestos fenólicos adicionales de los hollejos. Esto puede construir mayor estructura y potencial de envejecimiento, pero conlleva riesgo de taninos agresivos si se gestiona mal."
+  },
+  {
+    "id": 194,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "¿Por qué podría un enólogo elegir NO realizar la fermentación maloláctica en un vino blanco?",
+    "options": [
+      "Para aumentar el contenido alcohólico del vino",
+      "Para preservar la acidez alta y fresca y el carácter frutal primario — particularmente deseable en variedades aromáticas como Riesling y Sauvignon Blanc",
+      "Para prevenir cualquier actividad bacteriana que pudiera añadir sabores defectuosos",
+      "Para reducir el color del vino y hacerlo más pálido"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La FML reduce la acidez y puede añadir notas mantecosas y cremosas. Para vinos donde la frescura, la acidez nítida y los aromas primarios son puntos de venta clave (por ejemplo, Riesling, Sauvignon Blanc, Muscadet en algunos estilos), bloquear la FML con SO₂ o temperaturas frías es práctica estándar."
+  },
+  {
+    "id": 195,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "¿Qué abarca el término 'terroir' en el contexto del vino?",
+    "options": [
+      "Solo el tipo de suelo de un viñedo específico",
+      "El entorno natural completo de un viñedo, incluyendo suelo, clima, orientación, altitud y cualquier otro factor geográfico que influya en el carácter del vino",
+      "Las técnicas de vinificación específicas de una región",
+      "La combinación de variedad de uva y estilo del enólogo"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Terroir es un concepto francés que describe el entorno natural holístico de un viñedo — suelo, subsuelo, drenaje, topografía, clima y microclima — todos los cuales interactúan para dar a los vinos de un sitio específico su carácter distintivo."
+  },
+  {
+    "id": 196,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "¿Cómo influye el suelo arcilloso en el crecimiento de la vid en comparación con suelos de grava o arenosos?",
+    "options": [
+      "La arcilla drena libremente y tiene baja retención de humedad",
+      "La arcilla retiene bien el agua, puede volverse fría y encharcarse, pero proporciona un suministro constante de humedad a las viñas durante los veranos secos",
+      "Los suelos arcillosos siempre producen los mejores vinos en cualquier región",
+      "Los suelos arcillosos se calientan más rápido que la grava en primavera"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La arcilla tiene alta capacidad de retención de agua, lo que puede causar encharcamiento en climas húmedos pero proporciona una útil reserva de humedad en veranos cálidos y secos. El Merlot, que tiene raíces menos profundas que el Cabernet Sauvignon, prospera en los suelos arcillosos de la margen derecha."
+  },
+  {
+    "id": 197,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "¿Cuál es el propósito de la 'vendimia en verde' (aclareo de racimos) en el viñedo?",
+    "options": [
+      "Eliminar bayas verdes inmaduras para prevenir sabores amargos",
+      "Eliminar racimos de uvas inmaduras en exceso a mitad de temporada, reduciendo el tamaño de la cosecha restante para que las viñas puedan concentrarse en madurar menos bayas de mayor calidad",
+      "Cosechar temprano para preservar la acidez natural en años fríos",
+      "Eliminar hojas verdes para permitir más luz solar a las uvas"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La vendimia en verde implica eliminar racimos de uva en exceso antes del envero (el inicio de la maduración). Al reducir la carga de cosecha, la vid puede concentrar azúcares, fenoles y sabores en menos bayas."
+  },
+  {
+    "id": 198,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "¿A qué se refiere 'élevage' en la vinificación?",
+    "options": [
+      "El estrujado y prensado inicial de las uvas",
+      "La crianza o cuidado del vino desde el final de la fermentación hasta el embotellado, incluyendo la crianza en barrica, el trasiego y la clarificación",
+      "El sistema legal de clasificación de vinos por nivel de calidad en Francia",
+      "El proceso de añadir nutrientes a las levaduras durante la fermentación"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Élevage (del francés 'criar') abarca todo el trabajo de bodega después de completada la fermentación — incluyendo la crianza en barrica, el relleno de barricas para prevenir la oxidación, el trasiego (mover el vino de las lías) y preparar el vino para el embotellado."
+  },
+  {
+    "id": 199,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "¿Por qué la región de Hawke's Bay en Nueva Zelanda es particularmente adecuada para variedades tintas como Cabernet Sauvignon y Syrah en comparación con Marlborough?",
+    "options": [
+      "Hawke's Bay está a mayor altitud",
+      "Hawke's Bay tiene un clima más cálido y seco con una temporada de cultivo más larga, permitiendo la plena madurez fenólica en variedades tintas que luchan en el más fresco Marlborough",
+      "Hawke's Bay tiene más suelos volcánicos que mejoran la estructura tánica",
+      "Hawke's Bay se beneficia de una corriente oceánica más fría"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hawke's Bay en la Isla Norte tiene un clima más cálido, con mayor influencia continental que Marlborough, con otoños cálidos más largos. Esto permite que las variedades tintas de piel gruesa maduren completamente. La subregión de Gimblett Gravels es especialmente notable."
+  },
+  {
+    "id": 200,
+    "category": "Factores que Afectan el Estilo y la Calidad",
+    "question": "¿Por qué es cada vez más celebrada la región de Swartland en Sudáfrica?",
+    "options": [
+      "Por producir los mejores vinos dulces de postre del país",
+      "Por Chenin Blanc de viñas viejas cultivadas en secano y variedades del Ródano sin riego, expresando un carácter de terroir distintivo",
+      "Por Sauvignon Blanc de volumen de exportación para supermercados internacionales",
+      "Por Cap Classique (vino espumoso de método tradicional)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Swartland se ha convertido en la región más emocionante de Sudáfrica para vinos naturales y artesanales, con Chenin Blanc de viñas viejas, Grenache, Syrah y Mourvèdre cultivados en viñas en vaso de secano, defendidos por productores del movimiento Swartland Revolution."
+  }
+]
