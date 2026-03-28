@@ -5,6 +5,8 @@ import level1Data from "@/data/questions.json";
 import level2Data from "@/data/questions-l2.json";
 import level1DataEs from "@/data/questions-es.json";
 import level2DataEs from "@/data/questions-l2-es.json";
+import level1DataFr from "@/data/questions-fr.json";
+import level2DataFr from "@/data/questions-l2-fr.json";
 import { Question, WsetLevel, Language } from "@/types/quiz";
 import { t } from "@/data/translations";
 import QuizSetup from "@/components/QuizSetup";
@@ -22,6 +24,10 @@ const questionsByLevelAndLang: Record<Language, Record<WsetLevel, Question[]>> =
   es: {
     level1: level1DataEs as Question[],
     level2: level2DataEs as Question[],
+  },
+  fr: {
+    level1: level1DataFr as Question[],
+    level2: level2DataFr as Question[],
   },
 };
 
@@ -96,9 +102,9 @@ export default function Home() {
             WSET Practice
           </button>
           <button
-            onClick={() => setLanguage(language === "en" ? "es" : "en")}
+            onClick={() => setLanguage(language === "en" ? "es" : language === "es" ? "fr" : "en")}
             className="flex items-center gap-2 px-3 py-1.5 rounded-xl border border-border bg-card-bg hover:border-accent-light transition-colors"
-            title={language === "en" ? "Cambiar a español" : "Switch to English"}
+            title={language === "en" ? "Cambiar a español" : language === "es" ? "Passer en français" : "Switch to English"}
           >
             {/* UK flag */}
             <svg className={`w-6 h-4 rounded-sm ${language === "en" ? "opacity-100 ring-1 ring-accent" : "opacity-40"}`} viewBox="0 0 60 40" xmlns="http://www.w3.org/2000/svg">
@@ -113,6 +119,12 @@ export default function Home() {
               <rect width="60" height="10" fill="#AA151B"/>
               <rect y="10" width="60" height="20" fill="#F1BF00"/>
               <rect y="30" width="60" height="10" fill="#AA151B"/>
+            </svg>
+            {/* France flag */}
+            <svg className={`w-6 h-4 rounded-sm ${language === "fr" ? "opacity-100 ring-1 ring-accent" : "opacity-40"}`} viewBox="0 0 60 40" xmlns="http://www.w3.org/2000/svg">
+              <rect width="20" height="40" fill="#002395"/>
+              <rect x="20" width="20" height="40" fill="#fff"/>
+              <rect x="40" width="20" height="40" fill="#ED2939"/>
             </svg>
           </button>
         </div>

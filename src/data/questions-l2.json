@@ -2598,5 +2598,330 @@
     ],
     "correctAnswer": 1,
     "explanation": "Swartland has become South Africa's most exciting region for natural and artisan wine, with old-vine Chenin Blanc, Grenache, Syrah, and Mourvèdre grown on dry-farmed bush vines, championed by producers in the Swartland Revolution movement."
+  },
+  {
+    "id": 201,
+    "category": "Red Grape Varieties",
+    "question": "Touriga Nacional is Portugal's most important red grape. In which two contexts is it most celebrated?",
+    "options": [
+      "Champagne production and rosé",
+      "Port wine and premium dry Douro reds",
+      "Cava and Sherry blending",
+      "Light Beaujolais-style wines and rosé"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Touriga Nacional is considered Portugal's finest red grape, providing deep colour, intense aromatics, and structure. It is essential for premium Port and increasingly prized for dry Douro reds."
+  },
+  {
+    "id": 202,
+    "category": "Red Grape Varieties",
+    "question": "Carignan (Cariñena/Mazuelo) is widely grown in which regions and what style does it typically produce?",
+    "options": [
+      "Burgundy; light, elegant wines",
+      "Southern France and Spain; deeply coloured, high-tannin wines often used in blends",
+      "Oregon; delicate Pinot Noir-style wines",
+      "Germany; aromatic, low-alcohol wines"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Carignan is widely planted in Languedoc-Roussillon and Spain. It produces deeply coloured, tannic wines often used in blends. Old-vine Carignan can produce concentrated, characterful wines."
+  },
+  {
+    "id": 203,
+    "category": "Red Grape Varieties",
+    "question": "What is the typical style of Tannat wines from Madiran (south-west France) and Uruguay?",
+    "options": [
+      "Light, fruity, and low in tannin",
+      "Extremely tannic and deeply coloured, often softened by oak aging or micro-oxygenation",
+      "Aromatic and floral like Pinot Noir",
+      "Always sweet and fortified"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tannat is named for its exceptionally high tannin levels. Wines from Madiran are dark, powerful, and structured. Uruguay has adopted Tannat as its flagship grape, often producing slightly softer styles."
+  },
+  {
+    "id": 204,
+    "category": "Red Grape Varieties",
+    "question": "Nero d'Avola is the most important red grape of which Italian island?",
+    "options": [
+      "Sardinia",
+      "Sicily",
+      "Corsica",
+      "Elba"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Nero d'Avola is Sicily's most important red grape, producing wines ranging from fruity and approachable to rich and age-worthy, with flavours of dark cherry, plum, and spice."
+  },
+  {
+    "id": 205,
+    "category": "Red Grape Varieties",
+    "question": "Aglianico is the grape behind which two celebrated wines from southern Italy?",
+    "options": [
+      "Barolo and Barbaresco",
+      "Taurasi DOCG and Aglianico del Vulture DOC",
+      "Chianti and Brunello",
+      "Valpolicella and Soave"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Aglianico produces Taurasi (Campania) and Aglianico del Vulture (Basilicata). Often called 'the Barolo of the south', it is known for deep colour, high tannin, and notable acidity."
+  },
+  {
+    "id": 206,
+    "category": "White Grape Varieties",
+    "question": "Vermentino is a white grape variety widely grown in which Mediterranean regions?",
+    "options": [
+      "Champagne and Burgundy",
+      "Sardinia, Corsica, Liguria, and Provence",
+      "Mosel and Rheingau",
+      "Marlborough and Central Otago"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Vermentino thrives in warm Mediterranean climates, producing fresh, aromatic whites with citrus and herbal notes. It is known as Rolle in Provence."
+  },
+  {
+    "id": 207,
+    "category": "White Grape Varieties",
+    "question": "Fiano is a white grape native to which Italian region, producing wines with what character?",
+    "options": [
+      "Piedmont; light, fizzy wines",
+      "Campania; textured wines with nutty, honeyed, and floral notes",
+      "Veneto; simple, neutral whites",
+      "Tuscany; heavily oaked Chardonnay-style wines"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fiano di Avellino DOCG from Campania produces complex whites with distinctive honey, hazelnut, and floral character. It is one of southern Italy's finest white grapes."
+  },
+  {
+    "id": 208,
+    "category": "White Grape Varieties",
+    "question": "Verdejo is the signature white grape of which Spanish DO, producing what style of wine?",
+    "options": [
+      "Rioja; heavily oaked whites",
+      "Rueda; crisp, aromatic whites with herbal and citrus notes",
+      "Priorat; full-bodied reds",
+      "Jerez; fortified Sherry"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Verdejo is the key grape of Rueda DO in north-west Spain. It produces fresh, aromatic whites with fennel, citrus, and stone fruit character, often compared to Sauvignon Blanc."
+  },
+  {
+    "id": 209,
+    "category": "White Grape Varieties",
+    "question": "Assyrtiko is the most important white grape of which wine region, known for what distinctive quality?",
+    "options": [
+      "Napa Valley; rich, buttery Chardonnay alternatives",
+      "Santorini, Greece; high acidity and mineral character even in hot, dry conditions",
+      "Mosel; sweet Riesling styles",
+      "Loire Valley; Chenin Blanc blends"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Assyrtiko from Santorini is remarkable for retaining high acidity despite the island's extreme heat. Wines are typically dry, mineral, and citrusy, grown on ancient ungrafted vines in volcanic soil."
+  },
+  {
+    "id": 210,
+    "category": "White Grape Varieties",
+    "question": "Garganega is the primary grape variety in which well-known Italian white wine?",
+    "options": [
+      "Gavi",
+      "Soave",
+      "Pinot Grigio delle Venezie",
+      "Verdicchio dei Castelli di Jesi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Garganega is the main grape in Soave and Soave Classico from the Veneto. At its best, it produces elegant whites with almond, citrus, and floral character."
+  },
+  {
+    "id": 211,
+    "category": "Sparkling Wines",
+    "question": "What is the term 'autolysis' in sparkling wine production, and what effect does it have?",
+    "options": [
+      "The process of adding sugar before bottling; it increases sweetness",
+      "The breakdown of dead yeast cells during lees aging; it contributes biscuity, bready, toasty flavours",
+      "The removal of carbon dioxide; it makes the wine still",
+      "The blending of different vintages; it improves consistency"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Autolysis occurs when dead yeast cells break down during extended lees contact. This releases amino acids and other compounds that give traditional method sparkling wines their characteristic biscuity, brioche, and toasty complexity."
+  },
+  {
+    "id": 212,
+    "category": "Sparkling Wines",
+    "question": "What does 'Brut Nature' (or 'Zero Dosage') indicate on a sparkling wine label?",
+    "options": [
+      "The wine is very sweet",
+      "No sugar has been added in the dosage, resulting in the driest style of sparkling wine",
+      "The wine is made from natural/organic grapes only",
+      "The wine was made using the ancestral method"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Brut Nature (also called Zero Dosage or Non-Dosé) means no sugar was added at disgorgement. With less than 3 g/l residual sugar, it is the driest style of Champagne/sparkling wine."
+  },
+  {
+    "id": 213,
+    "category": "Sparkling Wines",
+    "question": "Trentodoc is Italy's answer to Champagne. Where is it produced and by what method?",
+    "options": [
+      "Sicily, using the Charmat method",
+      "Trentino-Alto Adige, using the traditional method (metodo classico)",
+      "Veneto, using the ancestral method",
+      "Piedmont, using the Asti method"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trentodoc DOC is produced in the mountainous Trentino-Alto Adige region using the traditional method (metodo classico). Its high-altitude vineyards produce elegant, fine sparkling wines from Chardonnay and Pinot Noir."
+  },
+  {
+    "id": 214,
+    "category": "Sparkling Wines",
+    "question": "What is a 'Champagne house' (maison/négociant) and how does it differ from a 'grower Champagne' (récoltant-manipulant)?",
+    "options": [
+      "They are the same thing",
+      "A house buys grapes from many growers for a consistent style; a grower makes Champagne exclusively from their own vineyards",
+      "A house only makes rosé; a grower only makes blanc de blancs",
+      "A house uses the Charmat method; a grower uses the traditional method"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Champagne houses (NM on the label) buy grapes widely to create a consistent house style. Grower Champagnes (RM on the label) are made by the vineyard owner from their own grapes, often reflecting a specific terroir."
+  },
+  {
+    "id": 215,
+    "category": "Sparkling Wines",
+    "question": "What grape varieties are permitted in Franciacorta DOCG?",
+    "options": [
+      "Glera and Prosecco",
+      "Chardonnay, Pinot Nero (Pinot Noir), and Pinot Bianco",
+      "Garganega and Trebbiano",
+      "Nebbiolo and Barbera"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Franciacorta DOCG uses similar grapes to Champagne: Chardonnay, Pinot Nero (Pinot Noir), and Pinot Bianco. Made by the traditional method, it is Italy's most prestigious sparkling wine appellation."
+  },
+  {
+    "id": 216,
+    "category": "Wine Regions of the World",
+    "question": "Santorini in Greece is known for producing distinctive wines from Assyrtiko. What makes its viticulture unique?",
+    "options": [
+      "Vines are grown underwater",
+      "Vines are trained in low basket shapes (kouloura) to protect from wind, on volcanic soil with ungrafted vines",
+      "All vineyards use mechanical harvesting",
+      "Irrigation is mandatory due to extreme heat"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Santorini's vines are trained in a unique low basket (kouloura) shape to protect grapes from strong winds. The volcanic soil (phylloxera-free) supports ungrafted vines, some over 100 years old."
+  },
+  {
+    "id": 217,
+    "category": "Wine Regions of the World",
+    "question": "Georgia is considered one of the oldest wine-producing countries. What traditional winemaking vessel is it famous for?",
+    "options": [
+      "French oak barrels",
+      "Qvevri — large clay vessels buried in the ground",
+      "Stainless steel tanks",
+      "Glass carboys"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Georgia has over 8,000 years of winemaking history. The qvevri is a large egg-shaped clay vessel buried underground, used for fermenting and aging wine. UNESCO recognises this as intangible cultural heritage."
+  },
+  {
+    "id": 218,
+    "category": "Wine Regions of the World",
+    "question": "Lebanon's Bekaa Valley has a long winemaking history. Which grape varieties dominate its most famous wines?",
+    "options": [
+      "Riesling and Gewürztraminer",
+      "Bordeaux varieties — Cabernet Sauvignon, Merlot, and Cinsault",
+      "Pinot Noir and Chardonnay",
+      "Tempranillo and Garnacha"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Lebanon's Bekaa Valley, with estates like Château Musar, is known for distinctive blends using Bordeaux varieties (Cabernet Sauvignon, Merlot) alongside Cinsault, Carignan, and others."
+  },
+  {
+    "id": 219,
+    "category": "Wine Regions of the World",
+    "question": "Tokaj in Hungary is famous for producing which style of wine?",
+    "options": [
+      "Dry Riesling",
+      "Tokaji Aszú — a sweet botrytised wine made from the Furmint grape",
+      "Red Bordeaux-style blends",
+      "Traditional method sparkling wine"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tokaj produces the legendary Tokaji Aszú, one of the world's greatest sweet wines. Made primarily from Furmint grapes affected by botrytis (noble rot), it has been prized for centuries."
+  },
+  {
+    "id": 220,
+    "category": "Wine Regions of the World",
+    "question": "Wachau in Austria is divided into three quality categories for dry wines. What are they, in ascending order of ripeness and body?",
+    "options": [
+      "Kabinett, Spätlese, Auslese",
+      "Steinfeder, Federspiel, Smaragd",
+      "Crianza, Reserva, Gran Reserva",
+      "Village, Premier Cru, Grand Cru"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Wachau's own classification uses Steinfeder (lightest, up to 11.5% ABV), Federspiel (medium, up to 12.5%), and Smaragd (fullest, over 12.5%) — named after a feather, a falcon-training tool, and a local emerald lizard."
+  },
+  {
+    "id": 221,
+    "category": "Factors Affecting Style and Quality",
+    "question": "What is 'battonage' (lees stirring) and what effect does it have on wine?",
+    "options": [
+      "Filtering wine through charcoal to remove colour",
+      "Stirring the lees in barrel to increase texture, richness, and yeast-derived flavours",
+      "Adding sugar to fermenting wine to increase alcohol",
+      "Removing tartrate crystals from chilled wine"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Battonage involves stirring the lees (dead yeast) in barrel during aging. This increases the wine's body, creaminess, and complexity, and helps integrate oak flavours. Commonly used for Burgundy-style Chardonnay."
+  },
+  {
+    "id": 222,
+    "category": "Factors Affecting Style and Quality",
+    "question": "What is 'chaptalization' and in which regions is it commonly permitted?",
+    "options": [
+      "Adding acid to wine; permitted in warm regions",
+      "Adding sugar to grape must before fermentation to increase alcohol; permitted in cooler regions like Burgundy and Germany",
+      "Adding water to wine to dilute it; permitted everywhere",
+      "Adding tannin powder; permitted only in Italy"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Chaptalization is the addition of sugar to grape must before fermentation to raise potential alcohol, not to sweeten the wine. It is permitted in cooler regions where grapes may not reach full ripeness, but banned in many warm-climate regions."
+  },
+  {
+    "id": 223,
+    "category": "Factors Affecting Style and Quality",
+    "question": "What is 'skin contact' (maceration) for white wines, and what style does it produce?",
+    "options": [
+      "Removing all skins immediately; produces neutral wines",
+      "Leaving white grape juice in contact with skins for hours or days; increases texture, colour, and phenolic complexity",
+      "Pressing grapes without crushing; produces sweet wines",
+      "Fermenting without temperature control; produces oxidised wines"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Extended skin contact for white grapes extracts more phenolics, colour, and texture. Brief contact (a few hours) adds body; extended contact (days/weeks) produces amber/orange wines with tannin and distinctive character."
+  },
+  {
+    "id": 224,
+    "category": "Factors Affecting Style and Quality",
+    "question": "What is the 'appassimento' technique used in Amarone production?",
+    "options": [
+      "Fermenting wine at very low temperatures",
+      "Drying harvested grapes on racks to concentrate sugars and flavours before pressing and fermentation",
+      "Aging wine in new American oak barrels",
+      "Blending wine from multiple vintages"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Appassimento involves drying harvested grapes (typically Corvina, Rondinella, Molinara) on racks for several months. The water evaporates, concentrating sugars, acids, and flavours, producing the rich, powerful style of Amarone."
+  },
+  {
+    "id": 225,
+    "category": "Factors Affecting Style and Quality",
+    "question": "What is the difference between 'co-fermentation' and 'blending' in winemaking?",
+    "options": [
+      "They are the same process",
+      "Co-fermentation ferments different grape varieties together; blending combines finished wines from separately fermented batches",
+      "Co-fermentation only applies to white wines; blending only to reds",
+      "Co-fermentation is illegal in all appellations"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Co-fermentation involves fermenting different grape varieties together in the same vessel (e.g., Syrah with Viognier in Côte-Rôtie). Blending combines individually vinified wines after fermentation for complexity and balance."
   }
 ]

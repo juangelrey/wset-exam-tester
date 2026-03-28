@@ -71,6 +71,41 @@ const translations = {
     // Review screen
     backToResults: "Volver a Resultados",
   },
+  fr: {
+    // Setup screen
+    level1Title: "WSET Niveau 1",
+    level2Title: "WSET Niveau 2",
+    level1Subtitle: "Certificat en Vins — Examen Pratique",
+    level2Subtitle: "Certificat en Vins et Spiritueux — Examen Pratique",
+    selectLevel: "Choisir le Niveau",
+    selectLanguage: "Langue",
+    level1Label: "Niveau 1",
+    level2Label: "Niveau 2",
+    foundations: "Fondamentaux",
+    intermediate: "Intermédiaire",
+    selectTopics: "Choisir les Sujets",
+    topicsHint: "Laissez tout désélectionné pour inclure tous les sujets, ou choisissez ceux qui vous intéressent.",
+    clearSelection: "Effacer la sélection (tous les sujets)",
+    numberOfQuestions: "Nombre de Questions",
+    questionsAvailable: "questions disponibles",
+    startQuiz: "Commencer l'Examen",
+    // Quiz screen
+    correct: "Correct !",
+    incorrect: "Incorrect",
+    seeResults: "Voir les Résultats",
+    nextQuestion: "Question Suivante",
+    // Results screen
+    quizComplete: "Examen Terminé",
+    correctSuffix: "correctes",
+    pass: "RÉUSSI",
+    needsMorePractice: "À RETRAVAILLER",
+    passMarkLabel: "note de passage : 70%",
+    topicBreakdown: "Résultats par Sujet",
+    reviewAnswers: "Revoir les Réponses",
+    newQuiz: "Nouvel Examen",
+    // Review screen
+    backToResults: "Retour aux Résultats",
+  },
 } as const;
 
 export type Translations = Record<keyof (typeof translations)["en"], string>;
