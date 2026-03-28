@@ -1755,19 +1755,6 @@
     "explanation": "If the temperature gets too high during fermentation, the yeast can be killed, causing fermentation to stop prematurely."
   },
   {
-    "id": 136,
-    "category": "Wine Production",
-    "question": "Which of the following is an example of a fortified wine?",
-    "options": [
-      "Champagne",
-      "Riesling",
-      "Port",
-      "Pinot Grigio"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Port is a fortified wine from Portugal. It is made by adding grape spirit during fermentation, which stops the fermentation and leaves residual sugar, resulting in a sweet, high-alcohol wine."
-  },
-  {
     "id": 137,
     "category": "Wine Production",
     "question": "What is the main ingredient needed for fermentation to start?",
@@ -1820,19 +1807,6 @@
     "explanation": "A sweet wine is one that contains a noticeable amount of residual sugar, giving it a sweet taste. This can happen by stopping fermentation early or by using very ripe grapes with high sugar levels."
   },
   {
-    "id": 141,
-    "category": "Wine Production",
-    "question": "What is the main difference between still wine and sparkling wine?",
-    "options": [
-      "Sparkling wine is always white",
-      "Sparkling wine contains dissolved carbon dioxide, giving it bubbles",
-      "Still wine is always red",
-      "Sparkling wine is always sweet"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The main difference is that sparkling wine contains dissolved carbon dioxide (CO2), which creates bubbles when the bottle is opened. Still wine has no significant carbonation."
-  },
-  {
     "id": 142,
     "category": "Wine Production",
     "question": "What does 'aging' wine mean?",
@@ -1872,19 +1846,6 @@
     "explanation": "Port is a fortified wine. A grape spirit is added during fermentation, which raises the alcohol level to around 19-22% and stops fermentation, leaving the wine sweet."
   },
   {
-    "id": 145,
-    "category": "Grape Growing",
-    "question": "Between which latitudes are most of the world's vineyards located?",
-    "options": [
-      "0-15° north and south",
-      "30-50° north and south",
-      "60-80° north and south",
-      "15-25° north and south"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Most of the world's vineyards are found between 30 and 50 degrees latitude in both the Northern and Southern Hemispheres, where conditions are suitable for growing grapes."
-  },
-  {
     "id": 146,
     "category": "Grape Growing",
     "question": "What happens to sugar levels in grapes as they ripen?",
@@ -1922,19 +1883,6 @@
     ],
     "correctAnswer": 1,
     "explanation": "Véraison is the stage in the grape growing cycle when grapes change colour (black grapes turn from green to purple, white grapes become more translucent) and begin to ripen."
-  },
-  {
-    "id": 149,
-    "category": "Grape Growing",
-    "question": "What is phylloxera?",
-    "options": [
-      "A type of grape variety",
-      "A vine pest (a tiny insect) that attacks vine roots",
-      "A method of pruning vines",
-      "A type of soil found in vineyards"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Phylloxera is a tiny insect that feeds on vine roots and can destroy grapevines. It devastated European vineyards in the 19th century."
   },
   {
     "id": 150,
@@ -2678,32 +2626,6 @@
     "explanation": "The bubbles in sparkling wine come from carbon dioxide (CO2) that is dissolved in the wine."
   },
   {
-    "id": 207,
-    "category": "Types of Wine",
-    "question": "What is a fortified wine?",
-    "options": [
-      "A wine with extra sugar added",
-      "A wine with a spirit (such as brandy) added",
-      "A wine that is extra strong due to long fermentation",
-      "A wine stored in a fortified cellar"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Fortified wine has had a spirit (usually grape spirit or brandy) added to it, which raises its alcohol level."
-  },
-  {
-    "id": 208,
-    "category": "Types of Wine",
-    "question": "Which of the following is an example of a fortified wine?",
-    "options": [
-      "Champagne",
-      "Prosecco",
-      "Port",
-      "Beaujolais"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Port is a fortified wine from Portugal, made by adding grape spirit during fermentation."
-  },
-  {
     "id": 209,
     "category": "Types of Wine",
     "question": "What gives rosé wine its pink colour?",
@@ -3068,19 +2990,6 @@
     "explanation": "The three stages of wine tasting are appearance (how it looks), nose (how it smells), and palate (how it tastes in the mouth)."
   },
   {
-    "id": 237,
-    "category": "Wine Tasting",
-    "question": "What does 'body' refer to in wine tasting?",
-    "options": [
-      "The shape of the bottle",
-      "The weight or fullness of the wine in your mouth",
-      "The colour of the wine",
-      "The aroma intensity"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Body refers to the weight or fullness of the wine as you experience it in your mouth. Wines can be light-bodied, medium-bodied, or full-bodied."
-  },
-  {
     "id": 238,
     "category": "Wine Tasting",
     "question": "What does 'finish' or 'length' mean when describing a wine?",
@@ -3092,19 +3001,6 @@
     ],
     "correctAnswer": 2,
     "explanation": "Finish or length describes how long the flavours and sensations persist in your mouth after you have swallowed or spat the wine."
-  },
-  {
-    "id": 239,
-    "category": "Wine Tasting",
-    "question": "What sensation does tannin create in the mouth?",
-    "options": [
-      "A sweet, sugary coating",
-      "A fizzy, tingling feeling",
-      "A drying, gripping sensation",
-      "A cooling, minty sensation"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Tannin creates a drying, gripping sensation on the gums and tongue, similar to the feeling of drinking strong black tea."
   },
   {
     "id": 240,
@@ -3131,19 +3027,6 @@
     ],
     "correctAnswer": 2,
     "explanation": "A dry wine has little or no perceptible sweetness. It may still contain trace amounts of sugar, but not enough to taste sweet."
-  },
-  {
-    "id": 242,
-    "category": "Wine Tasting",
-    "question": "Why do we swirl wine in the glass?",
-    "options": [
-      "To warm the wine up quickly",
-      "To mix sediment back into the wine",
-      "To release aromas from the wine",
-      "To check if the wine is fizzy"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Swirling the wine in the glass exposes it to air, which helps release its aromas so you can smell them more easily."
   },
   {
     "id": 243,
@@ -3469,19 +3352,6 @@
     ],
     "correctAnswer": 2,
     "explanation": "A light-bodied wine feels closer to water or skimmed milk in weight and texture. Full-bodied wines feel more like cream."
-  },
-  {
-    "id": 268,
-    "category": "Responsible Service",
-    "question": "What does ABV stand for?",
-    "options": [
-      "Alcohol By Volume",
-      "Average Bottle Value",
-      "Alcoholic Beverage Variant",
-      "Annual Brewing Volume"
-    ],
-    "correctAnswer": 0,
-    "explanation": "ABV stands for Alcohol By Volume. It indicates the percentage of alcohol in a drink."
   },
   {
     "id": 269,
@@ -4251,19 +4121,6 @@
     "explanation": "Chianti is made primarily from the Sangiovese grape, which is the most widely planted red grape in Italy."
   },
   {
-    "id": 328,
-    "category": "Wine Regions",
-    "question": "Prosecco is a sparkling wine from which country?",
-    "options": [
-      "Spain",
-      "France",
-      "Germany",
-      "Italy"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Prosecco is an Italian sparkling wine, produced mainly in the Veneto region of northeastern Italy."
-  },
-  {
     "id": 329,
     "category": "Wine Regions",
     "question": "Which country is Rioja from?",
@@ -4288,19 +4145,6 @@
     ],
     "correctAnswer": 1,
     "explanation": "Tempranillo is the principal grape variety of Rioja and Spain's most important red grape."
-  },
-  {
-    "id": 331,
-    "category": "Wine Regions",
-    "question": "Cava is a sparkling wine from which country?",
-    "options": [
-      "France",
-      "Italy",
-      "Spain",
-      "Germany"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Cava is Spain's most well-known sparkling wine, produced primarily in the Penedès region of Catalonia."
   },
   {
     "id": 332,
@@ -4938,5 +4782,265 @@
     ],
     "correctAnswer": 1,
     "explanation": "A sparkling wine cork is under significant pressure and can fly out of the bottle with considerable force, potentially causing serious injury. Always point the bottle away from people when opening."
+  },
+  {
+    "id": 381,
+    "category": "Food and Wine Pairing",
+    "question": "Which wine would pair best with sushi and sashimi?",
+    "options": [
+      "Oaked Chardonnay",
+      "Crisp dry white such as Chablis or Muscadet",
+      "Full-bodied Shiraz",
+      "Vintage Port"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Light, crisp, unoaked whites like Chablis or Muscadet complement the delicate flavours of raw fish without overwhelming them."
+  },
+  {
+    "id": 382,
+    "category": "Food and Wine Pairing",
+    "question": "Which wine is a classic pairing with duck confit?",
+    "options": [
+      "Sauvignon Blanc",
+      "Pinot Grigio",
+      "Pinot Noir",
+      "Moscato"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Pinot Noir has enough body and acidity to stand up to the richness of duck confit, while its red-fruit flavours complement the meat."
+  },
+  {
+    "id": 383,
+    "category": "Food and Wine Pairing",
+    "question": "What type of wine is traditionally paired with foie gras?",
+    "options": [
+      "Dry Riesling",
+      "Sauternes (sweet wine)",
+      "Chianti",
+      "Dry rosé"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sauternes, a rich sweet wine from Bordeaux, is a classic pairing with foie gras because its sweetness and acidity balance the richness of the dish."
+  },
+  {
+    "id": 384,
+    "category": "Food and Wine Pairing",
+    "question": "Why does Albariño pair well with seafood dishes?",
+    "options": [
+      "It is very tannic",
+      "It has high acidity and citrus notes that complement shellfish",
+      "It is always sweet",
+      "It has a very high alcohol level"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Albariño from north-west Spain has bright acidity and citrus/stone fruit character that pairs naturally with the local seafood."
+  },
+  {
+    "id": 385,
+    "category": "Food and Wine Pairing",
+    "question": "Which wine would best complement a mushroom risotto?",
+    "options": [
+      "Off-dry Gewürztraminer",
+      "Aged Barolo or Burgundy Pinot Noir",
+      "Sweet Moscato",
+      "Tannat"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Earthy, medium-bodied reds like aged Barolo or Burgundy Pinot Noir mirror the earthy flavours of mushrooms and match the weight of the risotto."
+  },
+  {
+    "id": 386,
+    "category": "Food and Wine Pairing",
+    "question": "Which type of wine pairs best with blue cheese?",
+    "options": [
+      "Light dry white wine",
+      "Sweet wine such as Sauternes or Port",
+      "Young tannic Cabernet Sauvignon",
+      "Dry sparkling wine"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The saltiness and strong flavour of blue cheese is balanced by the sweetness of wines like Sauternes or Port, creating a classic combination."
+  },
+  {
+    "id": 387,
+    "category": "Food and Wine Pairing",
+    "question": "What is the main reason to avoid pairing oaky, buttery Chardonnay with delicate steamed fish?",
+    "options": [
+      "The wine is too cold",
+      "The wine's heavy flavour will overpower the fish",
+      "The wine is too acidic",
+      "The wine has too much tannin"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A heavily oaked Chardonnay can overwhelm delicate dishes. Matching the weight of the wine to the weight of the food is a key pairing principle."
+  },
+  {
+    "id": 388,
+    "category": "Food and Wine Pairing",
+    "question": "Which wine would you choose to pair with a tomato-based pasta dish?",
+    "options": [
+      "Oaked Chardonnay",
+      "Medium-bodied Italian red such as Chianti",
+      "Sweet Riesling",
+      "Full-bodied Argentinian Malbec"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Chianti and other Sangiovese-based wines have bright acidity that matches the acidity of tomatoes and enough body to complement the dish."
+  },
+  {
+    "id": 389,
+    "category": "Food and Wine Pairing",
+    "question": "Why is Gewürztraminer often recommended with Asian cuisine?",
+    "options": [
+      "It is very tannic",
+      "Its aromatic, slightly sweet character complements spicy and aromatic dishes",
+      "It has no flavour of its own",
+      "It is always red"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Gewürztraminer's aromatic intensity and touch of sweetness help balance the spice and complement the complex flavours found in many Asian dishes."
+  },
+  {
+    "id": 390,
+    "category": "Food and Wine Pairing",
+    "question": "What is the concept of a 'bridge' ingredient in food and wine pairing?",
+    "options": [
+      "A sauce that prevents wine from being served",
+      "An ingredient in the dish that echoes a flavour in the wine, linking the two",
+      "A type of wine glass",
+      "A method of decanting"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A bridge ingredient creates a flavour connection between the food and the wine — for example, a squeeze of lemon on fish bridging to a citrusy Sauvignon Blanc."
+  },
+  {
+    "id": 391,
+    "category": "Food and Wine Pairing",
+    "question": "Which wine would pair well with a barbecue-glazed rack of ribs?",
+    "options": [
+      "Delicate Pinot Grigio",
+      "Bold Zinfandel or Shiraz",
+      "Brut Champagne",
+      "Dry fino Sherry"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Zinfandel and Shiraz have bold, fruity flavours and enough body to stand up to the smoky, sweet intensity of barbecue ribs."
+  },
+  {
+    "id": 392,
+    "category": "Food and Wine Pairing",
+    "question": "What is a contrasting pairing?",
+    "options": [
+      "Pairing two wines together",
+      "Matching wine and food by choosing opposite but complementary flavours",
+      "Serving wine at the wrong temperature",
+      "Using wine in cooking only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A contrasting pairing uses opposing flavour elements — such as a sweet wine with salty food — to create balance and enhance both the wine and the dish."
+  },
+  {
+    "id": 393,
+    "category": "Food and Wine Pairing",
+    "question": "Which wine is a classic regional pairing with tapas in Spain?",
+    "options": [
+      "New Zealand Sauvignon Blanc",
+      "Fino or Manzanilla Sherry",
+      "Australian Shiraz",
+      "German Riesling"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fino and Manzanilla Sherry are produced in southern Spain and are traditional accompaniments to tapas, following the principle of regional pairing."
+  },
+  {
+    "id": 394,
+    "category": "Food and Wine Pairing",
+    "question": "Which wine would best pair with a chocolate dessert?",
+    "options": [
+      "Dry Sauvignon Blanc",
+      "Late Bottled Vintage Port or Banyuls",
+      "Dry Muscadet",
+      "Vinho Verde"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Rich, sweet, dark-fruited wines like LBV Port or Banyuls match the intensity and sweetness of chocolate desserts."
+  },
+  {
+    "id": 395,
+    "category": "Food and Wine Pairing",
+    "question": "Why should the wine generally be sweeter than the food it accompanies?",
+    "options": [
+      "Because dry wines are always bad",
+      "Because sweet food can make a dry wine taste thin, bitter, and acidic",
+      "Because sugar makes alcohol stronger",
+      "Because it is a legal requirement"
+    ],
+    "correctAnswer": 1,
+    "explanation": "If the food is sweeter than the wine, it will diminish the fruit in the wine and make it taste harsh. The wine should be at least as sweet as the dish."
+  },
+  {
+    "id": 396,
+    "category": "Food and Wine Pairing",
+    "question": "Which wine pairs well with Thanksgiving turkey?",
+    "options": [
+      "Heavy tannic Cabernet Sauvignon",
+      "Beaujolais or off-dry Riesling",
+      "Dry fino Sherry",
+      "Sweet Moscato d'Asti"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Beaujolais (Gamay) and off-dry Riesling are versatile enough to complement turkey and the wide range of side dishes typically served at Thanksgiving."
+  },
+  {
+    "id": 397,
+    "category": "Food and Wine Pairing",
+    "question": "What is meant by matching the 'weight' of wine to food?",
+    "options": [
+      "The physical weight of the bottle",
+      "Pairing light-bodied wines with light dishes and full-bodied wines with rich dishes",
+      "How much the food weighs on the plate",
+      "The heaviness of the glass"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Weight matching means ensuring neither the wine nor the food overwhelms the other — a delicate dish needs a lighter wine, while a rich dish can handle a fuller wine."
+  },
+  {
+    "id": 398,
+    "category": "Food and Wine Pairing",
+    "question": "Which of these pairings uses the principle of complementing similar flavours?",
+    "options": [
+      "Sweet wine with salty cheese",
+      "Oaked Chardonnay with butter-roasted lobster",
+      "Sparkling wine with fried chicken",
+      "Tannic red with dark chocolate"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Oaked Chardonnay and butter-roasted lobster share buttery, rich characteristics — this is a complementary pairing where similar flavours enhance each other."
+  },
+  {
+    "id": 399,
+    "category": "Food and Wine Pairing",
+    "question": "Why does sparkling wine pair well with fried food?",
+    "options": [
+      "The bubbles and acidity cleanse the palate of oiliness",
+      "Sparkling wine is always sweet",
+      "The carbonation cooks the food further",
+      "Fried food makes the wine taste sweeter"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The effervescence and acidity in sparkling wine cut through the fat and oil of fried foods, refreshing the palate between bites."
+  },
+  {
+    "id": 400,
+    "category": "Food and Wine Pairing",
+    "question": "Which wine would you pair with a classic margherita pizza?",
+    "options": [
+      "Heavy Australian Shiraz",
+      "Light to medium Italian red such as Barbera or young Sangiovese",
+      "Vintage Champagne",
+      "Ice wine"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Italian reds like Barbera or young Sangiovese have the acidity to match the tomato sauce and enough body for the mozzarella, plus it follows the regional pairing principle."
   }
 ]
