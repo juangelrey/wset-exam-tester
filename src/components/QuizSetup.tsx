@@ -1,16 +1,18 @@
 "use client";
 
-import { Question } from "@/types/quiz";
+import { Question, WsetLevel } from "@/types/quiz";
 
 interface QuizSetupProps {
   categories: string[];
   questions: Question[];
+  level: WsetLevel;
+  onLevelChange: (level: WsetLevel) => void;
   onStart: (selectedCategories: string[], questionCount: number) => void;
 }
 
 import { useState } from "react";
 
-export default function QuizSetup({ categories, questions, onStart }: QuizSetupProps) {
+export default function QuizSetup({ categories, questions, level, onLevelChange, onStart }: QuizSetupProps) {
   const [selectedCategories, setSelectedCategories] = useState<string[]>([]);
   const [questionCount, setQuestionCount] = useState(20);
 
@@ -37,9 +39,47 @@ export default function QuizSetup({ categories, questions, onStart }: QuizSetupP
     <div className="max-w-2xl mx-auto">
       <div className="text-center mb-8">
         <h1 className="text-3xl sm:text-4xl font-bold text-accent mb-2">
-          WSET Level 1
+          {level === "level1" ? "WSET Level 1" : "WSET Level 2"}
         </h1>
-        <p className="text-lg text-muted">Award in Wines — Practice Exam</p>
+        <p className="text-lg text-muted">
+          {level === "level1"
+            ? "Award in Wines — Practice Exam"
+            : "Award in Wines and Spirits — Practice Exam"}
+        </p>
+      </div>
+
+      <div className="bg-card-bg rounded-2xl shadow-sm border border-border p-6 mb-6">
+        <h2 className="text-lg font-semibold mb-4">Select Level</h2>
+        <div className="grid grid-cols-2 gap-3">
+          <button
+            onClick={() => {
+              onLevelChange("level1");
+              setSelectedCategories([]);
+            }}
+            className={`px-4 py-3 rounded-xl border text-sm font-medium transition-all ${
+              level === "level1"
+                ? "bg-accent text-white border-accent"
+                : "bg-card-bg border-border hover:border-accent-light"
+            }`}
+          >
+            Level 1
+            <span className="block text-xs mt-1 opacity-80">Foundations</span>
+          </button>
+          <button
+            onClick={() => {
+              onLevelChange("level2");
+              setSelectedCategories([]);
+            }}
+            className={`px-4 py-3 rounded-xl border text-sm font-medium transition-all ${
+              level === "level2"
+                ? "bg-accent text-white border-accent"
+                : "bg-card-bg border-border hover:border-accent-light"
+            }`}
+          >
+            Level 2
+            <span className="block text-xs mt-1 opacity-80">Intermediate</span>
+          </button>
+        </div>
       </div>
 
       <div className="bg-card-bg rounded-2xl shadow-sm border border-border p-6 mb-6">

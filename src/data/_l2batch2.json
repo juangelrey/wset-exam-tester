@@ -1,0 +1,802 @@
+[
+  {
+    "id": 101,
+    "category": "Wine Regions of the World",
+    "question": "Which bank of the Gironde estuary is Château Margaux located on?",
+    "options": ["Right Bank", "Left Bank", "Both banks", "Neither — it is inland"],
+    "correctAnswer": 1,
+    "explanation": "Château Margaux is a Left Bank Bordeaux estate in the Margaux appellation, classified as a Premier Grand Cru Classé in the 1855 classification."
+  },
+  {
+    "id": 102,
+    "category": "Wine Regions of the World",
+    "question": "The 1855 Bordeaux classification primarily ranked châteaux from which two appellations?",
+    "options": ["Pomerol and Saint-Émilion", "Médoc and Sauternes", "Graves and Pomerol", "Saint-Julien and Pauillac only"],
+    "correctAnswer": 1,
+    "explanation": "The 1855 classification ranked red wines from the Médoc (plus Haut-Brion from Graves) and sweet wines from Sauternes and Barsac."
+  },
+  {
+    "id": 103,
+    "category": "Wine Regions of the World",
+    "question": "Which grape variety dominates red wines on Bordeaux's Right Bank?",
+    "options": ["Cabernet Sauvignon", "Merlot", "Cabernet Franc", "Malbec"],
+    "correctAnswer": 1,
+    "explanation": "The Right Bank appellations of Pomerol and Saint-Émilion are dominated by Merlot, which thrives on the clay-rich soils found there."
+  },
+  {
+    "id": 104,
+    "category": "Wine Regions of the World",
+    "question": "Pétrus, one of the world's most famous wines, comes from which Right Bank appellation?",
+    "options": ["Saint-Émilion", "Fronsac", "Pomerol", "Lalande-de-Pomerol"],
+    "correctAnswer": 2,
+    "explanation": "Pétrus is produced in Pomerol, a small Right Bank appellation notable for its clay soils and almost exclusively Merlot-based wines."
+  },
+  {
+    "id": 105,
+    "category": "Wine Regions of the World",
+    "question": "In Saint-Émilion's classification, what is the highest tier?",
+    "options": ["Grand Cru Classé", "Premier Grand Cru Classé A", "Premier Grand Cru Classé B", "Grand Cru"],
+    "correctAnswer": 1,
+    "explanation": "The top tier of the Saint-Émilion classification is Premier Grand Cru Classé A, currently held by Château Pétrus is in Pomerol; in Saint-Émilion it is held by Château Ausone and Château Cheval Blanc (among others)."
+  },
+  {
+    "id": 106,
+    "category": "Wine Regions of the World",
+    "question": "Which of the following is a satellite appellation of Saint-Émilion?",
+    "options": ["Pomerol", "Lussac-Saint-Émilion", "Fronsac", "Blaye"],
+    "correctAnswer": 1,
+    "explanation": "Lussac-Saint-Émilion is one of several satellite appellations that append Saint-Émilion's name to their own. Others include Montagne- and Puisseguin-Saint-Émilion."
+  },
+  {
+    "id": 107,
+    "category": "Wine Regions of the World",
+    "question": "Château Haut-Brion is classified as a 1855 Premier Cru but is located outside the Médoc in which appellation?",
+    "options": ["Saint-Émilion", "Pessac-Léognan", "Pomerol", "Entre-Deux-Mers"],
+    "correctAnswer": 1,
+    "explanation": "Haut-Brion was the only non-Médoc property included in the 1855 classification; it is situated in Pessac-Léognan within the Graves region."
+  },
+  {
+    "id": 108,
+    "category": "Wine Regions of the World",
+    "question": "In Burgundy, which level sits between Village and Grand Cru in the quality hierarchy?",
+    "options": ["Bourgogne Régionale", "Premier Cru", "Clos", "Lieu-dit"],
+    "correctAnswer": 1,
+    "explanation": "Burgundy's four-tier hierarchy from top to bottom is: Grand Cru, Premier Cru, Village, and Régionale. Premier Cru vineyards are the second highest quality tier."
+  },
+  {
+    "id": 109,
+    "category": "Wine Regions of the World",
+    "question": "Gevrey-Chambertin is a village in which part of Burgundy?",
+    "options": ["Côte de Beaune", "Côte Chalonnaise", "Côte de Nuits", "Mâconnais"],
+    "correctAnswer": 2,
+    "explanation": "Gevrey-Chambertin is the most northerly major village of the Côte de Nuits, home to many Grand Cru vineyards including Le Chambertin."
+  },
+  {
+    "id": 110,
+    "category": "Wine Regions of the World",
+    "question": "Meursault is famous for producing which style of Burgundy wine?",
+    "options": ["Red Pinot Noir", "Sparkling Crémant", "White Chardonnay", "Sweet Botrytis"],
+    "correctAnswer": 2,
+    "explanation": "Meursault in the Côte de Beaune is renowned for rich, full-bodied, barrel-fermented Chardonnay. Unusually for a top Burgundy village, it has no Grand Cru vineyards."
+  },
+  {
+    "id": 111,
+    "category": "Wine Regions of the World",
+    "question": "Which commune in the Côte de Beaune is known for both exceptional white and red Burgundy wines?",
+    "options": ["Nuits-Saint-Georges", "Pommard", "Puligny-Montrachet", "Corton"],
+    "correctAnswer": 2,
+    "explanation": "Puligny-Montrachet is best known for white wines; however, the Grand Cru Corton is the top red-producing appellation of the Côte de Beaune, though Puligny also makes small quantities of red."
+  },
+  {
+    "id": 112,
+    "category": "Wine Regions of the World",
+    "question": "Chablis Grand Cru vineyards all face which direction to maximise ripening in this cool climate?",
+    "options": ["North-east", "South-west", "South to south-west", "Due west"],
+    "correctAnswer": 2,
+    "explanation": "The seven Chablis Grand Cru vineyards are situated on a single south- to south-west-facing slope above the Serein river, maximising sun exposure in this cool northerly climate."
+  },
+  {
+    "id": 113,
+    "category": "Wine Regions of the World",
+    "question": "Côte-Rôtie in the Northern Rhône may legally include a small percentage of which white grape in its red wine?",
+    "options": ["Marsanne", "Viognier", "Roussanne", "Grenache Blanc"],
+    "correctAnswer": 1,
+    "explanation": "Côte-Rôtie is a Syrah-based red but may include up to 20% Viognier, which adds floral aromatics and softens the wine's structure."
+  },
+  {
+    "id": 114,
+    "category": "Wine Regions of the World",
+    "question": "Châteauneuf-du-Pape permits how many grape varieties in its blends?",
+    "options": ["8", "13", "18", "7"],
+    "correctAnswer": 1,
+    "explanation": "Châteauneuf-du-Pape has historically allowed 13 varieties (and clonal variations bring the listed count higher), with Grenache typically dominating red blends."
+  },
+  {
+    "id": 115,
+    "category": "Wine Regions of the World",
+    "question": "Hermitage in the Northern Rhône produces red wine primarily from which grape?",
+    "options": ["Mourvèdre", "Grenache", "Syrah", "Carignan"],
+    "correctAnswer": 2,
+    "explanation": "Hermitage produces some of the world's greatest Syrah-based red wines from its granite hill overlooking the Rhône at Tain l'Hermitage."
+  },
+  {
+    "id": 116,
+    "category": "Wine Regions of the World",
+    "question": "Muscadet, the dry white wine from the western Loire, is made from which grape variety?",
+    "options": ["Chenin Blanc", "Sauvignon Blanc", "Melon de Bourgogne", "Aligoté"],
+    "correctAnswer": 2,
+    "explanation": "Muscadet is made from Melon de Bourgogne. The best examples are labelled 'sur lie', indicating the wine was aged on its lees before bottling."
+  },
+  {
+    "id": 117,
+    "category": "Wine Regions of the World",
+    "question": "Vouvray in the Loire Valley is produced exclusively from which grape?",
+    "options": ["Sauvignon Blanc", "Chardonnay", "Pinot Gris", "Chenin Blanc"],
+    "correctAnswer": 3,
+    "explanation": "Vouvray is made from Chenin Blanc and can range in style from bone dry (sec) to very sweet (moelleux) and also sparkling (pétillant/mousseux)."
+  },
+  {
+    "id": 118,
+    "category": "Wine Regions of the World",
+    "question": "Sancerre in the Loire Valley is best known for which grape variety?",
+    "options": ["Pinot Noir", "Sauvignon Blanc", "Chenin Blanc", "Gamay"],
+    "correctAnswer": 1,
+    "explanation": "Sancerre is famous for its crisp, mineral-driven Sauvignon Blanc. It also produces some Pinot Noir red and rosé wines."
+  },
+  {
+    "id": 119,
+    "category": "Wine Regions of the World",
+    "question": "Chinon and Bourgueil in the Loire Valley are primarily known for red wines made from which grape?",
+    "options": ["Merlot", "Cabernet Franc", "Cabernet Sauvignon", "Gamay"],
+    "correctAnswer": 1,
+    "explanation": "Chinon and Bourgueil are the main red wine appellations of Touraine in the Loire Valley, producing wines predominantly from Cabernet Franc."
+  },
+  {
+    "id": 120,
+    "category": "Wine Regions of the World",
+    "question": "What is 'Vendange Tardive' in Alsace?",
+    "options": ["An early harvest style", "A late harvest style made from very ripe grapes", "A sparkling wine", "A co-operative wine"],
+    "correctAnswer": 1,
+    "explanation": "Vendange Tardive means 'late harvest' in French. In Alsace, these wines are made from very ripe grapes and can range from off-dry to lusciously sweet."
+  },
+  {
+    "id": 121,
+    "category": "Wine Regions of the World",
+    "question": "What does SGN stand for in the context of Alsace wines?",
+    "options": ["Sélection de Grains Naturels", "Sélection Grand Noir", "Spätlese Grand Nature", "Sélection des Grands Nobles"],
+    "correctAnswer": 0,
+    "explanation": "SGN (Sélection de Grains Naturels) is the richest style of Alsace wine, made from individually selected botrytis-affected grapes, equivalent in concept to German Trockenbeerenauslese."
+  },
+  {
+    "id": 122,
+    "category": "Wine Regions of the World",
+    "question": "Barolo and Barbaresco DOCGs in Piedmont are both made from which grape?",
+    "options": ["Barbera", "Dolcetto", "Nebbiolo", "Sangiovese"],
+    "correctAnswer": 2,
+    "explanation": "Both Barolo and Barbaresco are made from Nebbiolo, a thick-skinned grape producing wines of high tannin, high acidity, and complex aromas including tar, roses, and red fruits."
+  },
+  {
+    "id": 123,
+    "category": "Wine Regions of the World",
+    "question": "Gavi DOCG in Piedmont produces dry white wine from which grape variety?",
+    "options": ["Arneis", "Cortese", "Moscato", "Vermentino"],
+    "correctAnswer": 1,
+    "explanation": "Gavi (also known as Cortese di Gavi) is produced from the Cortese grape in the south-east of Piedmont, making crisp, neutral dry white wines."
+  },
+  {
+    "id": 124,
+    "category": "Wine Regions of the World",
+    "question": "Chianti Classico DOCG, the higher quality zone within the broader Chianti region, is located between which two Tuscan cities?",
+    "options": ["Pisa and Lucca", "Florence and Siena", "Arezzo and Grosseto", "Livorno and Pisa"],
+    "correctAnswer": 1,
+    "explanation": "Chianti Classico is the historic heart of the Chianti zone, situated in the hills between Florence and Siena. It produces Sangiovese-based wines of greater concentration than basic Chianti."
+  },
+  {
+    "id": 125,
+    "category": "Wine Regions of the World",
+    "question": "Brunello di Montalcino DOCG must be made from which grape?",
+    "options": ["Sangiovese (called Brunello locally)", "Nebbiolo", "Montepulciano", "Aglianico"],
+    "correctAnswer": 0,
+    "explanation": "Brunello di Montalcino is produced from 100% Sangiovese, known locally as Brunello. It is one of Italy's most age-worthy wines, requiring long oak and bottle aging."
+  },
+  {
+    "id": 126,
+    "category": "Wine Regions of the World",
+    "question": "What distinguishes a 'Super Tuscan' wine?",
+    "options": ["It must be made only from indigenous Tuscan varieties", "It is a wine that falls outside traditional DOC rules, often using international varieties", "It must be produced in the Classico sub-zone", "It requires a minimum of 5 years aging"],
+    "correctAnswer": 1,
+    "explanation": "Super Tuscans emerged when innovative producers blended international varieties like Cabernet Sauvignon, which fell outside DOC rules, and were initially labelled as humble Vino da Tavola."
+  },
+  {
+    "id": 127,
+    "category": "Wine Regions of the World",
+    "question": "Amarone della Valpolicella is made using which production technique?",
+    "options": ["Carbonic maceration", "Drying grapes on straw mats (appassimento)", "Botrytis infection", "Early harvest for maximum acidity"],
+    "correctAnswer": 1,
+    "explanation": "Amarone uses the appassimento method, where harvested grapes (primarily Corvina) are dried for several months before pressing, concentrating sugars, flavours, and producing a rich, powerful dry red wine."
+  },
+  {
+    "id": 128,
+    "category": "Wine Regions of the World",
+    "question": "Prosecco DOC/DOCG is produced primarily from which grape variety?",
+    "options": ["Pinot Grigio", "Trebbiano", "Glera", "Garganega"],
+    "correctAnswer": 2,
+    "explanation": "Prosecco is made primarily from the Glera grape (formerly called Prosecco) in the Veneto and Friuli regions, using the Charmat method (secondary fermentation in tank)."
+  },
+  {
+    "id": 129,
+    "category": "Wine Regions of the World",
+    "question": "Soave Classico in the Veneto is produced primarily from which white grape?",
+    "options": ["Pinot Grigio", "Garganega", "Trebbiano di Soave", "Malvasia"],
+    "correctAnswer": 1,
+    "explanation": "Soave is made primarily from Garganega (minimum 70%), which produces crisp, almond-tinged white wines. Trebbiano di Soave may be blended in."
+  },
+  {
+    "id": 130,
+    "category": "Wine Regions of the World",
+    "question": "Etna DOC on Sicily produces red wines primarily from which native grape?",
+    "options": ["Nero d'Avola", "Nerello Mascalese", "Aglianico", "Primitivo"],
+    "correctAnswer": 1,
+    "explanation": "Etna Rosso is made primarily from Nerello Mascalese grown on the volcanic slopes of Mount Etna, producing elegant, high-acid wines often compared in style to Burgundy."
+  },
+  {
+    "id": 131,
+    "category": "Wine Regions of the World",
+    "question": "In Rioja, which aging classification describes a wine with a minimum of 2 years aging, at least 6 months of which must be in oak?",
+    "options": ["Joven", "Crianza", "Reserva", "Gran Reserva"],
+    "correctAnswer": 1,
+    "explanation": "Crianza is the minimum oak-aged Rioja designation, requiring at least 2 years total aging with a minimum of 6 months in oak barrel for red wines."
+  },
+  {
+    "id": 132,
+    "category": "Wine Regions of the World",
+    "question": "Which sub-zone of Rioja is located closest to the Atlantic coast and tends to produce the most elegant, aromatic wines?",
+    "options": ["Rioja Oriental", "Rioja Alta", "Rioja Alavesa", "Rioja Baja"],
+    "correctAnswer": 2,
+    "explanation": "Rioja Alavesa, situated in the Basque Country on the north bank of the Ebro, has a cool Atlantic influence and limestone soils that produce aromatic, elegant Tempranillo."
+  },
+  {
+    "id": 133,
+    "category": "Wine Regions of the World",
+    "question": "Ribera del Duero produces red wine mainly from which grape?",
+    "options": ["Garnacha", "Tempranillo (called Tinto Fino locally)", "Monastrell", "Bobal"],
+    "correctAnswer": 1,
+    "explanation": "Ribera del Duero's primary grape is Tempranillo, known locally as Tinto Fino or Tinta del País. The high altitude and continental climate produce structured, concentrated wines."
+  },
+  {
+    "id": 134,
+    "category": "Wine Regions of the World",
+    "question": "Priorat in Spain holds the rare DOCa (Denominación de Origen Calificada) status — which other region also holds this status?",
+    "options": ["Ribera del Duero", "Rías Baixas", "Rioja", "Penedès"],
+    "correctAnswer": 2,
+    "explanation": "Spain's highest wine classification DOCa (equivalent to Italy's DOCG) is held only by Rioja and Priorat, recognising their exceptional quality and track record."
+  },
+  {
+    "id": 135,
+    "category": "Wine Regions of the World",
+    "question": "Rías Baixas in Galicia, north-west Spain, is known for which white grape variety?",
+    "options": ["Verdejo", "Viura", "Albariño", "Godello"],
+    "correctAnswer": 2,
+    "explanation": "Rías Baixas is famous for Albariño, producing aromatic, high-acid white wines with stone fruit and citrus character that pair well with the local seafood."
+  },
+  {
+    "id": 136,
+    "category": "Wine Regions of the World",
+    "question": "Fino Sherry from Jerez is characterised by which protective agent that prevents oxidation during aging?",
+    "options": ["Botrytis cinerea", "Flor yeast", "Bentonite", "Sulphur dioxide only"],
+    "correctAnswer": 1,
+    "explanation": "Fino (and Manzanilla) Sherry is aged under a layer of flor — a film of yeast — in the solera system. The flor protects the wine from oxygen, preserving freshness and creating distinctive nutty, yeasty character."
+  },
+  {
+    "id": 137,
+    "category": "Wine Regions of the World",
+    "question": "Which AVA within Napa Valley is particularly famous for Cabernet Sauvignon grown on its well-drained alluvial fan soils?",
+    "options": ["Carneros", "Rutherford", "Los Carneros", "Oakville"],
+    "correctAnswer": 3,
+    "explanation": "Oakville in Napa Valley is renowned for Cabernet Sauvignon. The To-Kalon vineyard, home to wines like Opus One and Robert Mondavi Reserve, is located here."
+  },
+  {
+    "id": 138,
+    "category": "Wine Regions of the World",
+    "question": "Oregon's Willamette Valley is best known for which grape variety?",
+    "options": ["Cabernet Sauvignon", "Zinfandel", "Pinot Noir", "Merlot"],
+    "correctAnswer": 2,
+    "explanation": "The cool, maritime-influenced Willamette Valley in Oregon is Oregon's most important wine region, producing benchmark New World Pinot Noir alongside Pinot Gris and Chardonnay."
+  },
+  {
+    "id": 139,
+    "category": "Wine Regions of the World",
+    "question": "The Uco Valley in Argentina's Mendoza is prized for high-altitude viticulture, which produces what effect on wines?",
+    "options": ["Lower acidity and higher alcohol", "Greater concentration and fresher acidity", "More oxidative characteristics", "Lighter colour and body"],
+    "correctAnswer": 1,
+    "explanation": "The Uco Valley sits at 900–1,500m altitude. The combination of intense sunshine and cool nights at elevation promotes good phenolic ripeness while retaining natural acidity, producing concentrated yet fresh wines."
+  },
+  {
+    "id": 140,
+    "category": "Wine Regions of the World",
+    "question": "Casablanca Valley in Chile is known for which style of wine?",
+    "options": ["Full-bodied red Cabernet Sauvignon", "Cool-climate aromatic whites and Pinot Noir", "Fortified wines", "Oxidatively aged whites"],
+    "correctAnswer": 1,
+    "explanation": "Casablanca Valley benefits from cool Pacific Ocean influence and morning fog, making it ideal for aromatic white varieties like Sauvignon Blanc, Chardonnay, and Pinot Noir."
+  },
+  {
+    "id": 141,
+    "category": "Wine Regions of the World",
+    "question": "The Barossa Valley in South Australia is most celebrated for which variety?",
+    "options": ["Pinot Noir", "Shiraz", "Riesling", "Chardonnay"],
+    "correctAnswer": 1,
+    "explanation": "Barossa Valley is Australia's most famous wine region for Shiraz (Syrah), producing rich, full-bodied wines often with dark fruit, chocolate, and spice characters. Some vines are over 100 years old."
+  },
+  {
+    "id": 142,
+    "category": "Wine Regions of the World",
+    "question": "Eden Valley in South Australia, adjacent to Barossa, is particularly renowned for which white variety?",
+    "options": ["Chardonnay", "Viognier", "Riesling", "Sauvignon Blanc"],
+    "correctAnswer": 2,
+    "explanation": "Eden Valley's higher altitude and cooler conditions make it ideal for Riesling, producing wines of great elegance, citrus and lime character with the potential to age beautifully."
+  },
+  {
+    "id": 143,
+    "category": "Wine Regions of the World",
+    "question": "Central Otago in New Zealand is the world's most southerly wine region and is known principally for which variety?",
+    "options": ["Sauvignon Blanc", "Pinot Gris", "Riesling", "Pinot Noir"],
+    "correctAnswer": 3,
+    "explanation": "Central Otago, on New Zealand's South Island, has a continental climate and produces highly regarded Pinot Noir with deep colour, rich cherry fruit, and spice."
+  },
+  {
+    "id": 144,
+    "category": "Wine Regions of the World",
+    "question": "Marlborough in New Zealand is internationally recognised for which grape variety?",
+    "options": ["Chardonnay", "Sauvignon Blanc", "Riesling", "Gewürztraminer"],
+    "correctAnswer": 1,
+    "explanation": "Marlborough Sauvignon Blanc is New Zealand's most famous wine style, typified by intensely aromatic wines with passion fruit, gooseberry, and 'cut grass' characters."
+  },
+  {
+    "id": 145,
+    "category": "Wine Regions of the World",
+    "question": "Stellenbosch in South Africa is particularly known for which red variety?",
+    "options": ["Pinotage", "Chenin Blanc", "Cabernet Sauvignon", "Cinsault"],
+    "correctAnswer": 2,
+    "explanation": "While Stellenbosch grows many varieties, it is most acclaimed for Cabernet Sauvignon, producing some of South Africa's finest structured, age-worthy red wines."
+  },
+  {
+    "id": 146,
+    "category": "Wine Regions of the World",
+    "question": "Portugal's Douro Valley is famous for Port wine, but which style of dry red table wine from the same region has grown significantly in reputation?",
+    "options": ["Vinho Verde", "Douro DOC red wines", "Dão reds", "Setúbal Moscatel"],
+    "correctAnswer": 1,
+    "explanation": "Douro DOC produces increasingly acclaimed dry red table wines from indigenous varieties like Touriga Nacional, Touriga Franca, and Tinta Roriz, using the same grapes as Port."
+  },
+  {
+    "id": 147,
+    "category": "Wine Regions of the World",
+    "question": "Vinho Verde from north-west Portugal is characterised by which key features?",
+    "options": ["High alcohol, deep colour, and full body", "Low alcohol, high acidity, and often a slight spritz", "High sugar and rich texture", "Oxidative aging and nutty character"],
+    "correctAnswer": 1,
+    "explanation": "Vinho Verde ('green wine') is produced in the cool, wet Minho region from varieties like Alvarinho and Loureiro. It is typically light, high in acidity, low in alcohol, and often has a slight natural effervescence."
+  },
+  {
+    "id": 148,
+    "category": "Wine Regions of the World",
+    "question": "In Germany, what does the VDP classification 'Grosses Gewächs' (GG) denote?",
+    "options": ["A basic estate wine", "A dry wine from a top classified vineyard", "A sweet wine of Auslese level or above", "A wine from a single approved grape variety only"],
+    "correctAnswer": 1,
+    "explanation": "Grosses Gewächs (Great Growth) is the VDP's top tier for dry wines, produced from their classified 'Grosse Lage' (Grand Cru equivalent) vineyards, analogous to Burgundy's Grand Cru system."
+  },
+  {
+    "id": 149,
+    "category": "Wine Regions of the World",
+    "question": "Austria's DAC (Districtus Austriae Controllatus) system is designed to do what?",
+    "options": ["Classify wines by sweetness level", "Link specific grape varieties to specific regional wine styles", "Regulate vineyard yields nationwide", "Certify organic production"],
+    "correctAnswer": 1,
+    "explanation": "The DAC system links a dominant grape variety to each wine district — for example, Grüner Veltliner and Riesling in Wachau/Kamptal/Kremstal — to build stronger regional identities."
+  },
+  {
+    "id": 150,
+    "category": "Wine Regions of the World",
+    "question": "Walker Bay in South Africa is a cool coastal wine district known for which varieties?",
+    "options": ["Pinotage and Chenin Blanc", "Pinot Noir and Chardonnay", "Cabernet Sauvignon and Merlot", "Shiraz and Viognier"],
+    "correctAnswer": 1,
+    "explanation": "Walker Bay, influenced by cool ocean breezes from the southern Atlantic, is South Africa's leading cool-climate region, producing elegant Pinot Noir and Chardonnay."
+  },
+  {
+    "id": 151,
+    "category": "Factors Affecting Style and Quality",
+    "question": "Which climate type is characterised by warm, dry summers and mild, wet winters, found in regions such as coastal California and the Mediterranean?",
+    "options": ["Continental", "Maritime", "Mediterranean", "Sub-tropical"],
+    "correctAnswer": 2,
+    "explanation": "Mediterranean climate features long, dry, warm-to-hot summers with most rainfall in winter. This suits many grape varieties well, producing reliably ripe fruit with moderate acidity."
+  },
+  {
+    "id": 152,
+    "category": "Factors Affecting Style and Quality",
+    "question": "Continental climates, typical of regions like Germany's Mosel or Burgundy, are characterised by which conditions?",
+    "options": ["Warm, wet summers and mild winters", "Hot, dry summers and very cold winters with large diurnal temperature variation", "Consistent temperatures year-round with high humidity", "Cool summers and warm winters"],
+    "correctAnswer": 1,
+    "explanation": "Continental climates experience extreme seasonal and diurnal temperature variation — cold winters, hot summers — and are far from moderating ocean influence. This creates vintage variation and can threaten vines with spring frosts."
+  },
+  {
+    "id": 153,
+    "category": "Factors Affecting Style and Quality",
+    "question": "How does a large diurnal temperature range (warm days, cool nights) benefit wine quality?",
+    "options": ["It accelerates grape sugar accumulation only", "It helps retain natural acidity in the grapes while achieving full phenolic ripeness", "It increases the risk of botrytis infection", "It causes the grapes to dehydrate, raising alcohol"],
+    "correctAnswer": 1,
+    "explanation": "Cool nights slow respiration, preserving malic acid in the grapes, while warm days allow sugar and phenolic ripeness to develop. This balance of ripeness and acidity is key to wine quality and age-worthiness."
+  },
+  {
+    "id": 154,
+    "category": "Factors Affecting Style and Quality",
+    "question": "Which soil type is most associated with excellent drainage and heat retention, common in Bordeaux's Médoc region?",
+    "options": ["Clay", "Gravel", "Chalk", "Volcanic basalt"],
+    "correctAnswer": 1,
+    "explanation": "Deep gravel beds in the Médoc drain freely, preventing waterlogging, and absorb heat during the day which they radiate to the vine at night. This helps ripen Cabernet Sauvignon in what is otherwise a marginal climate."
+  },
+  {
+    "id": 155,
+    "category": "Factors Affecting Style and Quality",
+    "question": "Slate soils in the Mosel Valley are valued because they:",
+    "options": ["Provide high levels of nutrients to the vine", "Absorb and reflect heat, aiding ripening in a cool climate", "Have high water retention, preventing drought stress", "Suppress vine diseases due to their mineral content"],
+    "correctAnswer": 1,
+    "explanation": "Slate (Schiefer) in the Mosel retains heat and reflects sunlight onto the vines, helping Riesling ripen on steep, north-facing slopes in this cool northern climate."
+  },
+  {
+    "id": 156,
+    "category": "Factors Affecting Style and Quality",
+    "question": "How does high altitude generally affect grape growing and wine style?",
+    "options": ["Raises temperatures significantly, producing higher sugar grapes", "Lowers temperatures, preserving acidity and freshness in the grapes", "Increases UV radiation but has no effect on temperature", "Reduces diurnal temperature variation"],
+    "correctAnswer": 1,
+    "explanation": "Temperature drops approximately 0.6°C for every 100m increase in altitude. Higher altitude vineyards experience cooler growing conditions that preserve natural acidity and freshness."
+  },
+  {
+    "id": 157,
+    "category": "Factors Affecting Style and Quality",
+    "question": "What is the effect of old vines on wine quality?",
+    "options": ["They produce higher yields of intensely flavoured grapes", "They produce lower yields but often with more concentrated flavours", "They are more susceptible to disease, lowering quality", "They produce grapes with higher acidity"],
+    "correctAnswer": 1,
+    "explanation": "Old vines develop deep root systems and naturally regulate their own yield downward. Lower berry counts mean more concentration of sugars, flavours, and other compounds per grape."
+  },
+  {
+    "id": 158,
+    "category": "Factors Affecting Style and Quality",
+    "question": "What is 'mesoclimate' in viticulture?",
+    "options": ["The global climate of an entire wine country", "The climate of a specific, small geographical area such as a valley or hillside", "The climate inside a wine cellar", "The climate created within a vine's canopy"],
+    "correctAnswer": 1,
+    "explanation": "Mesoclimate refers to the climate of a specific small area — a village, valley, or hillside — which may differ meaningfully from the broader regional climate and influences wine style significantly."
+  },
+  {
+    "id": 159,
+    "category": "Factors Affecting Style and Quality",
+    "question": "Proximity to a large body of water, such as an ocean or lake, moderates vineyard temperatures because water:",
+    "options": ["Increases rainfall dramatically", "Absorbs heat slowly and releases it slowly, stabilising temperatures", "Creates downdrafts that cool vineyards at night only", "Increases humidity, reducing the risk of frost"],
+    "correctAnswer": 1,
+    "explanation": "Water bodies have high thermal mass — they heat and cool slowly — which moderates temperature extremes in nearby vineyards. This reduces frost risk, extends the growing season, and helps achieve even ripening."
+  },
+  {
+    "id": 160,
+    "category": "Factors Affecting Style and Quality",
+    "question": "What is the primary effect of higher yield (tonnes per hectare) on wine quality?",
+    "options": ["Higher yield always improves wine quality by diluting harsh tannins", "Higher yield typically dilutes flavour concentration, reducing quality potential", "Higher yield reduces alcohol and improves balance", "Higher yield has no effect on quality, only quantity"],
+    "correctAnswer": 1,
+    "explanation": "When a vine produces more fruit than it can fully ripen and concentrate, flavour compounds are diluted across more berries. Limiting yield is a key tool in pursuing quality wine."
+  },
+  {
+    "id": 161,
+    "category": "Factors Affecting Style and Quality",
+    "question": "What is the purpose of canopy management techniques such as leaf removal?",
+    "options": ["To increase vine stress and reduce yield only", "To improve air circulation, reduce disease risk, and enhance sun exposure to grapes", "To prevent birds from eating the grapes", "To reduce the vine's water uptake"],
+    "correctAnswer": 1,
+    "explanation": "Leaf removal around the fruit zone improves air circulation, reducing fungal disease risk, and exposes grapes to more sunlight, aiding ripening and colour development."
+  },
+  {
+    "id": 162,
+    "category": "Factors Affecting Style and Quality",
+    "question": "What is the main reason for using rootstocks in modern viticulture?",
+    "options": ["Rootstocks enhance the vine's natural varietal aromatics", "Rootstocks provide resistance to the soil pest Phylloxera", "Rootstocks allow vines to be grown in any soil type", "Rootstocks dramatically increase yields"],
+    "correctAnswer": 1,
+    "explanation": "Phylloxera, a root louse from North America, devastated European vineyards in the 19th century. Grafting Vitis vinifera varieties onto resistant American rootstocks is the main protection against Phylloxera."
+  },
+  {
+    "id": 163,
+    "category": "Factors Affecting Style and Quality",
+    "question": "What distinguishes biodynamic viticulture from organic viticulture?",
+    "options": ["Biodynamic uses more synthetic pesticides", "Biodynamic includes a holistic spiritual philosophy and follows a lunar planting calendar, going beyond simple avoidance of synthetics", "Biodynamic allows irrigation while organic does not", "Biodynamic is a government-regulated legal certification, organic is not"],
+    "correctAnswer": 1,
+    "explanation": "Organic viticulture avoids synthetic pesticides and fertilisers. Biodynamic goes further, treating the farm as a self-sustaining ecosystem and working according to a lunar/cosmic calendar based on Rudolf Steiner's philosophy."
+  },
+  {
+    "id": 164,
+    "category": "Factors Affecting Style and Quality",
+    "question": "Drip irrigation delivers water directly to the vine's root zone. What is one key advantage over flood irrigation?",
+    "options": ["It is cheaper to install", "It uses water more efficiently and allows precise control of water stress", "It requires no maintenance", "It is permitted in all wine regions including those that ban irrigation"],
+    "correctAnswer": 1,
+    "explanation": "Drip irrigation delivers small amounts of water precisely to each vine, reducing waste, preventing excess vigour from over-watering, and allowing growers to manage controlled vine stress to concentrate flavour."
+  },
+  {
+    "id": 165,
+    "category": "Factors Affecting Style and Quality",
+    "question": "What is malolactic fermentation (MLF)?",
+    "options": ["A second alcoholic fermentation that adds CO₂", "A bacterial conversion of harsh malic acid to softer lactic acid", "A technique to increase a wine's sugar content", "The fermentation of grape skins to extract colour"],
+    "correctAnswer": 1,
+    "explanation": "MLF is carried out by lactic acid bacteria, converting tart malic acid into softer lactic acid. This reduces perceived acidity and adds creamy, buttery texture — key in barrel-fermented Chardonnay, but often avoided in aromatic whites."
+  },
+  {
+    "id": 166,
+    "category": "Factors Affecting Style and Quality",
+    "question": "What effect does fermenting or aging wine in new French oak barrels have on the wine?",
+    "options": ["It adds no flavour — only the size of the barrel matters", "It adds vanilla, spice, toast, and cedar notes and allows slow micro-oxygenation", "It strips the wine of fruit aromas completely", "It adds significant tannin that cannot soften with age"],
+    "correctAnswer": 1,
+    "explanation": "New French oak contributes flavours including vanilla, clove, cedar, and toast through the extraction of compounds such as vanillin and eugenol. It also allows micro-oxygenation through the wood pores, softening tannins over time."
+  },
+  {
+    "id": 167,
+    "category": "Factors Affecting Style and Quality",
+    "question": "How does American oak differ from French oak in its effect on wine?",
+    "options": ["American oak has no aromatic impact; French oak is very aromatic", "American oak imparts more pronounced vanilla and coconut notes; French oak is subtler and more integrated", "American oak reduces tannins; French oak increases them", "American oak is only used for white wines; French oak only for reds"],
+    "correctAnswer": 1,
+    "explanation": "American oak (Quercus alba) has wider grain and imparts bolder, more forward flavours of vanilla, coconut, and dill. French oak (Quercus petraea/robur) has tighter grain, giving more subtle, complex cedar and spice notes."
+  },
+  {
+    "id": 168,
+    "category": "Factors Affecting Style and Quality",
+    "question": "A winemaker uses 100% new oak barrels for aging. What is the likely effect compared to using older, neutral oak?",
+    "options": ["More neutral wine with less oak influence", "More pronounced oak flavours, more tannin from the wood, and greater micro-oxygenation", "Slower aging and lower micro-oxygenation", "No discernible difference in the final wine"],
+    "correctAnswer": 1,
+    "explanation": "New oak imparts more extractable wood tannins, flavour compounds, and allows greater micro-oxygenation than used/neutral oak. As barrels are used repeatedly, their flavour contribution diminishes significantly."
+  },
+  {
+    "id": 169,
+    "category": "Factors Affecting Style and Quality",
+    "question": "What is lees contact ('sur lie' aging) and what does it contribute to a wine?",
+    "options": ["Contact with grape skins to extract colour and tannin", "Aging the wine on the dead yeast cells after fermentation, adding texture, complexity, and sometimes a slight spritz", "Adding fresh grape juice to wine to increase residual sugar", "A technique to remove harsh tannins from red wine"],
+    "correctAnswer": 1,
+    "explanation": "Lees are the dead yeast cells left after fermentation. Aging wine on lees (sur lie) contributes creamy texture, breadth of body, biscuity/yeasty complexity, and a slight CO₂ that can give freshness."
+  },
+  {
+    "id": 170,
+    "category": "Factors Affecting Style and Quality",
+    "question": "What is cold soaking (cold maceration) in red winemaking?",
+    "options": ["Chilling the finished wine to cause tartrate precipitation before bottling", "Keeping crushed red grapes at low temperature before fermentation begins, to extract colour and flavour without alcohol", "Fermenting red wine at unusually cold temperatures to extend fermentation", "Adding cold water to must to reduce potential alcohol"],
+    "correctAnswer": 1,
+    "explanation": "Cold soaking allows extraction of colour (anthocyanins) and fruit flavour compounds from the skins before alcoholic fermentation starts, since the low temperature inhibits yeast activity. This can produce rounder, more fruit-forward red wines."
+  },
+  {
+    "id": 171,
+    "category": "Factors Affecting Style and Quality",
+    "question": "How does micro-oxygenation (MOX) benefit red wine production?",
+    "options": ["It eliminates the need for sulphur dioxide additions", "It mimics the effect of barrel aging by introducing tiny controlled amounts of oxygen, softening tannins and stabilising colour", "It adds significant amounts of CO₂ to create effervescence", "It kills harmful bacteria without the need for filtration"],
+    "correctAnswer": 1,
+    "explanation": "MOX introduces precise tiny amounts of oxygen into wine through porous diffusers. This can polymerise tannins (making them softer and smoother) and stabilise colour — achieving effects similar to barrel aging but in stainless steel tanks."
+  },
+  {
+    "id": 172,
+    "category": "Factors Affecting Style and Quality",
+    "question": "What is whole-bunch fermentation and what character can it contribute?",
+    "options": ["Fermenting entire grape bunches including stems, which can add savouriness, spice, and structure", "A method only used for white wines to extract more aromatics", "Pressing whole bunches without crushing for very delicate juice extraction", "Fermenting grapes without removing them from the picking boxes"],
+    "correctAnswer": 0,
+    "explanation": "Whole-bunch (whole-cluster) fermentation includes grape stems in the fermentation vessel. Stems can contribute herbal, spicy, and savoury notes as well as structural tannin. Used by some Burgundy and Rhône producers."
+  },
+  {
+    "id": 173,
+    "category": "Factors Affecting Style and Quality",
+    "question": "What is the main purpose of fining a wine?",
+    "options": ["To add flavour compounds", "To clarify the wine by removing suspended particles, proteins, or tannins using agents like bentonite or egg white", "To increase the wine's alcohol content", "To reduce the wine's residual sugar"],
+    "correctAnswer": 1,
+    "explanation": "Fining involves adding agents (egg white, bentonite, isinglass) that attract and bind to particles, proteins, or tannins, causing them to precipitate so they can be removed. This improves clarity and stability."
+  },
+  {
+    "id": 174,
+    "category": "Factors Affecting Style and Quality",
+    "question": "What is the role of sulphur dioxide (SO₂) in winemaking?",
+    "options": ["It provides sweetness to balance acidity", "It acts as an antioxidant and antimicrobial agent, protecting wine from oxidation and spoilage organisms", "It adds body and texture to the wine", "It is only used for cleaning winery equipment, not added to wine"],
+    "correctAnswer": 1,
+    "explanation": "SO₂ is one of winemaking's most important tools, protecting wine from oxidation and inhibiting wild yeasts and harmful bacteria. It is added at various stages from crush to bottling."
+  },
+  {
+    "id": 175,
+    "category": "Factors Affecting Style and Quality",
+    "question": "What distinguishes wild (ambient/natural) yeast fermentation from cultured yeast fermentation?",
+    "options": ["Wild yeast is more predictable and faster", "Wild yeast uses yeasts naturally present on grapes and in the cellar, which can add complexity but is less predictable; cultured yeast is reliable and consistent", "Cultured yeast always produces lower alcohol wines", "Wild yeast fermentation requires more SO₂ additions"],
+    "correctAnswer": 1,
+    "explanation": "Wild fermentations use naturally occurring yeasts from the vineyard and winery environment, which can create complex, site-specific flavours but carry risk of stuck fermentation or off-flavours. Cultured yeasts offer predictable, clean fermentations."
+  },
+  {
+    "id": 176,
+    "category": "Factors Affecting Style and Quality",
+    "question": "Fermentation at higher temperatures for red wine generally leads to what outcome?",
+    "options": ["More delicate, lighter-coloured wines with lower extraction", "Greater extraction of colour, tannin, and body, but risks losing volatile aromatics", "Slower fermentation and higher residual sugar", "Lower alcohol in the finished wine"],
+    "correctAnswer": 1,
+    "explanation": "Warmer fermentation temperatures increase the rate of extraction of phenolics (colour, tannin) from skins but can also volatilise some delicate aromatics. Red wine fermentation typically ranges from 25–32°C."
+  },
+  {
+    "id": 177,
+    "category": "Factors Affecting Style and Quality",
+    "question": "What does barrel size influence in wine aging?",
+    "options": ["Only the colour of the wine", "The ratio of wood surface area to wine volume — smaller barrels have more oak contact relative to volume, imparting more oak flavour faster", "The speed of malolactic fermentation", "The level of residual sugar in the finished wine"],
+    "correctAnswer": 1,
+    "explanation": "A standard Bordeaux barrique (225L) has a higher surface-to-volume ratio than a large foudre (2,000L+). Smaller barrels impart more oak flavour and allow more micro-oxygenation per litre of wine."
+  },
+  {
+    "id": 178,
+    "category": "Factors Affecting Style and Quality",
+    "question": "How does bottle aging under cork differ in mechanism from barrel aging?",
+    "options": ["Bottle aging is oxidative; barrel aging is reductive", "Barrel aging allows slow micro-oxygenation (oxidative); bottle aging under cork is reductive, allowing different chemical reactions", "There is no meaningful chemical difference between the two", "Bottle aging only affects white wines; barrel aging only affects reds"],
+    "correctAnswer": 1,
+    "explanation": "Barrel aging is a semi-oxidative process due to oxygen ingress through stave pores. Bottle aging under cork (once oxygen in the headspace is consumed) is reductive, allowing reduction reactions that develop tertiary aromas like petrol, game, and earthiness."
+  },
+  {
+    "id": 179,
+    "category": "Factors Affecting Style and Quality",
+    "question": "What is a primary argument for using screw caps rather than cork closures?",
+    "options": ["Screw caps are cheaper but allow more oxygen ingress, accelerating aging", "Screw caps eliminate the risk of TCA (cork taint) and provide a more consistent, airtight seal", "Screw caps are only suitable for fortified wines", "Screw caps add positive flavour to wines during aging"],
+    "correctAnswer": 1,
+    "explanation": "Cork taint (caused by TCA - 2,4,6-trichloroanisole) can affect 1–3% of cork-sealed wines, producing a musty, damp cardboard character that masks fruit. Screw caps eliminate this risk and provide highly consistent aging conditions."
+  },
+  {
+    "id": 180,
+    "category": "Factors Affecting Style and Quality",
+    "question": "In a cool climate region, white wines tend to have which characteristics compared to warm climate examples?",
+    "options": ["Higher alcohol, lower acidity, tropical fruit flavours", "Lower alcohol, higher acidity, and green/citrus fruit flavours", "Deeper colour and more phenolic grip", "Higher residual sugar and lower acidity"],
+    "correctAnswer": 1,
+    "explanation": "Cool climate growing conditions limit the rate of sugar accumulation while preserving natural grape acidity. This produces wines with lower potential alcohol, high fresh acidity, and citrus or green fruit character."
+  },
+  {
+    "id": 181,
+    "category": "Factors Affecting Style and Quality",
+    "question": "Climate change is having what primary direct effect on wine regions at the margins of viable viticulture (e.g., England, Germany)?",
+    "options": ["Making viticulture impossible in these regions", "Enabling more consistent ripening, higher sugar levels, and successful cultivation of a wider range of varieties", "Causing excessive yields that dilute wine quality", "Increasing frost risk in spring"],
+    "correctAnswer": 1,
+    "explanation": "In historically marginal cool-climate regions, rising temperatures have extended the growing season and improved sugar accumulation, enabling production of fully ripe wines and even sparkling wine benchmarks (e.g., English sparkling wine)."
+  },
+  {
+    "id": 182,
+    "category": "Factors Affecting Style and Quality",
+    "question": "Which of the following correctly describes vintage variation?",
+    "options": ["Vintage variation only affects cheap wines; quality producers are consistent every year", "Differences in weather conditions from year to year affect the ripeness, health, and character of the harvest, creating variation in wine quality and style", "Vintage variation is eliminated by irrigation in all New World regions", "Vintage variation only applies to red wines"],
+    "correctAnswer": 1,
+    "explanation": "Weather varies each growing season — drought, rain at harvest, excessive heat, or frost all affect grape quality. This is why vintage year is important information for wine assessment, particularly in continental climates."
+  },
+  {
+    "id": 183,
+    "category": "Factors Affecting Style and Quality",
+    "question": "What does 'blending' in winemaking achieve?",
+    "options": ["It is only used to mask wine faults", "It allows winemakers to combine different varieties, plots, or vintages to achieve a consistent, complex, or balanced final wine", "Blending always reduces the overall quality of the wine", "It is illegal in all premium wine appellations"],
+    "correctAnswer": 1,
+    "explanation": "Blending is a key winemaking tool. By combining wines of different character — variety, vineyard, or barrel — winemakers can create complexity, balance deficiencies (e.g., adding acidity, structure), and achieve stylistic consistency."
+  },
+  {
+    "id": 184,
+    "category": "Factors Affecting Style and Quality",
+    "question": "On an Old World wine label (e.g., a French AOC wine), the label primarily identifies the wine by:",
+    "options": ["Grape variety and vintage year", "Producer name and geographical origin (appellation)", "Style (dry/sweet) and alcohol level only", "Grape variety and winemaker's name"],
+    "correctAnswer": 1,
+    "explanation": "Old World labelling convention centres on geographical origin (the appellation, e.g., 'Pauillac', 'Chablis'), with the underlying implication that the appellation rules define variety and style. The grape variety is rarely stated on the label."
+  },
+  {
+    "id": 185,
+    "category": "Factors Affecting Style and Quality",
+    "question": "New World wine labels (e.g., from Australia or California) typically differ from Old World labels because they:",
+    "options": ["Never include the producer name", "Prominently feature the grape variety name on the label alongside the region", "Always list every grape in the blend with percentages", "Do not include a vintage year"],
+    "correctAnswer": 1,
+    "explanation": "New World labelling is consumer-friendly and variety-led — the grape variety (e.g., 'Shiraz', 'Chardonnay') is typically displayed prominently. This contrasts with Old World labels where geographical appellation is the primary identifier."
+  },
+  {
+    "id": 186,
+    "category": "Factors Affecting Style and Quality",
+    "question": "What information does the vintage year on a wine label tell the consumer?",
+    "options": ["The year the wine was bottled", "The year the grapes were harvested", "The year the winery was established", "The year the wine will reach peak drinking maturity"],
+    "correctAnswer": 1,
+    "explanation": "The vintage year indicates the year in which the grapes were harvested. This is important because weather conditions differ year to year, affecting the quality and character of the wine."
+  },
+  {
+    "id": 187,
+    "category": "Factors Affecting Style and Quality",
+    "question": "Vine density (number of vines per hectare) affects wine quality because:",
+    "options": ["Higher density always increases yield and dilutes quality", "Higher vine density increases root competition, forcing roots deeper to find water and nutrients, which can improve wine concentration and terroir expression", "Lower vine density produces the most complex wines in all climates", "Vine density has no effect on wine quality, only on production costs"],
+    "correctAnswer": 1,
+    "explanation": "Higher vine density increases inter-vine root competition, encouraging deeper rooting and natural yield regulation per vine. This is why top Burgundy vineyards may have 10,000+ vines/hectare versus some New World sites at 1,000–2,000."
+  },
+  {
+    "id": 188,
+    "category": "Factors Affecting Style and Quality",
+    "question": "What is the effect of limestone soils on viticulture?",
+    "options": ["Limestone retains too much water, causing root rot", "Limestone provides good drainage, moderates vine vigour, and is believed to contribute mineral freshness to wines", "Limestone soils are too alkaline for any Vitis vinifera variety to grow", "Limestone only benefits white grape varieties, not red"],
+    "correctAnswer": 1,
+    "explanation": "Limestone soils drain well, regulate vine vigour, and are associated with wines of freshness and mineral character. Champagne, Chablis, and Burgundy are all partly defined by their limestone geology."
+  },
+  {
+    "id": 189,
+    "category": "Factors Affecting Style and Quality",
+    "question": "How does volcanic soil (such as that found on Etna or Santorini) benefit wine production?",
+    "options": ["Volcanic soils are too fertile and always produce dilute wines", "Volcanic soils are well-drained, low in nutrients (limiting vigour), and are believed to impart distinctive mineral and smoky character to wines", "Volcanic soils retain too much heat, producing over-ripe, high-alcohol wines", "Volcanic soils kill Phylloxera, meaning vines do not require grafting"],
+    "correctAnswer": 1,
+    "explanation": "Volcanic soils are typically free-draining, relatively infertile (moderating vine vigour and yields), and may contribute mineral complexity. Some volcanic regions (like Santorini) also remain ungrafted as Phylloxera does not thrive in sandy volcanic soils."
+  },
+  {
+    "id": 190,
+    "category": "Factors Affecting Style and Quality",
+    "question": "What does 'aspect' of a vineyard mean, and why does it matter?",
+    "options": ["The altitude of the vineyard above sea level", "The direction a slope faces (e.g., south-facing in the northern hemisphere), which affects sun exposure and temperature", "The type of training system used on the vines", "The distance of the vineyard from the winery"],
+    "correctAnswer": 1,
+    "explanation": "Aspect refers to which direction a vineyard slope faces. In the northern hemisphere, south-facing slopes receive maximum sunlight, making them valuable for ripening in cool climates. In the southern hemisphere, north-facing slopes are preferred."
+  },
+  {
+    "id": 191,
+    "category": "Factors Affecting Style and Quality",
+    "question": "What does 'filtration' remove from a wine, and what is the trade-off?",
+    "options": ["Filtration adds antioxidant compounds to wine", "Filtration removes micro-organisms and particles for stability and clarity, but some argue it can strip texture and complexity", "Filtration increases the concentration of flavour in a wine", "Filtration removes alcohol from a wine to create lower-ABV styles"],
+    "correctAnswer": 1,
+    "explanation": "Filtration physically removes yeast cells, bacteria, and particles, making the wine stable and clear. However, some fine wine producers argue that tight filtration can remove texture, mouthfeel, and aromatic complexity alongside the targeted particles."
+  },
+  {
+    "id": 192,
+    "category": "Factors Affecting Style and Quality",
+    "question": "What is the general principle behind latitude and wine quality?",
+    "options": ["Only equatorial regions (low latitude) can produce quality wine", "The best wine regions are generally found between approximately 30° and 50° latitude in both hemispheres, where temperatures are moderate enough for quality viticulture", "Higher latitude always produces better wine regardless of climate", "Latitude has no correlation with wine style or quality"],
+    "correctAnswer": 1,
+    "explanation": "Most of the world's quality wine regions fall between 30°–50° latitude (N and S), where seasonal temperatures allow full phenolic ripeness without excessive heat. Equatorial heat and polar cold are both limiting factors."
+  },
+  {
+    "id": 193,
+    "category": "Factors Affecting Style and Quality",
+    "question": "What is the winemaking technique of 'extended maceration' in red wine production?",
+    "options": ["Aging the wine for an extended period in new oak barrels", "Leaving red grape skins in contact with the wine after fermentation is complete, to extract more tannin, colour, and complexity", "Fermenting the wine at a very slow rate to extend fermentation time", "Adding grape must to finished wine to increase colour"],
+    "correctAnswer": 1,
+    "explanation": "Extended maceration (post-fermentation skin contact) extracts additional tannin, colour, and other phenolic compounds from the skins. This can build greater structure and aging potential, but risks harsh tannins if poorly managed."
+  },
+  {
+    "id": 194,
+    "category": "Factors Affecting Style and Quality",
+    "question": "Why might a winemaker choose NOT to carry out malolactic fermentation in a white wine?",
+    "options": ["To increase the wine's alcohol content", "To preserve fresh, high acidity and primary fruit character — particularly desirable in aromatic varieties like Riesling and Sauvignon Blanc", "To prevent any bacterial activity which might add off-flavours", "To reduce the wine's colour and make it paler"],
+    "correctAnswer": 1,
+    "explanation": "MLF reduces acidity and can add buttery, creamy notes. For wines where freshness, crisp acidity, and primary aromatics are key selling points (e.g., Riesling, Sauvignon Blanc, Muscadet in some styles), blocking MLF with SO₂ or cold temperatures is standard practice."
+  },
+  {
+    "id": 195,
+    "category": "Factors Affecting Style and Quality",
+    "question": "What does the term 'terroir' encompass in the context of wine?",
+    "options": ["Only the soil type of a specific vineyard", "The complete natural environment of a vineyard, including soil, climate, aspect, altitude, and any other geographical factors that influence the character of the wine", "The winemaking techniques specific to a region", "The combination of grape variety and winemaker style"],
+    "correctAnswer": 1,
+    "explanation": "Terroir is a French concept describing the holistic natural environment of a vineyard — soil, subsoil, drainage, topography, climate, and microclimate — all of which interact to give wines from a specific site their distinctive character."
+  },
+  {
+    "id": 196,
+    "category": "Factors Affecting Style and Quality",
+    "question": "How does clay soil influence vine growth compared to gravel or sandy soils?",
+    "options": ["Clay drains freely and is low in moisture retention", "Clay retains water well, can become cold and waterlogged, but provides consistent moisture supply to vines during dry summers", "Clay soils always produce the finest wines in any region", "Clay soils warm up faster than gravel in spring"],
+    "correctAnswer": 1,
+    "explanation": "Clay has high water-retention capacity, which can cause waterlogging in wet climates but provides a useful moisture reserve in warm, dry summers. Merlot, which has shallower roots than Cabernet Sauvignon, thrives on the clay soils of the Right Bank."
+  },
+  {
+    "id": 197,
+    "category": "Factors Affecting Style and Quality",
+    "question": "What is the purpose of 'green harvesting' (crop thinning) in the vineyard?",
+    "options": ["To remove unripe green berries to prevent bitter flavours", "To remove excess bunches of unripe grapes mid-season, reducing the remaining crop size so vines can concentrate on ripening fewer, higher quality berries", "To harvest early to preserve natural acidity in cool years", "To remove green leaves to allow more sunlight to reach the grapes"],
+    "correctAnswer": 1,
+    "explanation": "Green harvesting (vendange en vert) involves removing excess grape clusters before veraison (the onset of ripening). By reducing the crop load, the vine can concentrate sugars, phenolics, and flavours into fewer berries."
+  },
+  {
+    "id": 198,
+    "category": "Factors Affecting Style and Quality",
+    "question": "What does 'élevage' refer to in winemaking?",
+    "options": ["The initial crushing and pressing of the grapes", "The raising or nurturing of the wine from the end of fermentation to bottling, including barrel aging, racking, and fining", "The legal system of classifying wines by quality level in France", "The process of adding yeast nutrients during fermentation"],
+    "correctAnswer": 1,
+    "explanation": "Élevage (from the French 'to raise') covers all cellar work after fermentation is complete — including barrel aging, topping up barrels to prevent oxidation, racking (moving wine off lees), and preparing the wine for bottling."
+  },
+  {
+    "id": 199,
+    "category": "Factors Affecting Style and Quality",
+    "question": "Why is the Hawke's Bay region in New Zealand particularly suited to red grape varieties like Cabernet Sauvignon and Syrah compared to Marlborough?",
+    "options": ["Hawke's Bay is at a higher altitude", "Hawke's Bay has a warmer, drier climate with a longer growing season, enabling full phenolic ripeness in red varieties that struggle in cooler Marlborough", "Hawke's Bay has more volcanic soils that improve tannin structure", "Hawke's Bay benefits from a cooler ocean current"],
+    "correctAnswer": 1,
+    "explanation": "Hawke's Bay on the North Island has a warmer, more continental-influenced climate than Marlborough, with longer warm autumns. This allows thick-skinned red varieties to ripen fully. The Gimblett Gravels sub-region is especially notable."
+  },
+  {
+    "id": 200,
+    "category": "Factors Affecting Style and Quality",
+    "question": "What is the Swartland region in South Africa increasingly celebrated for?",
+    "options": ["Producing the country's finest sweet dessert wines", "Old-vine, dry-farmed Chenin Blanc and Rhône varieties grown without irrigation, expressing distinctive terroir character", "Export-volume Sauvignon Blanc for international supermarkets", "Cap Classique (traditional method sparkling wine)"],
+    "correctAnswer": 1,
+    "explanation": "Swartland has become South Africa's most exciting region for natural and artisan wine, with old-vine Chenin Blanc, Grenache, Syrah, and Mourvèdre grown on dry-farmed bush vines, championed by producers in the Swartland Revolution movement."
+  }
+]

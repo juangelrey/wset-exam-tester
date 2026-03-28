@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "category": "Red Grape Varieties",
+    "question": "Which of the following best describes the typical tasting profile of a Cabernet Sauvignon from Napa Valley compared to one from Bordeaux's Left Bank?",
+    "options": ["Napa is lighter-bodied with higher acidity and more earthy notes", "Napa is fuller-bodied with riper fruit flavours and higher alcohol due to the warmer climate", "Both regions produce virtually identical styles due to the same winemaking techniques", "Napa produces more tannic wines with lower alcohol than Bordeaux"],
+    "correctAnswer": 1,
+    "explanation": "Napa Valley's warm climate produces riper fruit (blackcurrant, cassis, plum), higher alcohol, and a fuller body compared to Bordeaux Left Bank wines, which tend to show more restrained fruit, higher acidity, and more earthy/herbaceous notes."
+  },
+  {
+    "id": 2,
+    "category": "Red Grape Varieties",
+    "question": "Coonawarra in South Australia is particularly famous for Cabernet Sauvignon grown on which distinctive soil type?",
+    "options": ["Granite", "Terra rossa over limestone", "Clay over sandstone", "Volcanic basalt"],
+    "correctAnswer": 1,
+    "explanation": "Coonawarra's famous 'terra rossa' is a thin strip of red clay-loam soil over a limestone base, which provides excellent drainage and is considered ideal for producing structured, elegant Cabernet Sauvignon."
+  },
+  {
+    "id": 3,
+    "category": "Red Grape Varieties",
+    "question": "Which grape variety is dominant in wines from Pomerol, producing wines renowned for their velvety texture and plummy fruit?",
+    "options": ["Cabernet Sauvignon", "Cabernet Franc", "Merlot", "Petit Verdot"],
+    "correctAnswer": 2,
+    "explanation": "Pomerol, on the Right Bank of Bordeaux, is dominated by Merlot, which thrives in the clay-rich soils. Wines like Pétrus are made almost entirely from Merlot and are known for their plummy fruit, velvety texture, and roundness."
+  },
+  {
+    "id": 4,
+    "category": "Red Grape Varieties",
+    "question": "Merlot-based wines from Chile are typically characterised by which style?",
+    "options": ["High tannin, austere, and needing long ageing", "Soft, fruit-forward with plummy notes and accessible tannins", "Very high acidity with green, herbaceous character throughout", "Deeply coloured, tannic, and highly structured like Cabernet Sauvignon"],
+    "correctAnswer": 1,
+    "explanation": "Chilean Merlot is typically soft and fruit-forward, with plummy, chocolatey notes and approachable tannins. The warm climate produces ripe fruit, making these wines accessible relatively young."
+  },
+  {
+    "id": 5,
+    "category": "Red Grape Varieties",
+    "question": "Pinot Noir from Burgundy is typically aged in which type of vessel to preserve its delicate fruit character?",
+    "options": ["Large old oak foudres or neutral oak barrels", "New American oak barrels for 24 months", "Stainless steel tanks only", "Heavy toasted new French oak barriques"],
+    "correctAnswer": 0,
+    "explanation": "Burgundian Pinot Noir is typically aged in a proportion of old or neutral French oak to avoid overwhelming the grape's delicate red fruit and earthy character. New oak is used sparingly, especially for village and regional wines."
+  },
+  {
+    "id": 6,
+    "category": "Red Grape Varieties",
+    "question": "Which of the following regions in Oregon is most renowned for producing Pinot Noir?",
+    "options": ["Walla Walla Valley", "Willamette Valley", "Columbia Valley", "Rogue Valley"],
+    "correctAnswer": 1,
+    "explanation": "The Willamette Valley in Oregon is the state's most famous wine region and is particularly renowned for Pinot Noir. The cool, wet climate is well-suited to this thin-skinned grape."
+  },
+  {
+    "id": 7,
+    "category": "Red Grape Varieties",
+    "question": "Pinot Noir from Central Otago, New Zealand, is typically characterised by which style compared to Burgundy?",
+    "options": ["Lighter in colour, lower in alcohol, with more earthy and savoury notes", "Richer, more concentrated, with darker fruit like black cherry and plum due to the intense UV light and sunny days", "More tannic and structured, designed for long ageing", "Lighter and more floral, with lower tannins than any other region"],
+    "correctAnswer": 1,
+    "explanation": "Central Otago has a continental climate with intense UV light, long sunny days, and cool nights. This produces concentrated Pinot Noir with deeper fruit flavours (cherry, plum, blackberry) and higher alcohol than Burgundy, though with good freshness from the cool nights."
+  },
+  {
+    "id": 8,
+    "category": "Red Grape Varieties",
+    "question": "Which grape is the primary variety in Northern Rhône appellations such as Côte-Rôtie and Hermitage?",
+    "options": ["Grenache", "Mourvèdre", "Syrah", "Cabernet Sauvignon"],
+    "correctAnswer": 2,
+    "explanation": "Syrah is the only permitted red grape in the major Northern Rhône appellations (Côte-Rôtie, Hermitage, Crozes-Hermitage, Saint-Joseph). These wines are known for their peppery, meaty, and savoury character with dark fruit."
+  },
+  {
+    "id": 9,
+    "category": "Red Grape Varieties",
+    "question": "How does Syrah from the Northern Rhône typically differ in style from Shiraz from the Barossa Valley?",
+    "options": ["Northern Rhône Syrah is more full-bodied, jammy, and alcoholic", "Northern Rhône Syrah tends to be more savoury, peppery, and structured, while Barossa Shiraz is richer, fuller-bodied, and more fruit-forward", "Barossa Shiraz is more tannic and austere than Northern Rhône Syrah", "There is no significant stylistic difference between the two regions"],
+    "correctAnswer": 1,
+    "explanation": "The cool Northern Rhône climate produces Syrah with black pepper, olive, and savoury notes with high tannins, while the hot Barossa Valley produces opulent Shiraz with jammy dark fruit, chocolate, and mocha notes at higher alcohol."
+  },
+  {
+    "id": 10,
+    "category": "Red Grape Varieties",
+    "question": "In the Southern Rhône, Grenache is typically blended with which two other grape varieties to produce wines such as Châteauneuf-du-Pape?",
+    "options": ["Syrah and Mourvèdre", "Cabernet Sauvignon and Merlot", "Cinsault and Carignan", "Mourvèdre and Viognier"],
+    "correctAnswer": 0,
+    "explanation": "The classic Southern Rhône blend (known as GSM) combines Grenache, Syrah, and Mourvèdre. In Châteauneuf-du-Pape, up to 18 varieties are actually permitted, but Grenache, Syrah, and Mourvèdre form the backbone of most blends."
+  },
+  {
+    "id": 11,
+    "category": "Red Grape Varieties",
+    "question": "What is the local name for Grenache in Priorat, Spain, where old-vine examples produce highly concentrated, powerful wines?",
+    "options": ["Garnacha Tinta", "Cariñena", "Monastrell", "Bobal"],
+    "correctAnswer": 0,
+    "explanation": "Grenache is known as Garnacha in Spain. In Priorat DOCa, old-vine Garnacha (along with Cariñena/Carignan) grown on llicorella (slate) soils produces some of Spain's most concentrated and expensive wines."
+  },
+  {
+    "id": 12,
+    "category": "Red Grape Varieties",
+    "question": "Under Rioja's classification system, how long must a Reserva wine be aged, and how much of that time must be in oak?",
+    "options": ["Minimum 3 years total, with at least 1 year in oak", "Minimum 2 years total, with at least 1 year in oak", "Minimum 5 years total, with at least 2 years in oak", "Minimum 4 years total, with at least 3 years in oak"],
+    "correctAnswer": 0,
+    "explanation": "Rioja Reserva requires a minimum of 3 years ageing total, with at least 1 year in oak barrels. Gran Reserva requires a minimum of 5 years total, with at least 2 years in oak."
+  },
+  {
+    "id": 13,
+    "category": "Red Grape Varieties",
+    "question": "Tempranillo is known by which local name in Ribera del Duero, Spain?",
+    "options": ["Ull de Llebre", "Cencibel", "Tinto Fino", "Tinta Roriz"],
+    "correctAnswer": 2,
+    "explanation": "Tempranillo is called Tinto Fino (or Tinta del País) in Ribera del Duero. It is also known as Ull de Llebre in Catalonia, Cencibel in La Mancha, and Tinta Roriz in Portugal."
+  },
+  {
+    "id": 14,
+    "category": "Red Grape Varieties",
+    "question": "Nebbiolo-based Barolo must be aged for a minimum of how many years before release, with how many months required in oak?",
+    "options": ["3 years total, with 18 months in oak", "2 years total, with 12 months in oak", "5 years total, with 36 months in oak", "4 years total, with 24 months in oak"],
+    "correctAnswer": 0,
+    "explanation": "Standard Barolo DOCG requires a minimum of 3 years ageing from harvest, with at least 18 months in oak. Barolo Riserva requires 5 years total ageing."
+  },
+  {
+    "id": 15,
+    "category": "Red Grape Varieties",
+    "question": "What is the key stylistic difference between Barolo and Barbaresco, both made from Nebbiolo in Piedmont?",
+    "options": ["Barolo must use Nebbiolo exclusively; Barbaresco can blend with Barbera", "Barolo is generally more powerful and requires longer ageing; Barbaresco is typically more elegant with shorter minimum ageing requirements", "Barbaresco is only produced in warmer vintages; Barolo is made every year", "Barolo allows the use of new oak; Barbaresco must be aged only in large old oak casks"],
+    "correctAnswer": 1,
+    "explanation": "Both are 100% Nebbiolo DOCGs, but Barolo (minimum 3 years ageing, 5 for Riserva) is typically more powerful and tannic, while Barbaresco (minimum 2 years, 4 for Riserva) tends to be more elegant. The differing soils and microclimates also contribute to stylistic differences."
+  },
+  {
+    "id": 16,
+    "category": "Red Grape Varieties",
+    "question": "Which Sangiovese-based wine must be made from 100% Sangiovese (locally called Brunello) and aged for a minimum of 5 years including 2 years in oak?",
+    "options": ["Chianti Classico Riserva", "Vino Nobile di Montepulciano", "Brunello di Montalcino", "Morellino di Scansano"],
+    "correctAnswer": 2,
+    "explanation": "Brunello di Montalcino DOCG must be made from 100% Sangiovese Grosso (locally called Brunello) and requires a minimum of 5 years ageing from harvest (6 for Riserva), including at least 2 years in oak and 4 months in bottle."
+  },
+  {
+    "id": 17,
+    "category": "Red Grape Varieties",
+    "question": "Chianti Classico is produced in a zone between which two Tuscan cities?",
+    "options": ["Pisa and Livorno", "Florence and Siena", "Bologna and Florence", "Siena and Arezzo"],
+    "correctAnswer": 1,
+    "explanation": "The Chianti Classico zone lies between Florence to the north and Siena to the south in Tuscany. It was historically the original 'Chianti' zone, defined before the broader Chianti appellation expanded."
+  },
+  {
+    "id": 18,
+    "category": "Red Grape Varieties",
+    "question": "Malbec grown at high altitude in Mendoza (e.g. in the Luján de Cuyo and Uco Valley subregions) typically shows which characteristics compared to lower-altitude examples?",
+    "options": ["Lower colour intensity, softer tannins, and more tropical fruit", "Greater colour intensity, firmer tannins, higher acidity, and more complex flavours", "Lighter body, lower alcohol, and more green vegetal notes", "Less concentrated flavours due to cooler temperatures reducing ripeness"],
+    "correctAnswer": 1,
+    "explanation": "High-altitude viticulture in Mendoza (often above 1000m in the Uco Valley) produces Malbec with more intense colour, firmer tannins, higher acidity, and greater complexity compared to lower-altitude examples, due to the larger diurnal temperature variation preserving freshness."
+  },
+  {
+    "id": 19,
+    "category": "Red Grape Varieties",
+    "question": "Malbec is originally from which French region, where it is the dominant grape variety in the wines of Cahors?",
+    "options": ["Bordeaux", "Burgundy", "South West France (Cahors)", "The Loire Valley"],
+    "correctAnswer": 2,
+    "explanation": "Malbec (known as Côt or Auxerrois in France) is the dominant variety in Cahors AOC in South West France, where it produces dark, tannic wines sometimes called 'black wine'. It has become far more famous in its adopted home of Argentina."
+  },
+  {
+    "id": 20,
+    "category": "Red Grape Varieties",
+    "question": "What winemaking technique is associated with Beaujolais Nouveau and many Beaujolais Cru wines, producing wines with bright fruit and low tannins?",
+    "options": ["Extended maceration", "Cold stabilisation", "Carbonic maceration", "Thermovinification"],
+    "correctAnswer": 2,
+    "explanation": "Carbonic maceration involves fermenting whole uncrushed grapes in a CO2-rich environment. Fermentation begins inside each grape, producing fruity, low-tannin wines. It is strongly associated with Gamay in Beaujolais, particularly for Beaujolais Nouveau."
+  },
+  {
+    "id": 21,
+    "category": "Red Grape Varieties",
+    "question": "How many Beaujolais Crus are there, and which of the following is one of them?",
+    "options": ["8 Crus; Beaujolais-Villages is one", "10 Crus; Moulin-à-Vent is one", "12 Crus; Fleurie is one of two named Crus", "6 Crus; Saint-Amour is the only named Cru"],
+    "correctAnswer": 1,
+    "explanation": "There are 10 Beaujolais Crus: Saint-Amour, Juliénas, Chénas, Moulin-à-Vent, Fleurie, Chiroubles, Morgon, Régnié, Côte de Brouilly, and Brouilly. Moulin-à-Vent is considered one of the most structured and age-worthy."
+  },
+  {
+    "id": 22,
+    "category": "Red Grape Varieties",
+    "question": "Mourvèdre is the dominant grape variety in which prestigious southern French AOC, known for dark, structured wines with garrigue and meaty notes?",
+    "options": ["Châteauneuf-du-Pape", "Bandol", "Côtes du Rhône", "Gigondas"],
+    "correctAnswer": 1,
+    "explanation": "Bandol AOC in Provence requires that Mourvèdre (known locally as Mourvèdre) makes up a minimum of 50% of the blend (in practice often more). The wines are known for their dark colour, high tannins, garrigue, and meaty, earthy complexity."
+  },
+  {
+    "id": 23,
+    "category": "Red Grape Varieties",
+    "question": "Zinfandel is genetically identical to which Italian grape variety?",
+    "options": ["Negroamaro", "Sagrantino", "Primitivo", "Aglianico"],
+    "correctAnswer": 2,
+    "explanation": "DNA analysis has proven that Zinfandel (California) and Primitivo (Puglia, Italy) are the same grape variety, both originating from the Croatian grape Tribidrag/Crljenak Kaštelanski."
+  },
+  {
+    "id": 24,
+    "category": "Red Grape Varieties",
+    "question": "Pinotage is a uniquely South African crossing of which two grape varieties?",
+    "options": ["Pinot Noir and Hermitage (Cinsault)", "Pinot Noir and Cabernet Sauvignon", "Pinot Gris and Syrah", "Pinot Blanc and Gamay"],
+    "correctAnswer": 0,
+    "explanation": "Pinotage was created in 1925 by Professor Abraham Perold at Stellenbosch University by crossing Pinot Noir with Hermitage (the South African name for Cinsault). It is South Africa's signature grape variety."
+  },
+  {
+    "id": 25,
+    "category": "Red Grape Varieties",
+    "question": "Carménère was long confused with which other grape variety in Chilean vineyards before being identified by DNA testing in the 1990s?",
+    "options": ["Merlot", "Cabernet Franc", "Malbec", "Petit Verdot"],
+    "correctAnswer": 0,
+    "explanation": "Carménère was widely planted in Chile but misidentified as Merlot for many decades. DNA testing in 1994 confirmed its true identity. It is now recognised as Chile's signature red grape, producing wines with dark fruit, spice, and an occasional green pepper character."
+  },
+  {
+    "id": 26,
+    "category": "Red Grape Varieties",
+    "question": "Which of the following is NOT a typical blending grape on Bordeaux's Left Bank alongside Cabernet Sauvignon?",
+    "options": ["Merlot", "Cabernet Franc", "Petit Verdot", "Nebbiolo"],
+    "correctAnswer": 3,
+    "explanation": "Bordeaux Left Bank blends are based on Cabernet Sauvignon, blended with Merlot, Cabernet Franc, Petit Verdot, and sometimes Malbec or Carménère. Nebbiolo is a Piedmontese variety with no role in Bordeaux."
+  },
+  {
+    "id": 27,
+    "category": "Red Grape Varieties",
+    "question": "Carneros, known for producing elegant Pinot Noir, sits at the southern end of which two famous California wine valleys?",
+    "options": ["Sonoma and Mendocino", "Napa and Sonoma", "Paso Robles and Napa", "San Joaquin Valley and Sonoma"],
+    "correctAnswer": 1,
+    "explanation": "Carneros (Los Carneros AVA) spans the southern portions of both Napa Valley and Sonoma County. It is cooled by fogs and winds from San Pablo Bay, making it ideal for cooler-climate varieties like Pinot Noir and Chardonnay."
+  },
+  {
+    "id": 28,
+    "category": "Red Grape Varieties",
+    "question": "What effect does extended oak ageing (e.g. in American oak) typically have on a Tempranillo-based Rioja wine?",
+    "options": ["It adds vanilla, coconut, and toasty notes while softening tannins over time", "It preserves fresh primary fruit and increases acidity", "It reduces colour and tannin levels significantly", "It has no effect as Tempranillo is resistant to oak influence"],
+    "correctAnswer": 0,
+    "explanation": "Traditional Rioja uses American oak barrels, which impart distinctive vanilla, coconut, and dill notes to the wine. Extended ageing softens tannins and integrates the oak, creating a more complex, tertiary character alongside the Tempranillo's cherry and leather notes."
+  },
+  {
+    "id": 29,
+    "category": "Red Grape Varieties",
+    "question": "Nebbiolo is notoriously high in which two structural components that make young Barolo challenging to drink?",
+    "options": ["Tannin and acidity", "Alcohol and residual sugar", "Colour intensity and body", "Volatile acidity and bitterness"],
+    "correctAnswer": 0,
+    "explanation": "Nebbiolo produces wines with very high tannins and very high acidity, making young Barolo and Barbaresco austere and tight. This is why both require extended ageing — the tannins and acidity soften over many years, revealing complex tertiary notes."
+  },
+  {
+    "id": 30,
+    "category": "Red Grape Varieties",
+    "question": "Vino Nobile di Montepulciano is made predominantly from Sangiovese, known locally by which name in this area?",
+    "options": ["Brunello", "Morellino", "Prugnolo Gentile", "Sangioveto"],
+    "correctAnswer": 2,
+    "explanation": "In Montepulciano, Sangiovese is known as Prugnolo Gentile. Vino Nobile di Montepulciano DOCG requires a minimum of 70% Prugnolo Gentile. It should not be confused with the grape Montepulciano d'Abruzzo."
+  },
+  {
+    "id": 31,
+    "category": "Red Grape Varieties",
+    "question": "Which climate factor most distinguishes the Barossa Valley from McLaren Vale in South Australia for producing Shiraz?",
+    "options": ["Barossa is cooler due to its proximity to the ocean", "Barossa is generally warmer and drier, producing more full-bodied, higher-alcohol Shiraz", "McLaren Vale has significantly less rainfall making irrigation essential", "Both regions have virtually identical climates and produce the same style"],
+    "correctAnswer": 1,
+    "explanation": "The Barossa Valley is further inland and generally warmer and drier than McLaren Vale, which benefits from some maritime cooling from the Gulf St Vincent. This results in Barossa producing richer, more opulent Shiraz, while McLaren Vale can show more savoury, earthy complexity."
+  },
+  {
+    "id": 32,
+    "category": "Red Grape Varieties",
+    "question": "Gamay Noir à Jus Blanc is the full name of the Gamay grape. What does 'à Jus Blanc' indicate?",
+    "options": ["The wine must be produced as a blanc de noirs", "The grape has white (colourless) juice, with colour coming only from the skins", "The grape requires blending with white varieties to balance acidity", "The grape was created by crossing a white and red variety"],
+    "correctAnswer": 1,
+    "explanation": "'À Jus Blanc' means 'with white juice', indicating that the juice inside the Gamay grape is colourless. The red colour in the wine comes from contact with the grape's dark skins during winemaking. This is true of most red grapes."
+  },
+  {
+    "id": 33,
+    "category": "Red Grape Varieties",
+    "question": "Which Beaujolais Cru is generally considered the most structured and age-worthy, often likened to a lighter Burgundy?",
+    "options": ["Fleurie", "Brouilly", "Moulin-à-Vent", "Chiroubles"],
+    "correctAnswer": 2,
+    "explanation": "Moulin-à-Vent is widely considered the most powerful and age-worthy of the 10 Beaujolais Crus. Its granitic soils high in manganese produce wines with more structure and tannin that can age for 5-10+ years, developing Pinot Noir-like complexity."
+  },
+  {
+    "id": 34,
+    "category": "Red Grape Varieties",
+    "question": "What does the term 'Crianza' indicate on a Spanish red wine label in terms of ageing?",
+    "options": ["The wine has been aged for a minimum of 5 years in oak", "The wine has been aged for a minimum of 2 years, with at least 6 months in oak (in Rioja: 1 year in oak)", "The wine has had no oak ageing and is released young", "The wine is from a single vineyard and aged for 3 years minimum"],
+    "correctAnswer": 1,
+    "explanation": "Crianza is the entry-level aged category for Spanish red wines. Generally it requires a minimum of 2 years ageing with a specified time in oak (which varies by region). In Rioja specifically, Crianza requires at least 2 years total with at least 1 year in oak."
+  },
+  {
+    "id": 35,
+    "category": "Red Grape Varieties",
+    "question": "Which of the following best describes the typical flavour profile of Carménère from Chile?",
+    "options": ["Bright red fruit, high acidity, and lean body similar to Pinot Noir", "Dark fruit (plum, blackberry), spice, and sometimes green pepper or coffee notes with medium-full body", "Extremely high tannins and acidity with a very austere, structured style", "Light colour, low tannins, and fresh raspberry fruit with floral aromas"],
+    "correctAnswer": 1,
+    "explanation": "Chilean Carménère typically shows dark fruit flavours (plum, blackberry, cassis), spice notes, and a distinctive green pepper character (from pyrazines) when not fully ripe, or coffee/chocolate notes when fully ripe. It has medium-full body with soft tannins."
+  },
+  {
+    "id": 36,
+    "category": "White Grape Varieties",
+    "question": "Chablis, in the most northerly part of Burgundy, is known for producing which style of Chardonnay?",
+    "options": ["Rich, full-bodied, and heavily oaked with buttery notes", "Lean, high-acid, with mineral, flinty, and green apple notes, typically unoaked or lightly oaked", "Sweet and aromatic with floral notes and residual sugar", "Full-bodied and oaked, indistinguishable from Meursault"],
+    "correctAnswer": 1,
+    "explanation": "Chablis' cool climate and Kimmeridgian limestone soils produce lean, high-acid Chardonnay with distinctive mineral, chalky, and flinty notes. Wines are typically unoaked (or use large old oak) to preserve this crisp, steely style, contrasting sharply with richer Côte de Beaune Chardonnays."
+  },
+  {
+    "id": 37,
+    "category": "White Grape Varieties",
+    "question": "Meursault, in the Côte de Beaune, produces Chardonnay with which typical style characteristics?",
+    "options": ["Light, unoaked, with citrus and green apple", "Rich and full-bodied with hazelnut, butter, and stone fruit, aged in French oak barriques", "Sweet botrytised wines with honey and apricot notes", "Sparkling wines produced by the traditional method"],
+    "correctAnswer": 1,
+    "explanation": "Meursault produces rich, full-bodied white Burgundy aged in French oak. The wines are known for their nutty (hazelnut, almond), buttery, and stone fruit (peach, nectarine) character with a creamy texture from malolactic fermentation."
+  },
+  {
+    "id": 38,
+    "category": "White Grape Varieties",
+    "question": "In Champagne, Chardonnay plays which specific role in the production of 'Blanc de Blancs'?",
+    "options": ["It is blended with Pinot Noir and Pinot Meunier in equal proportions", "Blanc de Blancs is made exclusively from Chardonnay, producing a lighter, more elegant style", "Chardonnay is used only for the reserve wines in Blanc de Blancs", "It provides colour and body in the blend, with Pinot Noir providing freshness"],
+    "correctAnswer": 1,
+    "explanation": "Blanc de Blancs Champagne is made exclusively from white grapes — in practice almost always 100% Chardonnay. These wines tend to be lighter, more elegant, with higher acidity and citrus/green apple notes, and have excellent ageing potential."
+  },
+  {
+    "id": 39,
+    "category": "White Grape Varieties",
+    "question": "Sauvignon Blanc from Sancerre (Loire Valley) is typically characterised by which aromatic profile?",
+    "options": ["Tropical fruit (mango, passion fruit), low acidity, and full body", "Crisp acidity, with citrus, gooseberry, and mineral/flinty notes from the Kimmeridgian soils", "Rich, oaked, with vanilla and toast complementing ripe stone fruit", "Sweet floral notes with high residual sugar and honeyed texture"],
+    "correctAnswer": 1,
+    "explanation": "Sancerre produces linear, mineral Sauvignon Blanc with high acidity, citrus, gooseberry, and a distinctive flinty/gunflint mineral quality attributed to the Kimmeridgian limestone and flint soils. It is quite different to the more tropical Marlborough style."
+  },
+  {
+    "id": 40,
+    "category": "White Grape Varieties",
+    "question": "What is the primary grape variety in dry white Bordeaux, typically blended with Sauvignon Blanc to add richness and texture?",
+    "options": ["Muscadelle", "Sémillon", "Chenin Blanc", "Viognier"],
+    "correctAnswer": 1,
+    "explanation": "Sémillon is the main grape in dry white Bordeaux (e.g. Pessac-Léognan), blended with Sauvignon Blanc. Sémillon adds body, texture, and ageing potential, while Sauvignon Blanc provides aromatic freshness and acidity."
+  },
+  {
+    "id": 41,
+    "category": "White Grape Varieties",
+    "question": "Marlborough Sauvignon Blanc from New Zealand is characterised by which distinctive aromatic profile compared to Loire Valley examples?",
+    "options": ["More mineral and austere with less obvious fruit", "More tropical fruit (passion fruit, guava), herbaceous notes, and pungent thiols, with vibrant acidity", "Richer and more full-bodied due to extended oak ageing", "Lighter and more subtle, with lower acidity than Loire examples"],
+    "correctAnswer": 1,
+    "explanation": "Marlborough Sauvignon Blanc is known for its pungent, expressive style with passion fruit, guava, kiwi, and capsicum notes, alongside characteristic thiols (grapefruit, sweaty notes). This contrasts with the more restrained, mineral Loire Valley style."
+  },
+  {
+    "id": 42,
+    "category": "White Grape Varieties",
+    "question": "In German wine classification, what does the Prädikat level 'Spätlese' indicate about the grapes used?",
+    "options": ["The grapes were harvested early to preserve high acidity", "The grapes were late-harvested with higher natural sugar levels than Kabinett", "The grapes were individually selected for botrytis infection", "The wine is made from frozen grapes harvested in winter"],
+    "correctAnswer": 1,
+    "explanation": "Spätlese ('late harvest') means the grapes were harvested later than normal, accumulating higher natural sugar levels (minimum must weight is higher than Kabinett). Spätlese wines can be dry, off-dry, or sweet depending on the winemaker's choice of residual sugar."
+  },
+  {
+    "id": 43,
+    "category": "White Grape Varieties",
+    "question": "How does Riesling from the Mosel typically differ in style from Riesling from Alsace?",
+    "options": ["Mosel Riesling is usually fuller-bodied, higher in alcohol, and often vinified dry", "Mosel Riesling is typically lower in alcohol, lighter, more delicate with higher acidity and often off-dry; Alsace Riesling tends to be drier, fuller-bodied, and higher in alcohol", "Alsace Riesling is always sweeter than Mosel due to botrytis being more common", "There is no significant difference as both regions produce the same style"],
+    "correctAnswer": 1,
+    "explanation": "The steep slate slopes of the Mosel produce delicate, low-alcohol (7-10% ABV), high-acid Riesling that is often off-dry or sweet. Alsace's drier, continental climate produces fuller-bodied, drier, higher-alcohol Riesling (often 12-13% ABV) with more body and ripe fruit."
+  },
+  {
+    "id": 44,
+    "category": "White Grape Varieties",
+    "question": "Riesling from Clare Valley in South Australia is known for which distinctive style?",
+    "options": ["Sweet, botrytised, and low in alcohol", "Dry, with high acidity, lime citrus, slate mineral notes, and excellent ageing potential", "Rich, full-bodied, and heavily oaked", "Aromatic and off-dry with floral and lychee notes"],
+    "correctAnswer": 1,
+    "explanation": "Clare Valley produces some of Australia's most celebrated dry Riesling, known for its crisp, high acidity, lime juice, and slate/mineral notes. These wines are famously age-worthy, developing petrol/kerosene notes over time — a classic sign of aged Riesling (TDN compound)."
+  },
+  {
+    "id": 45,
+    "category": "White Grape Varieties",
+    "question": "What is the key difference between Pinot Grigio from the Veneto (Italy) and Pinot Gris from Alsace (France)?",
+    "options": ["They are different grape varieties with different flavour profiles", "Veneto Pinot Grigio is typically light, crisp, and neutral; Alsace Pinot Gris is fuller-bodied, rich, and aromatic with spice notes", "Alsace Pinot Gris is always sweet while Veneto Pinot Grigio is always dry", "Veneto Pinot Grigio is aged in oak; Alsace Pinot Gris is always unoaked"],
+    "correctAnswer": 1,
+    "explanation": "They are the same grape (Pinot Gris) but produce contrasting styles due to climate and winemaking. Veneto's light style is pale, crisp, and neutral, designed for everyday drinking. Alsace's continental climate and low-yield winemaking produces rich, full-bodied, spicy, and sometimes off-dry wines."
+  },
+  {
+    "id": 46,
+    "category": "White Grape Varieties",
+    "question": "Gewürztraminer from Alsace is renowned for which aromatic characteristics?",
+    "options": ["Neutral, crisp, and lightly floral", "Intensely aromatic with lychee, rose petal, ginger, and spice, with lower acidity and a rich, full body", "Herbaceous and grassy with citrus notes", "Delicate with subtle stone fruit and high acidity"],
+    "correctAnswer": 1,
+    "explanation": "Gewürztraminer is one of the most aromatic wine grapes in the world, with intense aromas of lychee, rose, Turkish delight, ginger, and spice. Alsace examples are typically full-bodied with relatively low acidity, sometimes with residual sugar."
+  },
+  {
+    "id": 47,
+    "category": "White Grape Varieties",
+    "question": "Viognier is the sole white variety permitted in which prestigious Northern Rhône appellation known for its rich, floral white wines?",
+    "options": ["Hermitage", "Crozes-Hermitage", "Condrieu", "Saint-Joseph"],
+    "correctAnswer": 2,
+    "explanation": "Condrieu AOC is dedicated exclusively to Viognier, producing some of the world's most distinctive white wines with intense floral aromas (apricot blossom, violet), stone fruit flavours (peach, apricot), and a rich, full body. Château-Grillet is a single-estate AOC within Condrieu also made from Viognier."
+  },
+  {
+    "id": 48,
+    "category": "White Grape Varieties",
+    "question": "In the Northern Rhône, small amounts of Viognier are legally permitted to be co-fermented with Syrah in which red wine appellation?",
+    "options": ["Saint-Joseph", "Crozes-Hermitage", "Côte-Rôtie", "Cornas"],
+    "correctAnswer": 2,
+    "explanation": "In Côte-Rôtie, up to 20% Viognier can legally be co-fermented with Syrah. The Viognier (which is white) is believed to enhance the colour stability, add floral aromatics, and soften the wine. This is a traditional practice, though many producers now make 100% Syrah."
+  },
+  {
+    "id": 49,
+    "category": "White Grape Varieties",
+    "question": "Vouvray AOC in the Loire Valley produces wines exclusively from which grape variety, in a range of styles from dry to sweet?",
+    "options": ["Sauvignon Blanc", "Muscadet/Melon de Bourgogne", "Chenin Blanc", "Chardonnay"],
+    "correctAnswer": 2,
+    "explanation": "Vouvray is made entirely from Chenin Blanc (called Pineau de la Loire locally) and can range from bone-dry (sec) to sweet (moelleux) and sparkling (Vouvray Pétillant or Mousseux). Chenin Blanc's high natural acidity allows even the sweetest versions to feel balanced."
+  },
+  {
+    "id": 50,
+    "category": "White Grape Varieties",
+    "question": "Hunter Valley Sémillon from New South Wales, Australia, is distinctive because it is typically harvested early and low in alcohol. What does it develop with age?",
+    "options": ["More tropical fruit flavours and a sweeter finish", "A rich, toasty, honeyed complexity with notes of lemon curd and lanolin, despite being dry", "Greater fresh acidity but loss of all fruit character", "Deep golden colour and botrytis character similar to Sauternes"],
+    "correctAnswer": 1,
+    "explanation": "Hunter Valley Sémillon is harvested early at low sugar levels (around 11% ABV) and initially tastes lean and citrusy. With 5-15 years of bottle age, it develops remarkable complexity: toasted bread, honey, lemon curd, beeswax, and lanolin notes — one of Australia's most distinctive wine styles."
+  },
+  {
+    "id": 51,
+    "category": "White Grape Varieties",
+    "question": "Sauternes, the famous sweet wine from Bordeaux, is primarily made from Sémillon affected by which beneficial fungus?",
+    "options": ["Powdery mildew (Oidium)", "Noble rot (Botrytis cinerea)", "Flor yeast", "Black rot (Plasmopara viticola)"],
+    "correctAnswer": 1,
+    "explanation": "Sauternes' richness comes from Botrytis cinerea (noble rot), which concentrates sugars, acids, and flavours in the affected grapes by dehydrating them. The blend is typically Sémillon (dominant), Sauvignon Blanc, and a small amount of Muscadelle."
+  },
+  {
+    "id": 52,
+    "category": "White Grape Varieties",
+    "question": "Moscato d'Asti DOCG from Piedmont is characterised by which style?",
+    "options": ["Fully sparkling, bone dry, and high in alcohol", "Lightly sparkling (frizzante), low in alcohol (typically 5-6.5% ABV), sweet, with delicate peach and apricot aromas", "Fully sparkling, dry, and produced by the traditional method", "Still, dry, and aged in oak barrels"],
+    "correctAnswer": 1,
+    "explanation": "Moscato d'Asti is a delicate, lightly sparkling (frizzante) sweet wine made from Muscat Bianco (Moscato Bianco). It has low alcohol (typically 5-6.5% ABV), residual sugar, and lovely peach, apricot, and floral aromas. Fermentation is stopped early to retain the sweetness and low alcohol."
+  },
+  {
+    "id": 53,
+    "category": "White Grape Varieties",
+    "question": "Muscat de Beaumes-de-Venise from the Southern Rhône is an example of which style of wine?",
+    "options": ["A dry, still white wine", "A Vin Doux Naturel — a fortified sweet wine", "A naturally sweet wine made from late-harvested grapes without fortification", "A sparkling wine made by the traditional method"],
+    "correctAnswer": 1,
+    "explanation": "Muscat de Beaumes-de-Venise is a Vin Doux Naturel (VDN), meaning fermentation is stopped by the addition of neutral grape spirit, leaving residual sugar while preserving the fresh Muscat aromas. It is rich, sweet, and aromatic with orange blossom and apricot notes."
+  },
+  {
+    "id": 54,
+    "category": "White Grape Varieties",
+    "question": "Albariño (Alvarinho) is the principal grape of Rías Baixas in Galicia, Spain. What wine style does it typically produce?",
+    "options": ["Full-bodied, oaked, with low acidity", "Aromatic, with stone fruit and floral notes, high acidity, and medium body, often with a slight salty/mineral quality", "Light, neutral, and low-alcohol", "Rich and sweet, affected by botrytis"],
+    "correctAnswer": 1,
+    "explanation": "Albariño from Rías Baixas is known for its aromatic profile (peach, apricot, citrus, floral notes), high acidity, and a characteristic mineral, almost saline quality from the Atlantic influence. It is typically unoaked and best consumed young, though premium versions can age."
+  },
+  {
+    "id": 55,
+    "category": "White Grape Varieties",
+    "question": "The Wachau in Austria uses its own classification system for Grüner Veltliner and Riesling. Which of the following correctly orders the three Wachau categories from lightest to richest?",
+    "options": ["Steinfeder, Federspiel, Smaragd", "Federspiel, Steinfeder, Smaragd", "Smaragd, Federspiel, Steinfeder", "Steinfeder, Smaragd, Federspiel"],
+    "correctAnswer": 0,
+    "explanation": "The Wachau's Vinea Wachau classification goes from lightest to richest: Steinfeder (delicate, max 11.5% ABV), Federspiel (medium-bodied, up to 12.5% ABV), and Smaragd (richest, ripest, minimum 12.5% ABV). Named after a straw, a bird, and a lizard respectively."
+  },
+  {
+    "id": 56,
+    "category": "White Grape Varieties",
+    "question": "Torrontés is Argentina's most important white grape variety, primarily grown in which high-altitude region?",
+    "options": ["Mendoza", "Patagonia", "Salta (Cafayate)", "San Juan"],
+    "correctAnswer": 2,
+    "explanation": "Torrontés is strongly associated with Salta province, particularly the Cafayate valley at altitudes up to 3,000m. It produces highly aromatic wines with floral (rose, geranium) and stone fruit notes. Despite its intense aromatics, it is typically dry."
+  },
+  {
+    "id": 57,
+    "category": "White Grape Varieties",
+    "question": "Marsanne and Roussanne are white grape varieties associated with which French wine region?",
+    "options": ["Bordeaux", "Loire Valley", "Rhône Valley (particularly the Northern Rhône at Hermitage)", "Alsace"],
+    "correctAnswer": 2,
+    "explanation": "Marsanne and Roussanne are the primary white varieties of the Northern Rhône, used to produce white Hermitage and Crozes-Hermitage, as well as Château-Grillet (Viognier) and St-Péray (Marsanne). They also appear in the South Rhône blends."
+  },
+  {
+    "id": 58,
+    "category": "White Grape Varieties",
+    "question": "What is the key winemaking difference between an unoaked and an oaked Chardonnay in terms of how it affects flavour?",
+    "options": ["Oaked Chardonnay always has more residual sugar than unoaked", "Oaked Chardonnay gains vanilla, toast, and creamy texture from wood contact, often with MLF adding butter notes; unoaked retains more primary fruit and acidity", "Unoaked Chardonnay has higher alcohol due to faster fermentation", "There is no perceptible difference in the final wine"],
+    "correctAnswer": 1,
+    "explanation": "Oak ageing adds secondary flavours (vanilla, toast, smoke, cream) to Chardonnay, and barrel fermentation/ageing with lees contact and MLF (malolactic fermentation) adds a creamy, buttery texture. Unoaked or stainless steel-fermented Chardonnay preserves fresh primary fruit (apple, citrus, melon) and higher, crisper acidity."
+  },
+  {
+    "id": 59,
+    "category": "White Grape Varieties",
+    "question": "Savennières AOC in the Loire Valley is considered one of the world's greatest expressions of which grape variety in a dry style?",
+    "options": ["Sauvignon Blanc", "Pinot Gris", "Chenin Blanc", "Muscadet"],
+    "correctAnswer": 2,
+    "explanation": "Savennières produces bone-dry Chenin Blanc wines of remarkable complexity and longevity. The volcanic/schistous soils and the discipline of the appellation result in wines with high acidity, mineral intensity, and the ability to age for decades. Coulée de Serrant is the most famous single estate."
+  },
+  {
+    "id": 60,
+    "category": "White Grape Varieties",
+    "question": "What does 'Auslese' mean in the German Prädikat system, and what style of wine does it typically produce?",
+    "options": ["Grapes harvested normally, producing a dry wine", "Selected bunches of late-harvested grapes, producing wines ranging from medium-sweet to sweet with concentrated fruit", "Individually selected berries affected by botrytis, producing very sweet, complex wine", "Frozen grapes harvested in winter, producing an intensely sweet Eiswein"],
+    "correctAnswer": 1,
+    "explanation": "Auslese ('selected harvest') refers to individually selected bunches (not berries) of late-harvested grapes. The wines are typically medium to full-bodied, often with some residual sweetness, and sometimes with partial botrytis influence. They are richer than Spätlese but lighter than Beerenauslese."
+  },
+  {
+    "id": 61,
+    "category": "White Grape Varieties",
+    "question": "Which winemaking process, often applied to white Burgundy, converts sharp malic acid into softer lactic acid, reducing perceived acidity and adding a creamy texture?",
+    "options": ["Cold stabilisation", "Malolactic fermentation (MLF)", "Micro-oxygenation", "Bentonite fining"],
+    "correctAnswer": 1,
+    "explanation": "Malolactic fermentation (MLF or secondary fermentation) converts the sharper-tasting malic acid into softer lactic acid, reducing the wine's acidity and adding a creamy, buttery texture and flavour. It is widely used for white Burgundy and California Chardonnay but blocked for Chablis and most aromatic varieties."
+  },
+  {
+    "id": 62,
+    "category": "White Grape Varieties",
+    "question": "Grüner Veltliner is the signature white grape of Austria. What is the most characteristic flavour descriptor often used for this variety?",
+    "options": ["Lychee and rose petal", "White pepper (alongside citrus, green vegetable notes)", "Honey and apricot with low acidity", "Tropical fruit and vanilla from oak ageing"],
+    "correctAnswer": 1,
+    "explanation": "Grüner Veltliner's most distinctive characteristic is its white pepper note, alongside citrus, green herbs (dill, parsley), and sometimes grapefruit. Top examples from the Wachau (Smaragd level) can be rich and age-worthy."
+  },
+  {
+    "id": 63,
+    "category": "White Grape Varieties",
+    "question": "In Alsace, Riesling is considered which style compared to its German counterpart, and why?",
+    "options": ["Sweeter and lower in alcohol due to earlier harvesting", "Drier, fuller-bodied, and higher in alcohol due to Alsace's sunnier, warmer, drier (rain shadow) continental climate", "More acidic and lighter with less ripe fruit than German Riesling", "Identical in style as both regions share the same viticultural methods"],
+    "correctAnswer": 1,
+    "explanation": "Alsace sits in the rain shadow of the Vosges mountains, giving it one of France's driest and sunniest climates. This continental warmth allows Riesling to ripen fully, producing drier, fuller-bodied wines (often 12-14% ABV) compared to the lighter, often off-dry German styles."
+  },
+  {
+    "id": 64,
+    "category": "White Grape Varieties",
+    "question": "Chenin Blanc in South Africa is widely planted and used for a range of wine styles. By what other name is Chenin Blanc widely known in South Africa?",
+    "options": ["Palomino", "Steen", "Colombard", "Clairette"],
+    "correctAnswer": 1,
+    "explanation": "Chenin Blanc is widely known as 'Steen' in South Africa, where it is the most widely planted grape variety. It is used to produce everything from fresh, light everyday wines to serious, complex dry wines and sweet dessert wines."
+  },
+  {
+    "id": 65,
+    "category": "White Grape Varieties",
+    "question": "Asti DOCG (formerly Asti Spumante) from Piedmont is produced from Muscat (Moscato Bianco) using which method?",
+    "options": ["Traditional method (méthode champenoise) with secondary fermentation in bottle", "Charmat/tank method with secondary fermentation in pressurised tanks", "The Asti method — a single fermentation stopped early by chilling and filtering, then bottled under pressure", "Ancestral method (pétillant naturel) with fermentation completing in the bottle"],
+    "correctAnswer": 2,
+    "explanation": "Asti DOCG uses a unique single-fermentation method (sometimes called the Asti method): the grape must undergoes just one fermentation that is stopped early (by chilling and filtration) when the wine reaches the desired sweetness and CO2 level. Unlike Champagne, there is no secondary fermentation."
+  },
+  {
+    "id": 66,
+    "category": "White Grape Varieties",
+    "question": "What is the term for the unfermented grape must used as the base wine for Champagne and many other traditional method sparkling wines?",
+    "options": ["Cuvée", "Liqueur de tirage", "Still base wine (vin clair)", "Mistelle"],
+    "correctAnswer": 2,
+    "explanation": "The still base wine (vin clair in French) is the low-alcohol, high-acid still wine made before the second fermentation in Champagne production. It is typically tasted and blended before the liqueur de tirage (sugar + yeast) is added to initiate the secondary fermentation in bottle."
+  },
+  {
+    "id": 67,
+    "category": "White Grape Varieties",
+    "question": "What is a key characteristic of the aromatic Muscat grape family that sets it apart from most other wine grapes?",
+    "options": ["It produces wines that taste completely unlike the fresh grapes", "Wines from Muscat taste very similar to the actual grape, with distinctively grapey aromas", "It is always vinified as a sweet wine regardless of winemaking intervention", "Muscat is the only variety that cannot be used to make sparkling wine"],
+    "correctAnswer": 1,
+    "explanation": "A defining feature of Muscat (and it is a large family of varieties) is that the wines taste unmistakably 'grapey' — they smell and taste like fresh Muscat grapes. This distinguishes Muscat from other wine grapes whose flavour transforms significantly during fermentation."
+  },
+  {
+    "id": 68,
+    "category": "White Grape Varieties",
+    "question": "Pouilly-Fumé in the Loire Valley is made from 100% Sauvignon Blanc. What does 'Fumé' (smoky) in the name traditionally refer to?",
+    "options": ["The wine is lightly smoked during production", "The smoky/flinty mineral character of the wine attributed to the local flint soils", "The smoky aromas from mandatory oak barrel ageing", "The gunsmoke character from added sulfur"],
+    "correctAnswer": 1,
+    "explanation": "The 'Fumé' in Pouilly-Fumé traditionally refers to the smoky, flinty mineral notes in the wine, attributed partly to the local silex (flint) soils and partly to the natural character of ripe Sauvignon Blanc. It is not related to smoking or oak ageing."
+  },
+  {
+    "id": 69,
+    "category": "White Grape Varieties",
+    "question": "White Hermitage from the Northern Rhône is primarily made from Marsanne. How does Marsanne typically behave as it ages?",
+    "options": ["It loses all fruit character and becomes austere and thin", "It goes through a dumb phase before opening up with rich, honeyed, nutty, and waxy complexity with age", "It retains fresh citrus notes throughout its ageing potential", "It becomes sweeter as residual sugar develops during bottle ageing"],
+    "correctAnswer": 1,
+    "explanation": "Marsanne is one of the few white wines that improves significantly with extended bottle age. Young Marsanne can be heavy and seemingly simple, but over 10-20+ years it develops remarkable honeyed, nutty, marzipan, and waxy complexity. White Hermitage is considered to age for decades."
+  },
+  {
+    "id": 70,
+    "category": "White Grape Varieties",
+    "question": "In Bordeaux's Sauternes region, which blend of grape varieties is typically used to produce the sweet botrytised wine?",
+    "options": ["100% Sauvignon Blanc", "Sémillon, Sauvignon Blanc, and Muscadelle", "Sémillon and Viognier", "Chenin Blanc and Sauvignon Blanc"],
+    "correctAnswer": 1,
+    "explanation": "Sauternes is typically made from a blend of Sémillon (the dominant variety, highly susceptible to botrytis), Sauvignon Blanc (providing aromatic freshness and acidity), and a small amount of Muscadelle. Sémillon's thin skin makes it particularly vulnerable to noble rot."
+  },
+  {
+    "id": 71,
+    "category": "Sparkling Wines",
+    "question": "What is the secondary fermentation process called in Champagne production, and where does it take place?",
+    "options": ["Charmat method; takes place in large pressurised tanks", "Traditional method (méthode champenoise); takes place in the individual bottle", "Ancestral method; takes place in the bottle using only the original grape sugars", "Transfer method; starts in the bottle and is then transferred to a tank"],
+    "correctAnswer": 1,
+    "explanation": "Champagne is made by the traditional method (méthode champenoise or méthode traditionnelle), in which the secondary fermentation takes place inside the individual bottle after the addition of a sugar and yeast solution (liqueur de tirage). This creates CO2 trapped in the wine, creating the bubbles."
+  },
+  {
+    "id": 72,
+    "category": "Sparkling Wines",
+    "question": "What is the minimum time non-vintage (NV) Champagne must be aged on its lees before release?",
+    "options": ["6 months", "12 months", "15 months", "36 months"],
+    "correctAnswer": 2,
+    "explanation": "NV Champagne must be aged on its lees for a minimum of 15 months (of which 12 months minimum must be on the lees in bottle). Vintage Champagne requires a minimum of 36 months on the lees. Premium houses often age their NV wines for much longer."
+  },
+  {
+    "id": 73,
+    "category": "Sparkling Wines",
+    "question": "What is the process of 'riddling' (remuage) in Champagne production?",
+    "options": ["Adding the dosage to adjust sweetness before final corking", "The gradual turning and tilting of bottles (traditionally by hand in a pupitre) to move the lees sediment into the neck for disgorging", "Freezing the neck of the bottle to remove the lees plug", "The first racking of the base wine before secondary fermentation"],
+    "correctAnswer": 1,
+    "explanation": "Riddling (remuage) is the process of gradually tilting and rotating bottles so that the sediment (dead yeast cells from the secondary fermentation) collects in the neck of the bottle. Traditionally done by hand in a pupitre over 6-8 weeks, it is now mostly done mechanically in gyropalettes."
+  },
+  {
+    "id": 74,
+    "category": "Sparkling Wines",
+    "question": "Which term describes the process of removing the lees sediment from a Champagne bottle?",
+    "options": ["Dosage", "Riddling", "Disgorgement (dégorgement)", "Tirage"],
+    "correctAnswer": 2,
+    "explanation": "Disgorgement (dégorgement) is the removal of the yeast sediment from the bottle neck. The neck is frozen, forming a plug of ice containing the sediment. The pressure in the bottle ejects the ice plug when the crown cap is removed, and the wine is then topped up with the dosage."
+  },
+  {
+    "id": 75,
+    "category": "Sparkling Wines",
+    "question": "What is the 'dosage' in Champagne production?",
+    "options": ["The addition of sugar and yeast to initiate secondary fermentation", "A mixture of wine and sugar (liqueur d'expédition) added after disgorgement to adjust the final sweetness level", "The measurement of dissolved CO2 pressure in the finished wine", "The proportion of reserve wines added to the NV blend"],
+    "correctAnswer": 1,
+    "explanation": "After disgorgement, a small amount of wine is lost with the ice plug. The dosage (liqueur d'expédition) — a mixture of wine and cane sugar — is added to top up the bottle and determine the final sweetness level (e.g. Brut, Extra Brut, Demi-Sec)."
+  },
+  {
+    "id": 76,
+    "category": "Sparkling Wines",
+    "question": "How much residual sugar is permitted in a 'Brut' Champagne?",
+    "options": ["0-3 g/L", "0-6 g/L", "Up to 12 g/L", "12-17 g/L"],
+    "correctAnswer": 2,
+    "explanation": "Brut Champagne is permitted to contain up to 12 g/L of residual sugar. Extra Brut is 0-6 g/L, Brut Nature/Zero Dosage is 0-3 g/L, and Demi-Sec is 32-50 g/L. Despite up to 12 g/L being allowed for Brut, the high acidity makes it taste dry."
+  },
+  {
+    "id": 77,
+    "category": "Sparkling Wines",
+    "question": "Which three grape varieties are the main grapes used in Champagne production?",
+    "options": ["Chardonnay, Sauvignon Blanc, and Pinot Meunier", "Chardonnay, Pinot Noir, and Pinot Meunier", "Chardonnay, Pinot Noir, and Pinot Gris", "Pinot Noir, Pinot Meunier, and Pinot Blanc"],
+    "correctAnswer": 1,
+    "explanation": "The three main Champagne grapes are Chardonnay (providing freshness, elegance, and ageing potential), Pinot Noir (structure, body, and red fruit character), and Pinot Meunier (approachability, roundness, and youthful fruit). Several other varieties are permitted but rarely used."
+  },
+  {
+    "id": 78,
+    "category": "Sparkling Wines",
+    "question": "What distinguishes a 'Blanc de Noirs' Champagne from a standard Champagne blend?",
+    "options": ["It is made from only white grapes (Chardonnay)", "It is made from only black-skinned grapes (Pinot Noir and/or Pinot Meunier), producing a white wine", "It contains a higher proportion of red wine in the blend to create colour", "It must be made by a grower rather than a house (récoltant manipulant)"],
+    "correctAnswer": 1,
+    "explanation": "Blanc de Noirs is a white Champagne made entirely from black-skinned grapes — Pinot Noir and/or Pinot Meunier. The juice is separated quickly from the skins to avoid colour extraction. These wines tend to be fuller-bodied with red fruit character compared to Blanc de Blancs."
+  },
+  {
+    "id": 79,
+    "category": "Sparkling Wines",
+    "question": "How is rosé Champagne most commonly produced?",
+    "options": ["Only by direct pressing of red grapes (saignée method)", "Either by blending a small amount of still red Pinot Noir wine into the white base wine, or by brief skin contact (saignée)", "By adding red grape juice after disgorgement as part of the dosage", "By co-fermenting Pinot Noir and Chardonnay together with skin contact"],
+    "correctAnswer": 1,
+    "explanation": "Rosé Champagne can be made either by blending a small amount of still red Pinot Noir (from villages like Bouzy or Aÿ) into the white base blend before secondary fermentation, or by the saignée method (brief skin maceration). Blending is the more common commercial method and is permitted in Champagne unlike in most other rosé wine production."
+  },
+  {
+    "id": 80,
+    "category": "Sparkling Wines",
+    "question": "What is the key difference between a vintage Champagne and a non-vintage (NV) Champagne?",
+    "options": ["Vintage Champagne uses only Chardonnay; NV uses all three grape varieties", "NV Champagne is blended from multiple years' harvests to achieve a consistent house style; vintage Champagne is made from a single declared year's grapes", "Vintage Champagne is always made by growers; NV is made only by large houses", "NV Champagne cannot be aged; vintage Champagne must be drunk immediately"],
+    "correctAnswer": 1,
+    "explanation": "NV Champagne is a blend of grapes from multiple vintages (including reserve wines from previous years) to maintain a consistent house style regardless of vintage variation. Vintage Champagne is made only from grapes harvested in a single, declared high-quality year and must be aged on lees for at least 36 months."
+  },
+  {
+    "id": 81,
+    "category": "Sparkling Wines",
+    "question": "What is a 'prestige cuvée' Champagne, and can you name two famous examples?",
+    "options": ["A basic entry-level Champagne from a large house; examples include Moët Impérial and Veuve Clicquot Yellow Label", "A top-of-range, usually vintage Champagne representing a house's finest wines; examples include Dom Pérignon and Cristal", "A Champagne made exclusively for the restaurant trade; examples include Club des Sommeliers", "A cooperative-made Champagne sold under the restaurant's own label"],
+    "correctAnswer": 1,
+    "explanation": "Prestige cuvées are the flagship, top-quality wines from Champagne houses, typically vintage dated, made from the best vineyard parcels, and commanding premium prices. Famous examples include Moët & Chandon's Dom Pérignon, Louis Roederer's Cristal, Pol Roger's Sir Winston Churchill, and Laurent-Perrier's Grand Siècle."
+  },
+  {
+    "id": 82,
+    "category": "Sparkling Wines",
+    "question": "What term describes a Champagne produced by the grower who grows the grapes, as opposed to a large house that buys in grapes?",
+    "options": ["Négociant Manipulant (NM)", "Récoltant Manipulant (RM)", "Coopérative de Manipulation (CM)", "Marque d'Acheteur (MA)"],
+    "correctAnswer": 1,
+    "explanation": "RM (Récoltant Manipulant) indicates a grower Champagne — the producer grows their own grapes and makes their own wine. NM (Négociant Manipulant) refers to the large houses that buy grapes from growers. These codes appear on the Champagne label."
+  },
+  {
+    "id": 83,
+    "category": "Sparkling Wines",
+    "question": "Crémant is the term used for traditional method sparkling wines made in various French regions outside Champagne. Which of the following is NOT a recognised Crémant AOC?",
+    "options": ["Crémant d'Alsace", "Crémant de Bourgogne", "Crémant de Bordeaux", "Crémant de Provence"],
+    "correctAnswer": 3,
+    "explanation": "Recognised Crémant AOCs include Crémant d'Alsace, Crémant de Bourgogne, Crémant de Loire, Crémant de Bordeaux, Crémant du Jura, Crémant de Limoux, Crémant de Die, and Crémant de Savoie. There is no Crémant de Provence appellation."
+  },
+  {
+    "id": 84,
+    "category": "Sparkling Wines",
+    "question": "Cava, Spain's traditional method sparkling wine, is made primarily from which three indigenous grape varieties?",
+    "options": ["Tempranillo, Garnacha, and Monastrell", "Macabeo, Xarel·lo, and Parellada", "Chardonnay, Pinot Noir, and Macabeo", "Viura, Verdejo, and Albariño"],
+    "correctAnswer": 1,
+    "explanation": "Cava is traditionally made from the indigenous Catalan varieties Macabeo (also called Viura), Xarel·lo, and Parellada. Chardonnay and Pinot Noir are also now permitted, and rosé Cava can be made from Garnacha, Monastrell, Trepat, and Pinot Noir."
+  },
+  {
+    "id": 85,
+    "category": "Sparkling Wines",
+    "question": "Most Cava is produced in which Spanish region?",
+    "options": ["La Rioja", "Andalucía", "Penedès, Catalonia", "Galicia"],
+    "correctAnswer": 2,
+    "explanation": "The vast majority of Cava is produced in the Penedès region of Catalonia, centred on the town of Sant Sadurní d'Anoia. While Cava can technically be produced in several Spanish regions, Catalonia accounts for over 95% of production."
+  },
+  {
+    "id": 86,
+    "category": "Sparkling Wines",
+    "question": "Prosecco DOC and Prosecco DOCG (Conegliano Valdobbiadene) are produced using which production method?",
+    "options": ["Traditional method (secondary fermentation in bottle)", "Charmat method (secondary fermentation in pressurised tank)", "Ancestral method (single fermentation completing in bottle)", "Transfer method (secondary fermentation in bottle, then transferred to tank)"],
+    "correctAnswer": 1,
+    "explanation": "Prosecco is made using the Charmat (or tank) method, in which the secondary fermentation takes place in large pressurised stainless steel tanks. This preserves Prosecco's fresh, fruity character (green apple, pear, white peach) and is more cost-effective than the traditional method."
+  },
+  {
+    "id": 87,
+    "category": "Sparkling Wines",
+    "question": "What is the primary grape variety used in Prosecco production?",
+    "options": ["Pinot Grigio", "Trebbiano", "Glera", "Garganega"],
+    "correctAnswer": 2,
+    "explanation": "Prosecco must be made from a minimum of 85% Glera (formerly known as Prosecco — the grape was renamed to the village of Prosecco to protect the appellation name). Up to 15% of other permitted varieties can be added."
+  },
+  {
+    "id": 88,
+    "category": "Sparkling Wines",
+    "question": "What is the key difference between Prosecco DOC and Prosecco DOCG (Conegliano Valdobbiadene)?",
+    "options": ["DOC is made by the traditional method; DOCG uses the Charmat method", "DOCG covers a much larger production area across northeast Italy; DOC is limited to a small zone", "DOCG (Conegliano Valdobbiadene) is a smaller, more geographically specific zone in the hills of Veneto with stricter quality requirements than the broader DOC", "DOC Prosecco must be vintage-dated; DOCG can be non-vintage"],
+    "correctAnswer": 2,
+    "explanation": "Prosecco DOCG (Conegliano Valdobbiadene Prosecco Superiore) covers the original, higher-quality hillside zone in Veneto with stricter regulations. Prosecco DOC covers a much larger zone across Veneto and Friuli. Both use the Charmat method, but the DOCG is considered superior in quality."
+  },
+  {
+    "id": 89,
+    "category": "Sparkling Wines",
+    "question": "English sparkling wine has gained considerable prestige. What climate factor makes southern England particularly suited to traditional method sparkling wine production?",
+    "options": ["A hot, dry Mediterranean climate producing very ripe grapes", "A cool climate with chalky soils (similar to Champagne), producing high-acid grapes ideal for traditional method sparkling wine", "High rainfall ensuring consistent grape ripeness without irrigation", "Sandy soils preserving warmth and producing very ripe, full-bodied grapes"],
+    "correctAnswer": 1,
+    "explanation": "Southern England has a cool, marginal climate and, in parts (notably East Sussex, Hampshire, and Kent), shares the same chalk and greensand soils as the Champagne region. This produces high-acid, low-sugar grapes perfect for traditional method sparkling wine. English sparkling wine is typically made from Chardonnay, Pinot Noir, and Pinot Meunier."
+  },
+  {
+    "id": 90,
+    "category": "Sparkling Wines",
+    "question": "Franciacorta DOCG in Lombardy, Italy, is significant because it produces traditional method sparkling wine by what specific distinction compared to Prosecco?",
+    "options": ["It uses the Charmat method but requires longer tank ageing", "It is Italy's most prestigious traditional method (méthode classique) sparkling wine DOCG, with stricter ageing requirements than basic Champagne NV", "It uses an ancestral method with a single fermentation", "It is produced exclusively from international varieties like Chardonnay and Pinot Noir, unlike Prosecco"],
+    "correctAnswer": 1,
+    "explanation": "Franciacorta is made by the traditional method and is often called 'Italy's answer to Champagne'. It uses Chardonnay, Pinot Noir, and Pinot Blanc. Non-vintage Franciacorta requires 18 months on lees (vs 15 for Champagne NV), and vintage requires 30 months."
+  },
+  {
+    "id": 91,
+    "category": "Sparkling Wines",
+    "question": "Sekt is Germany's sparkling wine. What term is used for a premium German Sekt that must be made in Germany from German grapes using the traditional method?",
+    "options": ["Qualitätssekt", "Winzersekt", "Deutscher Sekt bA", "Crémant Deutschland"],
+    "correctAnswer": 2,
+    "explanation": "Deutscher Sekt bA (bestimmter Anbaugebiete) is a quality category of Sekt that must be produced from grapes grown in one of Germany's 13 specified wine regions. Winzersekt refers to estate-produced traditional method Sekt. Much standard Sekt is made from imported base wines using the Charmat method."
+  },
+  {
+    "id": 92,
+    "category": "Sparkling Wines",
+    "question": "Méthode Cap Classique (MCC) is the term used in South Africa for which type of sparkling wine production?",
+    "options": ["Charmat method sparkling wine similar to Prosecco", "Traditional method sparkling wine made in South Africa with secondary fermentation in the bottle", "Ancestral method sparkling wine with residual grape sugar", "Tank-fermented sparkling wine from the Cape region"],
+    "correctAnswer": 1,
+    "explanation": "Méthode Cap Classique (MCC) is South Africa's designation for traditional method sparkling wine made with secondary fermentation in the bottle — equivalent to Crémant in France or Cava in Spain. Producers include Graham Beck and Simonsig, and Chardonnay and Pinot Noir are the main varieties."
+  },
+  {
+    "id": 93,
+    "category": "Sparkling Wines",
+    "question": "What is the ancestral method (méthode ancestrale or pétillant naturel) of sparkling wine production?",
+    "options": ["A modern technique using high-pressure tanks to carbonate still wine", "The oldest method of making sparkling wine, in which the wine is bottled before fermentation is complete, so CO2 is trapped in the bottle by the ongoing fermentation with no secondary fermentation or disgorgement", "A form of the traditional method that uses old wooden barrels for secondary fermentation", "A process where grapes are frozen to concentrate sugar before fermentation"],
+    "correctAnswer": 1,
+    "explanation": "The ancestral method is considered the oldest sparkling wine technique. Wine is bottled partway through its first (and only) fermentation; the remaining sugar ferments in the bottle, trapping CO2. There is no secondary fermentation, and usually no disgorgement, so the wines can be slightly cloudy. They are often called 'pét nat' and tend to have lower pressure and less bubbles."
+  },
+  {
+    "id": 94,
+    "category": "Sparkling Wines",
+    "question": "What pressure (in atmospheres/bar) is typically found in a bottle of Champagne?",
+    "options": ["1-2 bar", "3-4 bar", "5-6 bar", "7-8 bar"],
+    "correctAnswer": 2,
+    "explanation": "A standard bottle of Champagne contains approximately 5-6 atmospheres (bar) of pressure — roughly 3 times the pressure of a car tyre. Crémant and other traditional method sparkling wines can have slightly less (around 3.5-4.5 bar), while pétillant naturel wines have much lower pressure (1-2.5 bar)."
+  },
+  {
+    "id": 95,
+    "category": "Sparkling Wines",
+    "question": "What does 'Extra Brut' indicate on a Champagne label in terms of sweetness and residual sugar?",
+    "options": ["0-6 g/L of residual sugar — a very dry style", "6-12 g/L — slightly less dry than Brut", "12-17 g/L — slightly sweet", "32-50 g/L — notably sweet"],
+    "correctAnswer": 0,
+    "explanation": "Extra Brut Champagne contains between 0-6 g/L of residual sugar, making it drier than standard Brut (up to 12 g/L). 'Brut Nature' or 'Zero Dosage' is even drier at 0-3 g/L with no added sugar at all."
+  },
+  {
+    "id": 96,
+    "category": "Sparkling Wines",
+    "question": "The transfer method for producing sparkling wine involves secondary fermentation in the bottle followed by an additional step. What is this step?",
+    "options": ["The wine is riddled and disgorged in the same way as traditional method", "The wine is emptied from the bottle into a pressurised tank, filtered, blended, and rebottled — avoiding the need for individual riddling and disgorgement", "The sediment is removed by freezing the entire bottle", "The bottles are sealed with a cork rather than a crown cap for secondary fermentation"],
+    "correctAnswer": 1,
+    "explanation": "In the transfer method, secondary fermentation takes place in the individual bottle (like traditional method), but then the wine is transferred under pressure to a tank, filtered to remove the lees, and then rebottled. This allows some benefits of bottle fermentation (complexity) without the labour of riddling/disgorgement. Many Australian and New Zealand sparkling wines use this method."
+  },
+  {
+    "id": 97,
+    "category": "Sparkling Wines",
+    "question": "Demi-Sec Champagne contains approximately how much residual sugar?",
+    "options": ["0-6 g/L", "Up to 12 g/L", "17-32 g/L", "32-50 g/L"],
+    "correctAnswer": 3,
+    "explanation": "Demi-Sec Champagne contains 32-50 g/L of residual sugar, making it noticeably sweet. Despite the name ('half dry'), it is clearly sweet and is often paired with desserts or fruit-based dishes. Doux (above 50 g/L) is even sweeter and rarely produced."
+  },
+  {
+    "id": 98,
+    "category": "Sparkling Wines",
+    "question": "Which of the following is the correct description of the Charmat (tank) method for sparkling wine production?",
+    "options": ["The secondary fermentation takes place in individual bottles, and the wine is riddled and disgorged", "The secondary fermentation takes place in large pressurised stainless steel tanks, and the wine is filtered and bottled under pressure", "The wine is carbonated directly by injecting CO2, similar to how soft drinks are made", "Fermentation begins in the bottle but is completed in a tank after transfer"],
+    "correctAnswer": 1,
+    "explanation": "The Charmat (or Cuve Close or tank) method involves a second fermentation taking place in large, sealed pressurised stainless steel tanks. The wine is then filtered and bottled under pressure, retaining the CO2. This is faster and less expensive than the traditional method and is ideal for aromatic varieties like Glera (Prosecco) and Muscat."
+  },
+  {
+    "id": 99,
+    "category": "Sparkling Wines",
+    "question": "Prosecco Superiore DOCG includes a single-vineyard sub-category. What is it called?",
+    "options": ["Cru", "Grand Cru", "Rive", "Classico"],
+    "correctAnswer": 2,
+    "explanation": "'Rive' is the term for single-vineyard or single-commune Prosecco Superiore DOCG. 'Rive' means 'steep hillside' in the local dialect. Rive wines must be vintage-dated, made from hand-harvested grapes, and have stricter minimum residual sugar levels for dry styles. Cartizze is the prestigious single-vineyard Grand Cru within Valdobbiadene."
+  },
+  {
+    "id": 100,
+    "category": "Sparkling Wines",
+    "question": "Ageing Champagne on its lees (dead yeast cells) contributes which of the following flavour characteristics through a process called autolysis?",
+    "options": ["Floral, fruity aromas that replace the primary grape character", "Bready, biscuity, toasty notes (brioche, pastry, cream) that add complexity to the wine", "A significant increase in residual sugar giving a sweeter finish", "Higher acidity and a more austere, lean style"],
+    "correctAnswer": 1,
+    "explanation": "Autolysis is the breakdown of the dead yeast cells (lees) over time, releasing compounds that add bready, biscuity, creamy, and toasty flavours to the Champagne. The longer the wine remains on its lees, the more pronounced these tertiary characters become — which is why vintage and prestige cuvée Champagnes are aged for many years."
+  }
+]

@@ -7,5 +7,6 @@ export interface Question {
   explanation: string;
 }
 
+export type WsetLevel = "level1" | "level2";
 export type QuizMode = "all" | "category";
 export type QuizState = "setup" | "quiz" | "results";

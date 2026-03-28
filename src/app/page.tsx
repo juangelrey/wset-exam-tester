@@ -1,14 +1,20 @@
 "use client";
 
 import { useState, useMemo, useCallback } from "react";
-import questionsData from "@/data/questions.json";
-import { Question } from "@/types/quiz";
+import level1Data from "@/data/questions.json";
+import level2Data from "@/data/questions-l2.json";
+import { Question, WsetLevel } from "@/types/quiz";
 import QuizSetup from "@/components/QuizSetup";
 import QuizQuestion from "@/components/QuizQuestion";
 import QuizResults from "@/components/QuizResults";
 import QuizReview from "@/components/QuizReview";
 
 type Screen = "setup" | "quiz" | "results" | "review";
+
+const questionsByLevel: Record<WsetLevel, Question[]> = {
+  level1: level1Data as Question[],
+  level2: level2Data as Question[],
+};
 
 function shuffle<T>(array: T[]): T[] {
   const arr = [...array];
@@ -20,7 +26,8 @@ function shuffle<T>(array: T[]): T[] {
 }
 
 export default function Home() {
-  const allQuestions = questionsData as Question[];
+  const [level, setLevel] = useState<WsetLevel>("level1");
+  const allQuestions = questionsByLevel[level];
 
   const categories = useMemo(() => {
     return [...new Set(allQuestions.map((q) => q.category))];
@@ -72,6 +79,8 @@ export default function Home() {
         <QuizSetup
           categories={categories}
           questions={allQuestions}
+          level={level}
+          onLevelChange={setLevel}
           onStart={handleStart}
         />
       )}
