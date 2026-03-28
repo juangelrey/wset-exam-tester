@@ -1,18 +1,21 @@
 "use client";
 
-import { Question, WsetLevel } from "@/types/quiz";
+import { Question, WsetLevel, Language } from "@/types/quiz";
+import { Translations } from "@/data/translations";
+import { useState } from "react";
 
 interface QuizSetupProps {
   categories: string[];
   questions: Question[];
   level: WsetLevel;
+  language: Language;
   onLevelChange: (level: WsetLevel) => void;
+  onLanguageChange: (language: Language) => void;
   onStart: (selectedCategories: string[], questionCount: number) => void;
+  translations: Translations;
 }
 
-import { useState } from "react";
-
-export default function QuizSetup({ categories, questions, level, onLevelChange, onStart }: QuizSetupProps) {
+export default function QuizSetup({ categories, questions, level, language, onLevelChange, onLanguageChange, onStart, translations }: QuizSetupProps) {
   const [selectedCategories, setSelectedCategories] = useState<string[]>([]);
   const [questionCount, setQuestionCount] = useState(20);
 
@@ -39,17 +42,48 @@ export default function QuizSetup({ categories, questions, level, onLevelChange,
     <div className="max-w-2xl mx-auto">
       <div className="text-center mb-8">
         <h1 className="text-3xl sm:text-4xl font-bold text-accent mb-2">
-          {level === "level1" ? "WSET Level 1" : "WSET Level 2"}
+          {level === "level1" ? translations.level1Title : translations.level2Title}
         </h1>
         <p className="text-lg text-muted">
-          {level === "level1"
-            ? "Award in Wines — Practice Exam"
-            : "Award in Wines and Spirits — Practice Exam"}
+          {level === "level1" ? translations.level1Subtitle : translations.level2Subtitle}
         </p>
       </div>
 
+      {/* Language selector */}
       <div className="bg-card-bg rounded-2xl shadow-sm border border-border p-6 mb-6">
-        <h2 className="text-lg font-semibold mb-4">Select Level</h2>
+        <h2 className="text-lg font-semibold mb-4">{translations.selectLanguage}</h2>
+        <div className="grid grid-cols-2 gap-3">
+          <button
+            onClick={() => {
+              onLanguageChange("en");
+              setSelectedCategories([]);
+            }}
+            className={`px-4 py-3 rounded-xl border text-sm font-medium transition-all ${
+              language === "en"
+                ? "bg-accent text-white border-accent"
+                : "bg-card-bg border-border hover:border-accent-light"
+            }`}
+          >
+            English
+          </button>
+          <button
+            onClick={() => {
+              onLanguageChange("es");
+              setSelectedCategories([]);
+            }}
+            className={`px-4 py-3 rounded-xl border text-sm font-medium transition-all ${
+              language === "es"
+                ? "bg-accent text-white border-accent"
+                : "bg-card-bg border-border hover:border-accent-light"
+            }`}
+          >
+            Español
+          </button>
+        </div>
+      </div>
+
+      <div className="bg-card-bg rounded-2xl shadow-sm border border-border p-6 mb-6">
+        <h2 className="text-lg font-semibold mb-4">{translations.selectLevel}</h2>
         <div className="grid grid-cols-2 gap-3">
           <button
             onClick={() => {
@@ -62,8 +96,8 @@ export default function QuizSetup({ categories, questions, level, onLevelChange,
                 : "bg-card-bg border-border hover:border-accent-light"
             }`}
           >
-            Level 1
-            <span className="block text-xs mt-1 opacity-80">Foundations</span>
+            {translations.level1Label}
+            <span className="block text-xs mt-1 opacity-80">{translations.foundations}</span>
           </button>
           <button
             onClick={() => {
@@ -76,16 +110,16 @@ export default function QuizSetup({ categories, questions, level, onLevelChange,
                 : "bg-card-bg border-border hover:border-accent-light"
             }`}
           >
-            Level 2
-            <span className="block text-xs mt-1 opacity-80">Intermediate</span>
+            {translations.level2Label}
+            <span className="block text-xs mt-1 opacity-80">{translations.intermediate}</span>
           </button>
         </div>
       </div>
 
       <div className="bg-card-bg rounded-2xl shadow-sm border border-border p-6 mb-6">
-        <h2 className="text-lg font-semibold mb-4">Select Topics</h2>
+        <h2 className="text-lg font-semibold mb-4">{translations.selectTopics}</h2>
         <p className="text-sm text-muted mb-4">
-          Leave all unselected to include every topic, or pick specific ones.
+          {translations.topicsHint}
         </p>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
           {categories.map((cat) => (
@@ -110,13 +144,13 @@ export default function QuizSetup({ categories, questions, level, onLevelChange,
             onClick={selectAll}
             className="mt-3 text-sm text-accent underline hover:no-underline"
           >
-            Clear selection (use all topics)
+            {translations.clearSelection}
           </button>
         )}
       </div>
 
       <div className="bg-card-bg rounded-2xl shadow-sm border border-border p-6 mb-6">
-        <h2 className="text-lg font-semibold mb-4">Number of Questions</h2>
+        <h2 className="text-lg font-semibold mb-4">{translations.numberOfQuestions}</h2>
         <div className="flex items-center gap-4">
           <input
             type="range"
@@ -131,7 +165,7 @@ export default function QuizSetup({ categories, questions, level, onLevelChange,
           </span>
         </div>
         <p className="text-sm text-muted mt-2">
-          {maxQuestions} questions available
+          {maxQuestions} {translations.questionsAvailable}
         </p>
       </div>
 
@@ -139,7 +173,7 @@ export default function QuizSetup({ categories, questions, level, onLevelChange,
         onClick={() => onStart(selectedCategories, Math.min(questionCount, maxQuestions))}
         className="w-full py-4 bg-accent hover:bg-accent-light text-white rounded-2xl text-lg font-semibold transition-colors shadow-sm"
       >
-        Start Quiz
+        {translations.startQuiz}
       </button>
     </div>
   );

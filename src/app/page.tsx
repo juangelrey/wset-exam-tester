@@ -3,7 +3,10 @@
 import { useState, useMemo, useCallback } from "react";
 import level1Data from "@/data/questions.json";
 import level2Data from "@/data/questions-l2.json";
-import { Question, WsetLevel } from "@/types/quiz";
+import level1DataEs from "@/data/questions-es.json";
+import level2DataEs from "@/data/questions-l2-es.json";
+import { Question, WsetLevel, Language } from "@/types/quiz";
+import { t } from "@/data/translations";
 import QuizSetup from "@/components/QuizSetup";
 import QuizQuestion from "@/components/QuizQuestion";
 import QuizResults from "@/components/QuizResults";
@@ -11,9 +14,15 @@ import QuizReview from "@/components/QuizReview";
 
 type Screen = "setup" | "quiz" | "results" | "review";
 
-const questionsByLevel: Record<WsetLevel, Question[]> = {
-  level1: level1Data as Question[],
-  level2: level2Data as Question[],
+const questionsByLevelAndLang: Record<Language, Record<WsetLevel, Question[]>> = {
+  en: {
+    level1: level1Data as Question[],
+    level2: level2Data as Question[],
+  },
+  es: {
+    level1: level1DataEs as Question[],
+    level2: level2DataEs as Question[],
+  },
 };
 
 function shuffle<T>(array: T[]): T[] {
@@ -27,7 +36,9 @@ function shuffle<T>(array: T[]): T[] {
 
 export default function Home() {
   const [level, setLevel] = useState<WsetLevel>("level1");
-  const allQuestions = questionsByLevel[level];
+  const [language, setLanguage] = useState<Language>("en");
+  const allQuestions = questionsByLevelAndLang[language][level];
+  const translations = t(language);
 
   const categories = useMemo(() => {
     return [...new Set(allQuestions.map((q) => q.category))];
@@ -80,8 +91,11 @@ export default function Home() {
           categories={categories}
           questions={allQuestions}
           level={level}
+          language={language}
           onLevelChange={setLevel}
+          onLanguageChange={setLanguage}
           onStart={handleStart}
+          translations={translations}
         />
       )}
 
@@ -93,6 +107,7 @@ export default function Home() {
           totalQuestions={quizQuestions.length}
           onAnswer={handleAnswer}
           onNext={handleNext}
+          translations={translations}
         />
       )}
 
@@ -100,8 +115,10 @@ export default function Home() {
         <QuizResults
           questions={quizQuestions}
           answers={answers}
+          level={level}
           onRestart={handleRestart}
           onReview={() => setScreen("review")}
+          translations={translations}
         />
       )}
 
@@ -110,6 +127,7 @@ export default function Home() {
           questions={quizQuestions}
           answers={answers}
           onBack={() => setScreen("results")}
+          translations={translations}
         />
       )}
     </main>

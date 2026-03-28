@@ -1,23 +1,25 @@
 "use client";
 
 import { Question } from "@/types/quiz";
+import { Translations } from "@/data/translations";
 
 interface QuizReviewProps {
   questions: Question[];
   answers: number[];
   onBack: () => void;
+  translations: Translations;
 }
 
-export default function QuizReview({ questions, answers, onBack }: QuizReviewProps) {
+export default function QuizReview({ questions, answers, onBack, translations }: QuizReviewProps) {
   return (
     <div className="max-w-2xl mx-auto">
       <div className="flex items-center justify-between mb-6">
-        <h1 className="text-2xl font-bold text-accent">Review Answers</h1>
+        <h1 className="text-2xl font-bold text-accent">{translations.reviewAnswers}</h1>
         <button
           onClick={onBack}
           className="px-4 py-2 text-sm font-medium bg-card-bg border border-border rounded-xl hover:border-accent transition-colors"
         >
-          Back to Results
+          {translations.backToResults}
         </button>
       </div>
 
@@ -76,7 +78,7 @@ export default function QuizReview({ questions, answers, onBack }: QuizReviewPro
         onClick={onBack}
         className="w-full mt-6 py-4 bg-accent hover:bg-accent-light text-white rounded-2xl text-lg font-semibold transition-colors shadow-sm"
       >
-        Back to Results
+        {translations.backToResults}
       </button>
     </div>
   );

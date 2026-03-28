@@ -1,19 +1,24 @@
 "use client";
 
-import { Question } from "@/types/quiz";
+import { Question, WsetLevel } from "@/types/quiz";
+import { Translations } from "@/data/translations";
 
 interface QuizResultsProps {
   questions: Question[];
   answers: number[];
+  level: WsetLevel;
   onRestart: () => void;
   onReview: () => void;
+  translations: Translations;
 }
 
 export default function QuizResults({
   questions,
   answers,
+  level,
   onRestart,
   onReview,
+  translations,
 }: QuizResultsProps) {
   const correctCount = questions.filter(
     (q, i) => answers[i] === q.correctAnswer
@@ -31,11 +36,13 @@ export default function QuizResults({
     return acc;
   }, {});
 
+  const levelLabel = level === "level1" ? translations.level1Title : translations.level2Title;
+
   return (
     <div className="max-w-2xl mx-auto">
       <div className="text-center mb-8">
         <h1 className="text-3xl sm:text-4xl font-bold text-accent mb-2">
-          Quiz Complete
+          {translations.quizComplete}
         </h1>
       </div>
 
@@ -49,23 +56,23 @@ export default function QuizResults({
           <span className="text-4xl font-bold">{percentage}%</span>
         </div>
         <p className="text-xl font-semibold mb-1">
-          {correctCount} / {questions.length} correct
+          {correctCount} / {questions.length} {translations.correctSuffix}
         </p>
         <p
           className={`text-lg font-medium ${
             passed ? "text-success" : "text-error"
           }`}
         >
-          {passed ? "PASS" : "NEEDS MORE PRACTICE"}
+          {passed ? translations.pass : translations.needsMorePractice}
         </p>
         <p className="text-sm text-muted mt-2">
-          WSET Level 1 pass mark: 70%
+          {levelLabel} {translations.passMarkLabel}
         </p>
       </div>
 
       {/* Category breakdown */}
       <div className="bg-card-bg rounded-2xl shadow-sm border border-border p-6 mb-6">
-        <h2 className="text-lg font-semibold mb-4">Topic Breakdown</h2>
+        <h2 className="text-lg font-semibold mb-4">{translations.topicBreakdown}</h2>
         <div className="space-y-3">
           {Object.entries(categoryResults).map(([category, result]) => {
             const catPercent = Math.round(
@@ -99,13 +106,13 @@ export default function QuizResults({
           onClick={onReview}
           className="py-4 bg-card-bg border border-border hover:border-accent text-foreground rounded-2xl text-base font-semibold transition-colors"
         >
-          Review Answers
+          {translations.reviewAnswers}
         </button>
         <button
           onClick={onRestart}
           className="py-4 bg-accent hover:bg-accent-light text-white rounded-2xl text-base font-semibold transition-colors shadow-sm"
         >
-          New Quiz
+          {translations.newQuiz}
         </button>
       </div>
     </div>

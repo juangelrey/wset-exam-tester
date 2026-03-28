@@ -1,6 +1,7 @@
 "use client";
 
 import { Question } from "@/types/quiz";
+import { Translations } from "@/data/translations";
 import { useState } from "react";
 
 interface QuizQuestionProps {
@@ -9,6 +10,7 @@ interface QuizQuestionProps {
   totalQuestions: number;
   onAnswer: (selectedIndex: number) => void;
   onNext: () => void;
+  translations: Translations;
 }
 
 export default function QuizQuestion({
@@ -17,6 +19,7 @@ export default function QuizQuestion({
   totalQuestions,
   onAnswer,
   onNext,
+  translations,
 }: QuizQuestionProps) {
   const [selectedAnswer, setSelectedAnswer] = useState<number | null>(null);
   const [hasAnswered, setHasAnswered] = useState(false);
@@ -103,7 +106,7 @@ export default function QuizQuestion({
           }`}
         >
           <p className="font-semibold mb-1">
-            {isCorrect ? "Correct!" : "Incorrect"}
+            {isCorrect ? translations.correct : translations.incorrect}
           </p>
           <p className="text-sm leading-relaxed">{question.explanation}</p>
         </div>
@@ -115,7 +118,7 @@ export default function QuizQuestion({
           onClick={onNext}
           className="w-full py-4 bg-accent hover:bg-accent-light text-white rounded-2xl text-lg font-semibold transition-colors shadow-sm"
         >
-          {questionNumber === totalQuestions ? "See Results" : "Next Question"}
+          {questionNumber === totalQuestions ? translations.seeResults : translations.nextQuestion}
         </button>
       )}
     </div>
