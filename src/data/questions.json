@@ -1,0 +1,642 @@
+[
+  {
+    "id": 1,
+    "category": "Wine Production",
+    "question": "What is the main sugar found in grapes?",
+    "options": ["Sucrose", "Glucose and Fructose", "Lactose", "Maltose"],
+    "correctAnswer": 1,
+    "explanation": "Grapes contain glucose and fructose as their primary sugars. These sugars are converted into alcohol during fermentation."
+  },
+  {
+    "id": 2,
+    "category": "Wine Production",
+    "question": "What does yeast convert grape sugar into during fermentation?",
+    "options": ["Water and carbon dioxide", "Alcohol and carbon dioxide", "Alcohol and oxygen", "Sugar and alcohol"],
+    "correctAnswer": 1,
+    "explanation": "During fermentation, yeast converts the sugars (glucose and fructose) in grape juice into alcohol (ethanol) and carbon dioxide."
+  },
+  {
+    "id": 3,
+    "category": "Wine Production",
+    "question": "At what temperature range is red wine typically fermented?",
+    "options": ["5–10°C", "12–15°C", "20–30°C", "35–40°C"],
+    "correctAnswer": 2,
+    "explanation": "Red wines are typically fermented at warmer temperatures (20–30°C) to extract colour, tannin, and flavour from the grape skins."
+  },
+  {
+    "id": 4,
+    "category": "Wine Production",
+    "question": "At what temperature range is white wine typically fermented?",
+    "options": ["5–10°C", "12–22°C", "25–35°C", "30–40°C"],
+    "correctAnswer": 1,
+    "explanation": "White wines are typically fermented at cooler temperatures (12–22°C) to preserve fresh, fruity aromas."
+  },
+  {
+    "id": 5,
+    "category": "Wine Production",
+    "question": "What is the purpose of maceration in red winemaking?",
+    "options": ["To add sugar to the wine", "To extract colour, tannin and flavour from grape skins", "To remove sediment from the wine", "To stop fermentation"],
+    "correctAnswer": 1,
+    "explanation": "Maceration is the process of soaking grape skins in the juice to extract colour, tannin, and flavour compounds. This is a key step in red winemaking."
+  },
+  {
+    "id": 6,
+    "category": "Wine Production",
+    "question": "What type of vessel is most commonly associated with adding vanilla and toast flavours to wine?",
+    "options": ["Stainless steel tank", "Concrete egg", "Oak barrel", "Glass demijohn"],
+    "correctAnswer": 2,
+    "explanation": "Oak barrels impart flavours such as vanilla, toast, clove, and coconut to wine. New oak has a stronger flavour impact than older barrels."
+  },
+  {
+    "id": 7,
+    "category": "Wine Production",
+    "question": "What is the term for a wine that has completed fermentation and has no residual sugar?",
+    "options": ["Sweet", "Off-dry", "Medium", "Dry"],
+    "correctAnswer": 3,
+    "explanation": "A dry wine is one where all (or nearly all) the sugar has been converted to alcohol during fermentation, leaving no perceptible sweetness."
+  },
+  {
+    "id": 8,
+    "category": "Wine Production",
+    "question": "Which of the following is NOT a reason winemakers use oak?",
+    "options": ["To add flavour", "To add tannin", "To increase acidity", "To allow slow oxidation"],
+    "correctAnswer": 2,
+    "explanation": "Oak is used to add flavour (vanilla, toast), add tannin, and allow slow oxidation to soften the wine. It does not increase acidity."
+  },
+  {
+    "id": 9,
+    "category": "Wine Production",
+    "question": "What gas is produced during fermentation?",
+    "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+    "correctAnswer": 2,
+    "explanation": "Carbon dioxide (CO₂) is a by-product of fermentation. In still wine production it is allowed to escape; in sparkling wine production it is trapped in the wine."
+  },
+  {
+    "id": 10,
+    "category": "Wine Production",
+    "question": "What is 'must' in winemaking?",
+    "options": ["The finished wine", "Freshly pressed grape juice before or during fermentation", "A type of yeast", "The sediment left after fermentation"],
+    "correctAnswer": 1,
+    "explanation": "Must refers to freshly pressed grape juice that contains the skins, seeds, and stems of the fruit. It is the starting material for winemaking."
+  },
+  {
+    "id": 11,
+    "category": "Grape Growing",
+    "question": "What is the ideal climate condition for growing wine grapes?",
+    "options": ["Tropical with heavy rainfall", "Temperate with warm growing season", "Arctic with cold temperatures year-round", "Desert with no rainfall"],
+    "correctAnswer": 1,
+    "explanation": "Wine grapes grow best in temperate climates with a warm growing season, adequate sunshine, and moderate rainfall."
+  },
+  {
+    "id": 12,
+    "category": "Grape Growing",
+    "question": "Between which latitudes are most of the world's vineyards located?",
+    "options": ["0–10° North and South", "10–20° North and South", "30–50° North and South", "60–70° North and South"],
+    "correctAnswer": 2,
+    "explanation": "Most vineyards are located between 30–50° latitude in both hemispheres, where conditions provide the right balance of warmth and sunlight for grape growing."
+  },
+  {
+    "id": 13,
+    "category": "Grape Growing",
+    "question": "What are the main dangers of excessive rainfall for grape vines?",
+    "options": ["Increased sugar levels", "Fungal diseases and dilution of flavours", "Better tannin development", "Higher acidity"],
+    "correctAnswer": 1,
+    "explanation": "Excessive rainfall can lead to fungal diseases (such as rot) and dilute the flavours and sugar concentration in the grapes."
+  },
+  {
+    "id": 14,
+    "category": "Grape Growing",
+    "question": "What is the main role of sunlight in grape ripening?",
+    "options": ["It reduces acidity only", "It helps photosynthesis, which builds sugar in the grapes", "It increases tannin levels", "It reduces alcohol potential"],
+    "correctAnswer": 1,
+    "explanation": "Sunlight drives photosynthesis, which produces sugar in the grapes. More sunshine generally leads to riper grapes with higher sugar levels."
+  },
+  {
+    "id": 15,
+    "category": "Grape Growing",
+    "question": "What happens to acidity levels in grapes as they ripen?",
+    "options": ["Acidity increases", "Acidity decreases", "Acidity stays the same", "Acidity disappears completely"],
+    "correctAnswer": 1,
+    "explanation": "As grapes ripen, their sugar levels increase while their acidity levels decrease. Winemakers must balance these factors when deciding when to harvest."
+  },
+  {
+    "id": 16,
+    "category": "Grape Growing",
+    "question": "What is the term for the annual cycle of vine growth?",
+    "options": ["Fermentation cycle", "Growing season", "Harvest rotation", "Vine lifecycle"],
+    "correctAnswer": 1,
+    "explanation": "The growing season refers to the annual cycle of vine growth, from bud break in spring through flowering, fruit set, ripening (véraison), and harvest."
+  },
+  {
+    "id": 17,
+    "category": "Grape Growing",
+    "question": "What is 'véraison'?",
+    "options": ["The moment grapes are harvested", "The onset of grape ripening when grapes change colour", "A type of grape disease", "The process of crushing grapes"],
+    "correctAnswer": 1,
+    "explanation": "Véraison is the onset of ripening when grapes change colour — red grapes turn from green to purple, and white grapes become more translucent and golden."
+  },
+  {
+    "id": 18,
+    "category": "Grape Growing",
+    "question": "Which of these is a risk of frost for vineyards?",
+    "options": ["It improves grape quality", "It can kill buds and reduce the crop", "It increases sugar levels", "It prevents fungal disease"],
+    "correctAnswer": 1,
+    "explanation": "Frost, especially spring frost after bud break, can kill young buds and shoots, significantly reducing or destroying the potential crop."
+  },
+  {
+    "id": 19,
+    "category": "Grape Varieties",
+    "question": "Which grape variety is known for high tannin and is the main grape of red Bordeaux?",
+    "options": ["Pinot Noir", "Merlot", "Cabernet Sauvignon", "Gamay"],
+    "correctAnswer": 2,
+    "explanation": "Cabernet Sauvignon is known for its deep colour, high tannin, and flavours of blackcurrant and cedar. It is one of the primary grapes of red Bordeaux blends."
+  },
+  {
+    "id": 20,
+    "category": "Grape Varieties",
+    "question": "Which white grape variety is most associated with Burgundy?",
+    "options": ["Sauvignon Blanc", "Riesling", "Chardonnay", "Pinot Grigio"],
+    "correctAnswer": 2,
+    "explanation": "Chardonnay is the primary white grape of Burgundy. It is versatile, producing styles ranging from crisp and unoaked to rich and oak-aged."
+  },
+  {
+    "id": 21,
+    "category": "Grape Varieties",
+    "question": "Which grape variety is known for aromas of gooseberry and cut grass?",
+    "options": ["Chardonnay", "Sauvignon Blanc", "Riesling", "Viognier"],
+    "correctAnswer": 1,
+    "explanation": "Sauvignon Blanc is known for its distinctive aromas of gooseberry, cut grass, passion fruit, and green bell pepper."
+  },
+  {
+    "id": 22,
+    "category": "Grape Varieties",
+    "question": "Which red grape is the key variety used in Beaujolais?",
+    "options": ["Cabernet Sauvignon", "Syrah", "Gamay", "Merlot"],
+    "correctAnswer": 2,
+    "explanation": "Gamay is the grape of Beaujolais, producing light-bodied, fruity red wines with low tannin and flavours of strawberry and raspberry."
+  },
+  {
+    "id": 23,
+    "category": "Grape Varieties",
+    "question": "Pinot Noir is best known as the red grape of which French region?",
+    "options": ["Bordeaux", "Rhône Valley", "Burgundy", "Loire Valley"],
+    "correctAnswer": 2,
+    "explanation": "Pinot Noir is the primary red grape of Burgundy, where it produces elegant, medium-bodied wines with flavours of red fruits, earth, and spice."
+  },
+  {
+    "id": 24,
+    "category": "Grape Varieties",
+    "question": "Which grape variety is known for its floral aromas and is widely grown in Germany?",
+    "options": ["Chardonnay", "Sauvignon Blanc", "Riesling", "Sémillon"],
+    "correctAnswer": 2,
+    "explanation": "Riesling is widely grown in Germany and Alsace. It is known for its floral aromas, high acidity, and ability to produce wines in a range of sweetness levels."
+  },
+  {
+    "id": 25,
+    "category": "Grape Varieties",
+    "question": "Merlot is often described as having which of the following characteristics?",
+    "options": ["Very high tannin and austere", "Soft, round, with plum and red fruit flavours", "Extremely high acidity", "Light colour and low alcohol"],
+    "correctAnswer": 1,
+    "explanation": "Merlot is known for its soft, round texture and flavours of plum, red fruits, and chocolate. It generally has softer tannins than Cabernet Sauvignon."
+  },
+  {
+    "id": 26,
+    "category": "Grape Varieties",
+    "question": "Syrah/Shiraz is known for producing wines with which character?",
+    "options": ["Light, delicate, and floral", "Full-bodied with dark fruit and pepper/spice notes", "High acidity with citrus flavours", "Low alcohol and residual sugar"],
+    "correctAnswer": 1,
+    "explanation": "Syrah (Shiraz) produces full-bodied, deeply coloured red wines with flavours of dark fruits (blackberry, plum), black pepper, and spice."
+  },
+  {
+    "id": 27,
+    "category": "Grape Varieties",
+    "question": "Which of these grape varieties is white?",
+    "options": ["Merlot", "Tempranillo", "Pinot Grigio", "Cabernet Sauvignon"],
+    "correctAnswer": 2,
+    "explanation": "Pinot Grigio (Pinot Gris) is a white grape variety, widely grown in Italy and Alsace, producing light, crisp white wines."
+  },
+  {
+    "id": 28,
+    "category": "Grape Varieties",
+    "question": "Tempranillo is the main grape variety of which country?",
+    "options": ["France", "Italy", "Spain", "Germany"],
+    "correctAnswer": 2,
+    "explanation": "Tempranillo is Spain's most important red grape variety, used in Rioja and Ribera del Duero. It produces wines with flavours of strawberry, plum, and leather."
+  },
+  {
+    "id": 29,
+    "category": "Types of Wine",
+    "question": "What makes a wine 'sparkling'?",
+    "options": ["It is stored in glass bottles", "It contains dissolved carbon dioxide", "It is made from white grapes only", "It has high alcohol content"],
+    "correctAnswer": 1,
+    "explanation": "Sparkling wine contains dissolved carbon dioxide, which creates bubbles when the bottle is opened. The CO₂ is either trapped during fermentation or added later."
+  },
+  {
+    "id": 30,
+    "category": "Types of Wine",
+    "question": "What is a fortified wine?",
+    "options": ["A wine with added fruit juice", "A wine with added spirit (grape spirit/brandy)", "A wine with added sugar after fermentation", "A wine aged for over 10 years"],
+    "correctAnswer": 1,
+    "explanation": "Fortified wines have had a grape spirit (brandy) added during or after fermentation, raising the alcohol level. Examples include Port, Sherry, and Madeira."
+  },
+  {
+    "id": 31,
+    "category": "Types of Wine",
+    "question": "What distinguishes a rosé wine from a red wine?",
+    "options": ["Rosé is made from white grapes", "Rosé has shorter skin contact time than red wine", "Rosé is always sweet", "Rosé is a blend of red and white wine"],
+    "correctAnswer": 1,
+    "explanation": "Rosé wine gets its pink colour from a short period of skin contact with red grape skins. The shorter contact time extracts less colour and tannin compared to red wine."
+  },
+  {
+    "id": 32,
+    "category": "Types of Wine",
+    "question": "Which of the following is an example of a fortified wine?",
+    "options": ["Champagne", "Prosecco", "Port", "Beaujolais"],
+    "correctAnswer": 2,
+    "explanation": "Port is a fortified wine from the Douro Valley in Portugal. Grape spirit is added during fermentation to stop it early, leaving residual sugar and increasing alcohol."
+  },
+  {
+    "id": 33,
+    "category": "Types of Wine",
+    "question": "What is the main difference between still wine and sparkling wine?",
+    "options": ["Still wine has higher alcohol", "Sparkling wine contains bubbles (CO₂)", "Still wine is always red", "Sparkling wine is always sweet"],
+    "correctAnswer": 1,
+    "explanation": "The key difference is that sparkling wine contains dissolved carbon dioxide (CO₂), which creates effervescence (bubbles), while still wine does not."
+  },
+  {
+    "id": 34,
+    "category": "Types of Wine",
+    "question": "Sherry is a fortified wine from which country?",
+    "options": ["Portugal", "France", "Italy", "Spain"],
+    "correctAnswer": 3,
+    "explanation": "Sherry is a fortified wine produced in the Jerez region of southern Spain, made primarily from the Palomino grape."
+  },
+  {
+    "id": 35,
+    "category": "Food and Wine Pairing",
+    "question": "Which type of wine generally pairs best with red meat?",
+    "options": ["Light white wine", "Sweet dessert wine", "Full-bodied red wine", "Sparkling wine"],
+    "correctAnswer": 2,
+    "explanation": "Full-bodied red wines with tannin pair well with red meat because the protein and fat in the meat soften the perception of tannin in the wine."
+  },
+  {
+    "id": 36,
+    "category": "Food and Wine Pairing",
+    "question": "What is a key principle of food and wine pairing?",
+    "options": ["Always drink red wine with fish", "Match the weight/body of the wine with the weight of the food", "Sweet food always goes with dry wine", "White wine should never be served with meat"],
+    "correctAnswer": 1,
+    "explanation": "A fundamental principle is to match the body/weight of the wine with the richness/weight of the food. Heavy dishes need fuller wines; lighter dishes need lighter wines."
+  },
+  {
+    "id": 37,
+    "category": "Food and Wine Pairing",
+    "question": "What effect does high-acid food have on a wine with moderate acidity?",
+    "options": ["It makes the wine taste more acidic", "It can make the wine taste flat and flabby", "It has no effect on the wine", "It increases the sweetness of the wine"],
+    "correctAnswer": 1,
+    "explanation": "High-acid food (like a dish with lemon) can make a wine with only moderate acidity taste flat and lacking in freshness by comparison."
+  },
+  {
+    "id": 38,
+    "category": "Food and Wine Pairing",
+    "question": "Which type of wine is traditionally paired with desserts?",
+    "options": ["Dry red wine", "Dry white wine", "Sweet wine", "Rosé wine"],
+    "correctAnswer": 2,
+    "explanation": "Sweet wines pair best with desserts. The general rule is that the wine should be at least as sweet as the food, otherwise the wine can taste thin and acidic."
+  },
+  {
+    "id": 39,
+    "category": "Food and Wine Pairing",
+    "question": "What does tannin in red wine interact with in food?",
+    "options": ["Sugar", "Spice", "Protein and fat", "Acid"],
+    "correctAnswer": 2,
+    "explanation": "Tannins interact with protein and fat, which soften the perception of tannin. This is why tannic red wines pair well with fatty meats and hard cheeses."
+  },
+  {
+    "id": 40,
+    "category": "Wine Tasting",
+    "question": "What are the three main stages of wine tasting?",
+    "options": ["Smell, swirl, sip", "Appearance, nose, palate", "Colour, aroma, finish", "Pour, taste, rate"],
+    "correctAnswer": 1,
+    "explanation": "The systematic approach to wine tasting involves assessing appearance (visual), nose (aromas), and palate (taste, body, finish)."
+  },
+  {
+    "id": 41,
+    "category": "Wine Tasting",
+    "question": "What does 'body' refer to in wine tasting?",
+    "options": ["The shape of the wine bottle", "The weight and fullness of the wine in the mouth", "The colour intensity of the wine", "The length of the finish"],
+    "correctAnswer": 1,
+    "explanation": "Body refers to the perceived weight and richness of a wine in the mouth. Wines can be light-bodied, medium-bodied, or full-bodied. Alcohol, sugar, and extract contribute to body."
+  },
+  {
+    "id": 42,
+    "category": "Wine Tasting",
+    "question": "What does 'finish' or 'length' mean in wine tasting?",
+    "options": ["How long the bottle lasts once opened", "How long the flavours persist after swallowing", "The final step of winemaking", "The amount of sediment in the glass"],
+    "correctAnswer": 1,
+    "explanation": "Finish or length refers to how long the flavours and sensations persist in the mouth after the wine has been swallowed or spat out. A long finish is generally considered a sign of quality."
+  },
+  {
+    "id": 43,
+    "category": "Wine Tasting",
+    "question": "What does high acidity in a wine taste like?",
+    "options": ["Bitter and drying", "Sharp, fresh, and mouth-watering", "Sweet and smooth", "Flat and lifeless"],
+    "correctAnswer": 1,
+    "explanation": "High acidity makes wine taste sharp, fresh, crisp, and mouth-watering. It gives wine its liveliness and is essential for balance."
+  },
+  {
+    "id": 44,
+    "category": "Wine Tasting",
+    "question": "What sensation does tannin create in the mouth?",
+    "options": ["Sweetness", "Fizziness", "A drying, gripping sensation", "Sourness"],
+    "correctAnswer": 2,
+    "explanation": "Tannin creates a drying, astringent, gripping sensation on the gums and inside of the cheeks. It is most commonly found in red wines."
+  },
+  {
+    "id": 45,
+    "category": "Wine Tasting",
+    "question": "Where does tannin in wine primarily come from?",
+    "options": ["The grape juice", "Grape skins, seeds, and stems (and oak barrels)", "Added chemicals", "The fermentation yeast"],
+    "correctAnswer": 1,
+    "explanation": "Tannins are primarily extracted from grape skins, seeds, and stems during maceration. Additional tannin can also come from oak barrel aging."
+  },
+  {
+    "id": 46,
+    "category": "Wine Storage and Service",
+    "question": "What is the ideal serving temperature for a full-bodied red wine?",
+    "options": ["4–7°C", "7–10°C", "15–18°C", "25–30°C"],
+    "correctAnswer": 2,
+    "explanation": "Full-bodied red wines are best served at 15–18°C (room temperature in a cool room). Serving too warm makes the alcohol more prominent; too cold mutes the flavours."
+  },
+  {
+    "id": 47,
+    "category": "Wine Storage and Service",
+    "question": "What is the ideal serving temperature for white and rosé wines?",
+    "options": ["7–13°C", "15–18°C", "20–25°C", "0–4°C"],
+    "correctAnswer": 0,
+    "explanation": "White and rosé wines are best served chilled at 7–13°C. Lighter, crisper whites are served colder, while fuller-bodied whites can be slightly warmer."
+  },
+  {
+    "id": 48,
+    "category": "Wine Storage and Service",
+    "question": "At what temperature should sparkling wine be served?",
+    "options": ["15–18°C", "6–10°C", "20–25°C", "0–3°C"],
+    "correctAnswer": 1,
+    "explanation": "Sparkling wines should be served well chilled at 6–10°C to preserve the bubbles and maintain freshness."
+  },
+  {
+    "id": 49,
+    "category": "Wine Storage and Service",
+    "question": "Why should wine be stored on its side?",
+    "options": ["To save space", "To keep the cork moist and prevent it from drying out", "To improve the flavour", "To prevent sediment from forming"],
+    "correctAnswer": 1,
+    "explanation": "Storing wine on its side keeps the cork in contact with the wine, preventing it from drying out, shrinking, and letting air into the bottle."
+  },
+  {
+    "id": 50,
+    "category": "Wine Storage and Service",
+    "question": "Which of the following conditions is harmful to wine during storage?",
+    "options": ["Cool, constant temperature", "Darkness", "Strong vibrations and temperature fluctuations", "Horizontal bottle position"],
+    "correctAnswer": 2,
+    "explanation": "Wine should be stored in cool, dark, vibration-free conditions with constant temperature. Heat, light, and vibration can all damage wine."
+  },
+  {
+    "id": 51,
+    "category": "Wine Regions",
+    "question": "Which country is the world's largest wine producer?",
+    "options": ["France", "Spain", "Italy", "United States"],
+    "correctAnswer": 2,
+    "explanation": "Italy is consistently one of the world's largest wine producers by volume, competing with France and Spain for the top spot."
+  },
+  {
+    "id": 52,
+    "category": "Wine Regions",
+    "question": "Champagne can only come from where?",
+    "options": ["Anywhere in France", "The Champagne region of France", "Any country that uses the traditional method", "The Loire Valley"],
+    "correctAnswer": 1,
+    "explanation": "Champagne is a protected name that can only be used for sparkling wine produced in the Champagne region of northern France using specific methods."
+  },
+  {
+    "id": 53,
+    "category": "Wine Regions",
+    "question": "Rioja is a famous wine region in which country?",
+    "options": ["Portugal", "Italy", "France", "Spain"],
+    "correctAnswer": 3,
+    "explanation": "Rioja is one of Spain's most famous wine regions, primarily known for red wines made from the Tempranillo grape."
+  },
+  {
+    "id": 54,
+    "category": "Wine Regions",
+    "question": "Which New World country is known for its Malbec wines?",
+    "options": ["Chile", "South Africa", "Argentina", "New Zealand"],
+    "correctAnswer": 2,
+    "explanation": "Argentina, particularly the Mendoza region, is famous for its Malbec wines — full-bodied reds with plum, blackberry, and violet flavours."
+  },
+  {
+    "id": 55,
+    "category": "Wine Regions",
+    "question": "Sauvignon Blanc from New Zealand is most associated with which region?",
+    "options": ["Hawke's Bay", "Central Otago", "Marlborough", "Canterbury"],
+    "correctAnswer": 2,
+    "explanation": "Marlborough in New Zealand is world-famous for its intensely aromatic Sauvignon Blanc wines with vibrant flavours of passion fruit, gooseberry, and cut grass."
+  },
+  {
+    "id": 56,
+    "category": "Wine Regions",
+    "question": "What does 'Old World' refer to in wine terminology?",
+    "options": ["Wines that have been aged for a long time", "Wine-producing countries in Europe", "Wines made using ancient techniques only", "Wines from before the year 2000"],
+    "correctAnswer": 1,
+    "explanation": "Old World refers to the traditional wine-producing countries of Europe — primarily France, Italy, Spain, Germany, and Portugal."
+  },
+  {
+    "id": 57,
+    "category": "Wine Regions",
+    "question": "Which of these is considered a 'New World' wine country?",
+    "options": ["France", "Spain", "Australia", "Italy"],
+    "correctAnswer": 2,
+    "explanation": "New World wine countries include Australia, New Zealand, USA, Chile, Argentina, and South Africa — countries that began winemaking after European colonisation."
+  },
+  {
+    "id": 58,
+    "category": "Wine Regions",
+    "question": "The Douro Valley is famous for producing which type of wine?",
+    "options": ["Champagne", "Chianti", "Port", "Riesling"],
+    "correctAnswer": 2,
+    "explanation": "The Douro Valley in northern Portugal is the home of Port wine, a fortified wine made by adding grape spirit during fermentation."
+  },
+  {
+    "id": 59,
+    "category": "Responsible Service",
+    "question": "What is the main health risk associated with excessive alcohol consumption?",
+    "options": ["Improved cardiovascular health", "Liver disease, addiction, and increased accident risk", "Better sleep quality", "Enhanced cognitive function"],
+    "correctAnswer": 1,
+    "explanation": "Excessive alcohol consumption can lead to liver disease, alcohol dependency, increased risk of accidents, and various other health problems."
+  },
+  {
+    "id": 60,
+    "category": "Responsible Service",
+    "question": "What does ABV stand for?",
+    "options": ["Added By Volume", "Alcohol By Volume", "Average Bottle Value", "Acidity Balance Value"],
+    "correctAnswer": 1,
+    "explanation": "ABV stands for Alcohol By Volume, which indicates the percentage of alcohol in a drink. Most wines range from about 8% to 15% ABV."
+  },
+  {
+    "id": 61,
+    "category": "Responsible Service",
+    "question": "What is a standard measure of wine in the UK?",
+    "options": ["250ml only", "125ml or 175ml", "500ml", "330ml"],
+    "correctAnswer": 1,
+    "explanation": "In the UK, wine is typically served in measures of 125ml (small) or 175ml (standard). A large glass is 250ml. All measures should be offered to customers."
+  },
+  {
+    "id": 62,
+    "category": "Responsible Service",
+    "question": "Which of these factors affects how quickly alcohol is absorbed?",
+    "options": ["The colour of the drink", "Whether food has been consumed", "The shape of the glass", "The brand of wine"],
+    "correctAnswer": 1,
+    "explanation": "Eating food slows alcohol absorption. Other factors include body weight, metabolism, gender, and the rate of consumption."
+  },
+  {
+    "id": 63,
+    "category": "Wine Production",
+    "question": "What is the purpose of crushing grapes in winemaking?",
+    "options": ["To remove the seeds", "To break the skins and release the juice", "To add oxygen to the wine", "To remove the stems only"],
+    "correctAnswer": 1,
+    "explanation": "Crushing breaks open the grape skins to release the juice inside. This is one of the first steps in the winemaking process."
+  },
+  {
+    "id": 64,
+    "category": "Wine Production",
+    "question": "What is 'lees' in winemaking?",
+    "options": ["The grape stems", "Dead yeast cells and sediment that settle after fermentation", "A type of grape variety", "The cork used to seal bottles"],
+    "correctAnswer": 1,
+    "explanation": "Lees are the dead yeast cells and other particles that settle at the bottom of the vessel after fermentation. Some wines are aged on their lees for added texture and flavour."
+  },
+  {
+    "id": 65,
+    "category": "Wine Production",
+    "question": "What is the typical alcohol range for most wines?",
+    "options": ["2–5% ABV", "5.5–16% ABV", "18–25% ABV", "30–40% ABV"],
+    "correctAnswer": 1,
+    "explanation": "Most still wines range from about 5.5% to 16% ABV. Fortified wines are higher (15–22% ABV) due to the addition of grape spirit."
+  },
+  {
+    "id": 66,
+    "category": "Wine Production",
+    "question": "What is the main difference between red and white winemaking?",
+    "options": ["Red wine uses different yeast", "Red wine involves skin contact during fermentation", "White wine is never fermented", "Red wine is always aged in oak"],
+    "correctAnswer": 1,
+    "explanation": "The main difference is that red winemaking involves fermenting the juice with the grape skins (maceration) to extract colour and tannin, while white wine is fermented without skin contact."
+  },
+  {
+    "id": 67,
+    "category": "Wine Tasting",
+    "question": "What colour might indicate an older red wine?",
+    "options": ["Deep purple", "Bright ruby", "Garnet or tawny/brown rim", "Bright pink"],
+    "correctAnswer": 2,
+    "explanation": "As red wines age, they lose colour intensity and develop garnet, brick, or tawny/brown hues, particularly at the rim of the glass."
+  },
+  {
+    "id": 68,
+    "category": "Wine Tasting",
+    "question": "What does the term 'aroma' refer to in wine?",
+    "options": ["The taste of the wine", "The smell of the wine", "The colour of the wine", "The texture of the wine"],
+    "correctAnswer": 1,
+    "explanation": "Aroma refers to the smells perceived when nosing a wine. Primary aromas come from the grape, secondary from fermentation, and tertiary from ageing."
+  },
+  {
+    "id": 69,
+    "category": "Wine Tasting",
+    "question": "Why do we swirl wine in the glass?",
+    "options": ["To warm it up", "To release aromas by increasing the wine's surface area", "To check for sediment", "To mix in any additives"],
+    "correctAnswer": 1,
+    "explanation": "Swirling wine in the glass increases the surface area exposed to air, releasing volatile aromatic compounds and making the aromas more perceptible."
+  },
+  {
+    "id": 70,
+    "category": "Grape Growing",
+    "question": "What is phylloxera?",
+    "options": ["A type of grape", "A vine pest (aphid-like insect) that attacks vine roots", "A winemaking technique", "A type of soil"],
+    "correctAnswer": 1,
+    "explanation": "Phylloxera is a devastating aphid-like pest that feeds on vine roots. It devastated European vineyards in the 19th century. Most vines are now grafted onto resistant American rootstocks."
+  },
+  {
+    "id": 71,
+    "category": "Wine Storage and Service",
+    "question": "What is the purpose of decanting wine?",
+    "options": ["To make the wine colder", "To separate wine from sediment and/or aerate it", "To add flavour to the wine", "To measure the exact serving amount"],
+    "correctAnswer": 1,
+    "explanation": "Decanting serves two purposes: separating the wine from any sediment (in older wines) and aerating the wine (in younger wines) to help open up its aromas and soften tannins."
+  },
+  {
+    "id": 72,
+    "category": "Wine Regions",
+    "question": "Chianti is a wine region in which country?",
+    "options": ["France", "Spain", "Italy", "Greece"],
+    "correctAnswer": 2,
+    "explanation": "Chianti is a well-known wine region in Tuscany, Italy, producing red wines primarily from the Sangiovese grape."
+  },
+  {
+    "id": 73,
+    "category": "Wine Regions",
+    "question": "Which grape variety is most associated with the Mosel region in Germany?",
+    "options": ["Chardonnay", "Gewürztraminer", "Riesling", "Müller-Thurgau"],
+    "correctAnswer": 2,
+    "explanation": "The Mosel is one of Germany's most prestigious wine regions and is particularly renowned for its high-quality Riesling wines."
+  },
+  {
+    "id": 74,
+    "category": "Grape Varieties",
+    "question": "Which grape variety is most commonly used in Prosecco?",
+    "options": ["Chardonnay", "Pinot Noir", "Glera", "Riesling"],
+    "correctAnswer": 2,
+    "explanation": "Prosecco is made primarily from the Glera grape. It is produced mainly in the Veneto and Friuli Venezia Giulia regions of northeast Italy."
+  },
+  {
+    "id": 75,
+    "category": "Types of Wine",
+    "question": "What is the 'traditional method' for making sparkling wine?",
+    "options": ["Fermenting in large tanks", "A second fermentation in the bottle", "Adding CO₂ artificially", "Fermenting in oak barrels"],
+    "correctAnswer": 1,
+    "explanation": "The traditional method (méthode traditionnelle) involves a second fermentation taking place inside the bottle, which creates the bubbles. This is the method used for Champagne."
+  },
+  {
+    "id": 76,
+    "category": "Food and Wine Pairing",
+    "question": "Why does Sauvignon Blanc pair well with goat's cheese?",
+    "options": ["They are from the same region", "The wine's high acidity cuts through the richness of the cheese", "The wine is sweet", "The wine has high tannin"],
+    "correctAnswer": 1,
+    "explanation": "Sauvignon Blanc's high acidity cuts through the creamy richness of goat's cheese, creating a balanced and refreshing pairing. Both also originate from the Loire Valley."
+  },
+  {
+    "id": 77,
+    "category": "Food and Wine Pairing",
+    "question": "Salty foods are best paired with which style of wine?",
+    "options": ["High-tannin red wines", "Wines with a touch of sweetness or high acidity", "Very oaky wines", "Fortified wines"],
+    "correctAnswer": 1,
+    "explanation": "Salty foods pair well with wines that have a touch of sweetness (like off-dry Riesling) or refreshing acidity, as these balance the salt."
+  },
+  {
+    "id": 78,
+    "category": "Wine Production",
+    "question": "What is 'cap management' in red winemaking?",
+    "options": ["Putting caps on bottles", "Managing the layer of skins that floats on top during fermentation", "Quality control testing", "Removing the cork from a bottle"],
+    "correctAnswer": 1,
+    "explanation": "During red wine fermentation, grape skins float to the top forming a 'cap'. This must be managed (by punching down or pumping over) to maximise colour and flavour extraction."
+  },
+  {
+    "id": 79,
+    "category": "Wine Production",
+    "question": "What is malolactic fermentation?",
+    "options": ["The main alcoholic fermentation", "A conversion of sharp malic acid into softer lactic acid", "Adding acid to wine", "A method of carbonating wine"],
+    "correctAnswer": 1,
+    "explanation": "Malolactic fermentation (MLF) is a secondary process where bacteria convert sharp malic acid (like green apple) into softer lactic acid (like milk), giving wines a rounder, creamier mouthfeel."
+  },
+  {
+    "id": 80,
+    "category": "Wine Tasting",
+    "question": "A wine described as 'balanced' means what?",
+    "options": ["It has equal amounts of red and white grapes", "Its components (acidity, tannin, alcohol, sweetness, fruit) are in harmony", "It is exactly 50% sweet and 50% dry", "It is blended from two grape varieties"],
+    "correctAnswer": 1,
+    "explanation": "A balanced wine is one where no single component (acidity, tannin, alcohol, sweetness, body, fruit) dominates. All elements work together in harmony."
+  }
+]
